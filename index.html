@@ -57,19 +57,19 @@
 		<p>Last List Update: 7/18/18</p>
 		<div id="app">
 			<div v-for="day in days">
-				<h2>{{day}}</h2>
+				<h2>{{day}}s</h2>
 				<ul>
 					<li v-for="venue in venue_lookup(day)">
 						{{venue.name}}
 						<ul>
 							<li>Venue: <a v-bind="{href:venue.url}">{{venue.venue}}</a></li>
 							<li>Showtime: {{venue.showtime}}</li>
-							<li v-if="typeof(venue.booker) == 'object' && venue.booker.length=='undefined'">Booker: <a v-bind="{href:venue.booker.url}">{{venue.booker.name}}</a></li>
 							<li v-if="typeof(venue.booker) == 'object' && venue.booker.length==2">
 								Booker:
 								<a v-bind="{href:venue.booker[0].url}">{{venue.booker[0].name}}</a> and
 								<a v-bind="{href:venue.booker[1].url}">{{venue.booker[1].name}}</a>
 							</li>
+							<li v-else-if="venue.booker">Booker: <a v-bind="{href:venue.booker.url}">{{venue.booker.name}}</a></li>
 							<li v-html="'Notes: ' + venue.notes"></li>
 
 						</ul>
