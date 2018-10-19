@@ -1,294 +1,130 @@
 <!DOCTYPE html>
 <html lang="en">
-	<head>
-		<title>Stand-up comedy open mics - Twin Cities (Minneapolis/St Paul).
-		</title>
-		<meta charset="utf-8"/>
-		<meta http-equiv="x-ua-compatible" content="IE=edge"/>
-		<meta name="viewport" content="width=device-width, 
-			initial-scale=1"/>
-		<meta name="description" content="Stand up comedy open mics in the Twin cities.">
-		<link rel="shortcut icon" href="favicon.ico"/>
-		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb" crossorigin="anonymous"/>
 
-		<!-- Global site tag (gtag.js) - Google Analytics -->
-		<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108586876-1"></script>
-		<script>
-			window.dataLayer = window.dataLayer || [];
-			function gtag(){dataLayer.push(arguments);}
-			gtag('js', new Date());
+<head>
+	<title>Stand-up comedy open mics - Twin Cities (Minneapolis/St Paul).
+	</title>
+	<meta charset="utf-8" />
+	<meta http-equiv="x-ua-compatible" content="IE=edge" />
+	<meta name="viewport" content="width=device-width, 
+			initial-scale=1" />
+	<meta name="description" content="Stand up comedy open mics in the Twin cities.">
+	<link rel="shortcut icon" href="favicon.ico" />
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css" integrity="sha384-PsH8R72JQ3SOdhVi3uxftmaW6Vc51MKb0q5P2rRUpPvrszuE4W1povHYgTpBfshb"
+	 crossorigin="anonymous" />
+	<script src="https://cdn.jsdelivr.net/npm/vue@2.5.17/dist/vue.js"></script>
+	<script src="https://code.jquery.com/jquery-3.3.1.min.js"></script>
 
-			gtag('config', 'UA-108586876-1');
-		</script>
-		<style>
-			.container-fluid {
-				padding: 2em;
-				margin-bottom: 10em;
-			}
-		</style>
-	</head>
-	<body lang="en">
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-108586876-1"></script>
+	<script>
+		window.dataLayer = window.dataLayer || [];
+		function gtag() { dataLayer.push(arguments); }
+		gtag('js', new Date());
+
+		gtag('config', 'UA-108586876-1');
+	</script>
+	<style>
+		.container-fluid {
+			padding: 2em;
+			margin-bottom: 10em;
+		}
+	</style>
+</head>
+
+<body lang="en">
 	<div class="container-fluid">
 		<h1>Stand-up Comedy Open mics in the Twin Cities.</h1>
 		<p class="lead">
-		To add a new mic or make changes to this page,
-		fork this <a href="https://github.com/senthilrajasek/twin-cities-standup-open-mics"> repo </a>
-		 and submit a pull request. 
-		</p> 
-		<p>
-		<small>
-		 This github <a href="https://help.github.com/articles/creating-a-pull-request-from-a-fork/">help</a> page tells you everything you need to know about
-		 creating forks and submitting a pull request.
-		</small>
+			To add a new mic or make changes to this page,
+			fork this <a href="https://github.com/senthilrajasek/twin-cities-standup-open-mics"> repo </a>
+			and submit a pull request.
 		</p>
 		<p>
-		There is a spreadsheet of non open mic gigs. please contact them directly for add/remove requests. contact info should be in the sheet.
-		<a href="https://docs.google.com/spreadsheets/d/1CjE_SjglmgoZ6He0ZyvU63ETccQeNODvfDQcEbLXLkw/edit#gid=0">
-			https://docs.google.com/spreadsheets/d/1CjE_SjglmgoZ6He0ZyvU63ETccQeNODvfDQcEbLXLkw/edit#gid=0</a>
+			<small>
+				This github <a href="https://help.github.com/articles/creating-a-pull-request-from-a-fork/">help</a> page tells you
+				everything you need to know about
+				creating forks and submitting a pull request.
+			</small>
+		</p>
+		<p>
+			There is a spreadsheet of non open mic gigs. please contact them directly for add/remove requests. contact info
+			should be in the sheet.
+			<a href="https://docs.google.com/spreadsheets/d/1CjE_SjglmgoZ6He0ZyvU63ETccQeNODvfDQcEbLXLkw/edit#gid=0">
+				https://docs.google.com/spreadsheets/d/1CjE_SjglmgoZ6He0ZyvU63ETccQeNODvfDQcEbLXLkw/edit#gid=0</a>
 		</p>
 
 		<p>Last List Update: 7/18/18</p>
+		<div id="app">
+			<div v-for="day in days">
+				<h2>{{day}}</h2>
+				<ul>
+					<li v-for="venue in venue_lookup(day)">
+						{{venue.name}}
+						<ul>
+							<li>Venue: <a v-bind="{href:venue.url}">{{venue.venue}}</a></li>
+							<li>Showtime: {{venue.showtime}}</li>
+							<li v-if="typeof(venue.booker) == 'object' && venue.booker.length=='undefined'">Booker: <a v-bind="{href:venue.booker.url}">{{venue.booker.name}}</a></li>
+							<li v-if="typeof(venue.booker) == 'object' && venue.booker.length==2">
+								Booker:
+								<a v-bind="{href:venue.booker[0].url}">{{venue.booker[0].name}}</a> and
+								<a v-bind="{href:venue.booker[1].url}">{{venue.booker[1].name}}</a>
+							</li>
+							<li v-html="'Notes: ' + venue.notes"></li>
 
-<h2>Mondays</h2>
-
-<ul>
-<li>
-The Monday Night Comedy Show (Weekly)
-<ul>
-	<li>Showtime: 8pm</li>
-	<li>Venue: <a href="http://clubunderground.us/" target="_blank">Club Underground at the Spring Street Tavern- NE Minneapolis</a></li>
-	<li>Booker:<a href="https://www.facebook.com/brynildson" target="_blank">Andy Brynildson</a></li>
-	<li>Notes: Audience admission $5. Booked showcase. Must attend one show prior to booking. Everyone gets on at least once. Message Andy on FB for a spot or talk to him after the show, do not contact club. There is a wild card slot for 5 minutes in the 2nd act.  If chosen, you get your $4 back plus a drink ticket. </li>
-</ul>
-</li>
-
-<li>
-Acme Comedy Company (Weekly)
-<ul>
-	<li>Showtime: 8pm</li>
-	<li>Venue: <a href="http://acmecomedycompany.com/">Acme Comedy Club - Downtown Minneapolis</a></li>
-	<li>Notes: 6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm.</li>
-</ul>
-</li>
-<li>
-Uncle Dan's Chucklefest (Weekly)
-<ul>
-	<li>Showtime: 8pm</li>
-	<li>Venue: <a href="https://56brewing.com" target="_blank">56 Brewing</a></li>
-	<li>Booker: <a href="https://www.facebook.com/danjarmstrong" target="_blank">Dan Armstrong</a></li>
-	<li>Notes: Sign up in person before 7:59 for open mic slots. Contact Dan on FB for juicy pre-booked slots. And check the poorly managed FB page Uncle Dans Chucklefest every day of your life.</li>
-</ul>
-</li>
-<li>
-Camp Bar Open Mic Night (Weekly except for 1st Monday of the month)
-<ul>
-	<li>Showtime: 9:30pm</li>
-	<li>Venue: <a href="http://camp-bar.net/OpenMic" target="_blank">Camp Bar - St. Paul</a></li>
-	<li>Booker: Robert Cudinski</li>
-	<li>Notes: Sign-up at 9:00pm, stage opens immediately after sign-up. Each performer gets 7 minutes. Performances can be recorded and will be put up on the AQObserver YouTube channel. MC is Robert Cudinski, former host of the Artist's Quarter open mic."Poets, Musicians, Comics, Magicians, Fools and Sages welcome."</li>
-</ul>
-</li>
-</ul> <!-- Mondays -->
-
-<h2>Tuesdays</h2>
-<ul>
-	<li>Another Tuesday Open Mic (1st and 3rd Tuesday of every month)
-	<ul>
-		<li>Showtime: 7-8</li>
-		<li>Venue: <a href="http://minneapoliseagles34.org" target="_blank">Minneapolis Eagles #34</a></li>
-		<li>Booker: <a href="mailto:gbdogtraining@gmail.com">Gretchen Colleen</a></li>
-<li> Notes: Sign-up in person at 6:45. 4-5 minutes depending on how many comics show up. Working to build a monthly showcase. 1st and 3rd Tuesdays. The first Tuesday of the month is a comedy workshop. The third Tuesday is a pre-booked showcase, with 2-3 wildcards. If you attend the first Tuesday, the chance to be on the showcase is greater. The room is located behind the bar, in the Buechner Room.</li>
-	</ul>
-</li>
-
-<li>
-Triple Threat Tuesdays (Weekly)
-<ul>
-	<li>Showtime: 7:30pm</li>
-	<li>Venue: <a href="https://moa.houseofcomedy.net/" target="_blank">Rick Bronson's House of Comedy at the Mall Of America - Bloomington</a></li>
-	<li>Booker: <a href="mailto:brody@houseofcomedy.net">Mike Brody</a></li>
-	<li>Notes: Pre-booked showcase, typically with a 2-6 week waiting list depending on how many people have signed up ahead of time. Comics get five minutes of time. Email Mike Brody at <a href="mailto:brody@houseofcomedy.net">brody@houseofcomedy.net</a> for spot.  Tickets are $4, along with $4 appetizers and select $4 drinks. Also, each week there are three "Wildcard spots" available for people who didn't sign up ahead of time. If you get to the HoC before 7:15 I will put your name on a list and draw three names. Those three people will get the 1st. 2nd and 3rd spot, respectively, after the MC.</li>
-</ul>
-</li>
-<li>
-Red Menace (Weekly)
-<ul>
-	<li>Showtime: 8:30</li>
-	<li>Venue: <a href="https://www.eriktheredbar.com/" target="_blank">Erik The Red</a></li>
-	<li>Booker: <a href="https://www.facebook.com/bryan.miller.754570" target="_blank">Bryan Miller</a></li>
-	<li>Notes: Sign up is 7:45-8:15</li>
-</ul>
-</li>
-
-<li>
-	VFW Comedy Night (3rd Tuesday of every month)
-	<ul>
-		<li>Showtime: 8:30</li>
-		<li>Venue: <a target="_blank" href="https://uptownvfw246.org/">Minneapolis Uptown VFW</a></li>
-		<li>Booker: <a href="https://www.facebook.com/hessley.rey?fref=ts" target="_blank">Hessley Rey</a></li>
-		<li>Notes: Pre-booked. Sign up with Hessley on Facebook.</li>
-	</ul>
-</li>
-</ul>
-
-<h2>Wednesdays</h2>
-<ul>
-<li>
-Comedy At The Crane (Weekly)
-<ul>
-	<li>Showtime: 8pm</li>
-	<li>Venue: <a href="http://www.undergroundmusiccafe.com/" target="_blank">Underground Music Cafe</a></li>
-	<li>Booker: <a href="mailto:Comedyatthecrane@gmail.com">Seth Plunkett</a></li>
-	<li>
-Notes: Sign up 7-7:45pm. You can also call Seth at 612-209-6641. Each comic gets three minutes of time. Recording is available.&nbsp; Check us out at <a href="http://instagram.com/comedyatthecrane" target="_blank">instagram.com/comedyatthecrane</a> and <a href="http://facebook.com/comedyatthecrane" target="_blank">facebook.com/comedyatthecrane</a>
-	</li>
-</ul>
-</li>
-<li>
-Laughs & Legends <strong>(Last Wednesday of the month)</strong>
-<ul>
-	<li>Showtime: 7:30pm</li>
-	<li>Venue: <a href="http://lakesandlegends.com/" target="_blank">Lakes &amp; Legends Brewery</a></li>
-	<li>Booker:<a href="mailto:bnocdemo@yahoo.com">Ira Ford</a><br />
-	<li>Notes: Doors open at 7:30.&nbsp;A showcase for comics by comics with a mini contest called the Amature Six. Where two newer comics that have been doing comedy for NO MORE than 11 months go head to head. Three mins a piece for a six minute spot on the next show. We'll be giving away prizes to the audience in a raffle form given by Top Ten Liquors prizes from cups, mugs to gift cards for all Top Ten stores. The other comics get 10 minutes the closer will get 15. It's a little under 70 mins if you park in the garage the bartender has validations for that, if you're lucky enough to get street parking it's free after a certain hour. The showcase is held in the back of the establishment in the private room holds up to 50 people.
-</li>
-</ul>
-</li>
-<li>
-Stand Up St. Paul (Monthly)
-<ul>
-	<li>Showtime: 7pm</li>
-	<li>Venue:<a href="http://www.amsterdambarandhall.com/" target="_blank">Amsterdam Bar and Hall</a></li>
-	<li>Booker: <a href="mailto:adelong8806@gmail.com">Adam DeLong</a></li>
-	<li> Notes: A new open mic on the East Side of our cities, aiming for a monthly Wednesday night show. Follow the <a href="https://www.facebook.com/events/661997620851842/" target="_blank">facebook invite</a> for the most current info. Sign up at the bar from 5-6pm, 25 spots, comics will be chosen at random if more than 25 people sign up. List comes out at 6:30, show starts at 7. 3 minutes sets. Looking to make this a monthly midweek thing but have to work around bands so can't commit to a certain week yet.
-	</li>
-</ul>
-</li>
-</ul>
-<h2>Thursdays</h2>
-<ul>
-<li>
-Wayzata Brew Works Open Mic <strong>(First and third Thursday of the month)</strong>
-<ul>
-	<li>Showtime: 7pm</li>
-	<li>Venue: <a href="http://www.wayzatabrewworks.com/" target="_blank">Wayzata Brew Works</a></li>
-	<li>Booker: <a href="mailto:Wberkowitz@aol.com">Wendy Berkowitz</a></li>
-	<li>Notes: Spots are pre-booked. Message Wendy on <a href="https://www.facebook.com/wendy.berkowitz.5" target="_blank">Facebook</a> or <a href="mailto:Wberkowitz@aol.com">email</a> or <a href="https://twitter.com/wendycomedy" target="_blank">Twitter </a>with your booking request. Each comic will get 5 or so minutes and a free beer. There will also be a headliner each week that will get extra time and a small stipend. Sometimes there is a show on the fifth Thursday of the month if that month has a fifth Thursday.</li>
-</ul>
-</li>
-
-<li>
-Flat Earth Brewery Open Mic
-<strong>2nd & 4th Thursday of the month</strong>
-<ul>
-<li>Showtime: 7pm</li>
-<li>Venue: <a href="http://www.flatearthbrewing.com/home.php" target="_blank">Flat Earth Brewery</a></li>
-<li>Booker: <a href="mailto:BrianMcDanielComedy@gmail.com">Brian McDaniel
-</a></li>
-<li>Notes: Sign up from 6 to 6:30.
-List posted at<span>6:45</span>. A drink ticket will be issued to each 
-performer.There will also be a headliner each week who will get extra time.
-</li>
-</ul>
-</li>
-
-<li>
-Lack Of Beards (Weekly)
-<ul>
-<li>Showtime: 8:30</li>
-<li>Venue: <a href="http://www.theterminalbar409.com/" target="_blank">Terminal Bar</a></li>
-<li>Booker: <a href="https://www.facebook.com/hobbleDhoi" target="_blank">Ahmed Khalaf</a> &amp; <a href="https://www.facebook.com/DrewHehir" target="_blank">Drew Hehir</a></li>
-<li>Notes: Sign up before the show in person.</li>
-</ul>
-</li>
-
-<li>Sisyphus Brewing Open Mic (Weekly)
-<ul>
-<li>Showtime: 8-9pm</li>
-<li>Venue: <a href="http://www.sisyphusbrewing.com/" target="_blank">Sisyphus Brewing</a></li>
-<li>Booker: <a href="https://www.facebook.com/coreyadamcomedy" target="_blank">Corey Adam</a></li>
-<li>Notes: Open mic sign up from 6:30-7:30pm with the list posted at 7:45.</li>
-</ul>
-</li>
-
-<li>
-Galactic Pizza Open Mic (Weekly)
-<ul>
-<li>Showtime: 10pm</li>
-<li>Venue: <a href="http://www.galacticpizza.com/" target="_blank" >Galactic Pizza - Uptown Minneapolis</a></li>
-<li>Booker: <a href="https://www.facebook.com/MikeSLinden?fref=ts" target="_blank" >Mike Linden</a></li>
-<li>Notes: Sign-up at 9:30pm. Message Mike Linden before on FB or show up.
-</li>
-</ul>
-</li>
-</ul>
-
-<h2>Fridays</h2>
-<ul>
-<li>
-Friday Open Mic Night (Weekly)
-<ul>
-<li>Showtime: 10:15pm</li>
-<li>Venue:<a href="http://comedycornerunderground.com/">
-The Comedy Corner Underground (Basement of The Corner Bar)- Minneapolis</a>
-</li>
-<li>Booker: Bob Edwards</li>
-<li>Notes: <a href="http://ccug.co/mic/" target="_blank">Online sign-up (click here)</a>
-starting noon on Fridays</li>
-</ul>
-</li>
-</ul>
-
-<h2>Saturdays</h2>
-<ul>
-<li>
-BALLS Cabaret (Weekly)
-<ul>
-<li>Showtime: Midnight-1:30am</li>
-<li>Venue: <a href="http://www.southerntheater.org/" target="_blank">The Southern Theater</a></li>
-<li>Booker: Leslie Ball</li>
-<li>Notes: Variety performance show which includes comedy. This is a sober event for the performers and the audience. Preference is that you've seen one show before you perform, but 
-exceptions may be made. Call week ahead at(612) 340-0155 or arrive
-between 11:30-11:45 day of and fill out card if it's your first time. 
-Performers get 7 minutes stage time. Theater performance venue, so no 
-light and mic is not always available and comics may have to project voice.
-</li>
-</ul>
-</li>
-</ul>
-
-<h2>Sundays</h2>
-<ul>
-<li>
-Finnish Your Thought Open Mic (Weekly)
-<ul>
-<li>Showtime: 7pm</li>
-<li>Venue  <a href="http://finnishbistro.com/" target="_blank">The Finnish Bistro</a></li>
-<li>Booker - <a href="https://www.facebook.com/people/Connor-Hangsleben/100009981645074" target="_blank">Connor Hangsleben</a></li>
-
-<li>Notes - No cover. Sign-up is from 6-6:45pm in person. Show ends when the restaurant closes at 8:30pm. Get there early to take advantage of happy hour specials from5-7pm.
-</li>
-</ul>
-<li>
-Bunny's Funnies Comedy Open Mic Showcase (Weekly
-<ul>
-<li>Showtime: 7:30pm
-</li>
-<li>Venue: <a href="https://bunnysbarandgrill.com/ne-menu/" target="_blank" style="">Bunny's NE</a></li>
-<li>Booker: <a href="mailto:trish@heytrish.com">Trish Cook</a></li>
-<li>Notes: Prebooked with wild card spot(s).&nbsp;Get to Bunny's NE before&nbsp;7:00 pm&nbsp;to enter for Wild Card Spot. Email Trish at&nbsp;<a href="mailto:trish@heytrish.com" target="_blank" style="">trish@heytrish.com</a>&nbsp;or check out our Facebook page @bunnysfunnies or&nbsp;<br /><a href="http://facebook.com/pg/BunnysFunnies" target="_blank" style="">facebook.com/pg/BunnysFunnies</a>
-</li>
-</ul>
-</li>
-<li>
-Free Market Comedy (Weekly)
-<ul>
-	<li>Showtime - 10pm</li>
-	<li>Venue - <a href="http://twostooges.com/" target="_blank">Two Stooges Sports Bar</a>
-	<li>Booker - <a href="mailto:coreyadamcomedy@gmail.com">Corey Adam</a>
-	<li>Notes - No cover. Headliners close out the show. Hosted by Corey Adam. "Sign up, get up". Everyone gets time, hopefully.</li>
-</li>
-</ul><!-- Sundays -->
-</div> <!-- container-fluid -->
+						</ul>
+					</li>
+				</ul>
+			</div>
+		</div>
+	</div> <!-- container-fluid -->
+	<script>
+		var app = new Vue({
+			el: '#app',
+			data: {
+				days: [
+					"Monday",
+					"Tuesday",
+					"Wednesday",
+					"Thursday",
+					"Friday",
+					"Saturday",
+					"Sunday",
+				],
+				venues: [{
+					"name": "",
+					"venue": "",
+					"url": "",
+					"booker": {
+						"name": "",
+						"url": ""
+					},
+					"days": {
+						"sunday": null,
+						"monday": null,
+						"tuesday": null,
+						"wednesday": null,
+						"thursday": null,
+						"friday": null,
+						"saturday": null
+					},
+					"notes": ""
+				}]
+			},
+			methods: {
+				venue_lookup: function (day) {
+					return this.venues.filter(function (v) {
+						day = day.toLowerCase();
+						v.showtime = v.days[day];
+						return v.days[day]
+					})
+				}
+			}
+		})
+		$.getJSON("data.json", function (data) {
+			app.venues = data;
+		});
+	</script>
 </body>
+
 </html>

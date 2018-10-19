@@ -1,0 +1,401 @@
+[
+    {
+        "name": "The Monday Night Comedy Show (Weekly)",
+        "venue": "Club Underground at the Spring Street Tavern - NE Minneapolis",
+        "url": "http://clubunderground.us/",
+        "booker": {
+            "name": "Andy Brynildson",
+            "url": "https://www.facebook.com/brynildson"
+        },
+        "days": {
+            "sunday": null,
+            "monday": "8:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Audience admission $5. Booked showcase. Must attend one show prior to booking. Everyone gets on at least once. Message Andy on FB for a spot or talk to him after the show, do not contact club. There is a wild card slot for 5 minutes in the 2nd act. If chosen, you get your $4 back plus a drink ticket."
+    },
+    {
+        "name": "Acme Comedy Company (Weekly)",
+        "venue": "Acme Comedy Club - Downtown Minneapolis",
+        "url": "http://acmecomedycompany.com/",
+        "days": {
+            "sunday": null,
+            "monday": "8:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm."
+    },
+    {
+        "name": "Uncle Dan's Chucklefest (Weekly)",
+        "venue": "56 Brewing",
+        "url": "https://56brewing.com/",
+        "booker": {
+            "name": "Dan Armstrong",
+            "url": "https://www.facebook.com/danjarmstrong"
+        },
+        "days": {
+            "sunday": null,
+            "monday": "8:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Sign up in person before 7:59 for open mic slots. Contact Dan on FB for juicy pre-booked slots. And check the poorly managed FB page Uncle Dans Chucklefest every day of your life."
+    },
+    {
+        "name": "Camp Bar Open Mic Night (Weekly except for 1st Monday of the month)",
+        "venue": "Camp Bar - St. Paul",
+        "url": "http://camp-bar.net/OpenMic",
+        "booker": {
+            "name": "Robert Cudinski",
+            "url": null
+        },
+        "days": {
+            "sunday": null,
+            "monday": "9:30pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Sign-up at 9:00pm, stage opens immediately after sign-up. Each performer gets 7 minutes. Performances can be recorded and will be put up on the AQObserver YouTube channel. MC is Robert Cudinski, former host of the Artist's Quarter open mic.\"Poets, Musicians, Comics, Magicians, Fools and Sages welcome.\""
+    },
+    {
+        "name": "Another Tuesday Open Mic (1st and 3rd Tuesday of every month)",
+        "venue": "Minneapolis Eagles #34",
+        "url": "http://minneapoliseagles34.org/",
+        "booker": {
+            "name": "Gretchen Colleen",
+            "url": "mailto: gbdogtraining@gmail.com"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": "7:00pm - 8:00pm",
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Sign-up in person at 6:45. 4-5 minutes depending on how many comics show up. Working to build a monthly showcase. 1st and 3rd Tuesdays. The first Tuesday of the month is a comedy workshop. The third Tuesday is a pre-booked showcase, with 2-3 wildcards. If you attend the first Tuesday, the chance to be on the showcase is greater. The room is located behind the bar, in the Buechner Room."
+    },
+    {
+        "name": "Triple Threat Tuesdays (Weekly)",
+        "venue": "Rick Bronson's House of Comedy at the Mall Of America - Bloomington",
+        "url": "https://moa.houseofcomedy.net/",
+        "booker": {
+            "name": "Mike Brody",
+            "url": "mailto: brody@houseofcomedy.net"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": "7:30pm",
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Pre-booked showcase, typically with a 2-6 week waiting list depending on how many people have signed up ahead of time. Comics get five minutes of time. Email Mike Brody at brody@houseofcomedy.net for spot. Tickets are $4, along with $4 appetizers and select $4 drinks. Also, each week there are three \"Wildcard spots\" available for people who didn't sign up ahead of time. If you get to the HoC before 7:15 I will put your name on a list and draw three names. Those three people will get the 1st. 2nd and 3rd spot, respectively, after the MC."
+    },
+    {
+        "name": "Red Menace (Weekly)",
+        "venue": "Erik The Red",
+        "url": "https://www.eriktheredbar.com/",
+        "booker": {
+            "name": "Bryan Miller",
+            "url": "https://www.facebook.com/bryan.miller.754570"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": "8:30pm",
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Sign up is 7:45-8:15"
+    },
+    {
+        "name": "VFW Comedy Night (3rd Tuesday of every month)",
+        "venue": "Minneapolis Uptown VFW",
+        "url": "https://uptownvfw246.org/",
+        "booker": {
+            "name": "Hessley Rey",
+            "url": "https://www.facebook.com/hessley.rey?fref=ts"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": "8:30pm",
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Pre-booked. Sign up with Hessley on Facebook."
+    },
+    {
+        "name": "Comedy At The Crane (Weekly)",
+        "venue": "Underground Music Cafe",
+        "url": "http://www.undergroundmusiccafe.com/",
+        "booker": {
+            "name": "Seth Plunkett",
+            "url": "Comedyatthecrane@gmail.com"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "8:00pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Sign up 7-7:45pm. You can also call Seth at 612-209-6641. Each comic gets three minutes of time. Recording is available.  Check us out at instagram.com/comedyatthecrane and facebook.com/comedyatthecrane"
+    },
+    {
+        "name": "Laughs & Legends (Last Wednesday of the month)",
+        "venue": "Lakes & Legends Brewery",
+        "url": "http://lakesandlegends.com/",
+        "booker": {
+            "name": "Ira Ford",
+            "url": "mailto: bnocdemo@yahoo.com"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "7:30pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Doors open at 7:30. A showcase for comics by comics with a mini contest called the Amature Six. Where two newer comics that have been doing comedy for NO MORE than 11 months go head to head. Three mins a piece for a six minute spot on the next show. We'll be giving away prizes to the audience in a raffle form given by Top Ten Liquors prizes from cups, mugs to gift cards for all Top Ten stores. The other comics get 10 minutes the closer will get 15. It's a little under 70 mins if you park in the garage the bartender has validations for that, if you're lucky enough to get street parking it's free after a certain hour. The showcase is held in the back of the establishment in the private room holds up to 50 people."
+    },
+    {
+        "name": "Stand Up St. Paul (Monthly)",
+        "venue": "Amsterdam Bar and Hall",
+        "url": "http://www.amsterdambarandhall.com/",
+        "booker": {
+            "name": "Adam DeLong",
+            "url": "mailto: adelong8806@gmail.com"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "7:00pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Doors open at 7:30. A showcase for comics by comics with a mini contest called the Amature Six. Where two newer comics that have been doing comedy for NO MORE than 11 months go head to head. Three mins a piece for a six minute spot on the next show. We'll be giving away prizes to the audience in a raffle form given by Top Ten Liquors prizes from cups, mugs to gift cards for all Top Ten stores. The other comics get 10 minutes the closer will get 15. It's a little under 70 mins if you park in the garage the bartender has validations for that, if you're lucky enough to get street parking it's free after a certain hour. The showcase is held in the back of the establishment in the private room holds up to 50 people."
+    },
+    {
+        "name": "Wayzata Brew Works Open Mic (First and third Thursday of the month)",
+        "venue": "Wayzata Brew Works",
+        "url": "http://www.wayzatabrewworks.com/",
+        "booker": {
+            "name": "Wendy Berkowitz",
+            "url": "mailto: Wberkowitz@aol.com"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": "7:00pm",
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Spots are pre-booked. Message Wendy on <a href=\"https://www.facebook.com/wendy.berkowitz.5\" target=\"_blank\">Facebook</a> or <a href=\"mailto:Wberkowitz@aol.com\">email</a> or <a href=\"https://twitter.com/wendycomedy\" target=\"_blank\">Twitter</a> with your booking request. Each comic will get 5 or so minutes and a free beer. There will also be a headliner each week that will get extra time and a small stipend. Sometimes there is a show on the fifth Thursday of the month if that month has a fifth Thursday."
+    },
+    {
+        "name": "Flat Earth Brewery Open Mic 2nd & 4th Thursday of the month",
+        "venue": "Flat Earth Brewery",
+        "url": "http://www.flatearthbrewing.com/home.php",
+        "booker": {
+            "name": "Brian McDaniel",
+            "url": "mailto: BrianMcDanielComedy@gmail.com"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": "7:00pm",
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Sign up from 6 to 6:30. List posted at6:45. A drink ticket will be issued to each performer.There will also be a headliner each week who will get extra time."
+    },
+    {
+        "name": "Lack Of Beards (Weekly)",
+        "venue": "Terminal Bar",
+        "url": "http://www.theterminalbar409.com/",
+        "booker": [{
+            "name": "Ahmed Khalaf",
+            "url": "https://www.facebook.com/hobbleDhoi"
+        },
+        {
+            "name": "Drew Hehir",
+            "url": "https://www.facebook.com/DrewHehir"
+        }],
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": "8:30pm",
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Sign up before the show in person."
+    },
+    {
+        "name": "Sisyphus Brewing Open Mic (Weekly)",
+        "venue": "Sisyphus Brewing",
+        "url": "http://www.sisyphusbrewing.com/",
+        "booker": {
+            "name": "Corey Adam",
+            "url": "https://www.facebook.com/coreyadamcomedy"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": "8:00pm - 9:00pm",
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
+    },
+    {
+        "name": "Galactic Pizza Open Mic (Weekly)",
+        "venue": "Galactic Pizza - Uptown Minneapolis",
+        "url": "http://www.galacticpizza.com/",
+        "booker": {
+            "name": "Mike Linden",
+            "url": "https://www.facebook.com/MikeSLinden?fref=ts"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": "10:00pm",
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Sign-up at 9:30pm. Message Mike Linden before on FB or show up."
+    },
+    {
+        "name": "Friday Open Mic Night (Weekly)",
+        "venue": "The Comedy Corner Underground (Basement of The Corner Bar)- Minneapolis",
+        "url": "http://comedycornerunderground.com/",
+        "booker": {
+            "name": "Bob Edwards",
+            "url": null
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": "10:00pm",
+            "saturday": null
+        },
+        "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays"
+    },
+    {
+        "name": "BALLS Cabaret (Weekly)",
+        "venue": "The Southern Theater",
+        "url": "http://www.southerntheater.org/",
+        "booker": {
+            "name": "Leslie Ball",
+            "url": null
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": "Midnight - 1:30am"
+        },
+        "notes": "Variety performance show which includes comedy. This is a sober event for the performers and the audience. Preference is that you've seen one show before you perform, but exceptions may be made. Call week ahead at(612) 340-0155 or arrive between 11:30-11:45 day of and fill out card if it's your first time. Performers get 7 minutes stage time. Theater performance venue, so no light and mic is not always available and comics may have to project voice."
+    },
+    {
+        "name": "Finnish Your Thought Open Mic (Weekly)",
+        "venue": "The Finnish Bistro",
+        "url": "http://finnishbistro.com/",
+        "booker": {
+            "name": "Connor Hangsleben",
+            "url": "https://www.facebook.com/people/Connor-Hangsleben/100009981645074"
+        },
+        "days": {
+            "sunday": "7:00pm",
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "No cover. Sign-up is from 6-6:45pm in person. Show ends when the restaurant closes at 8:30pm. Get there early to take advantage of happy hour specials from5-7pm."
+    },
+    {
+        "name": "Bunny's Funnies Comedy Open Mic Showcase (Weekly)",
+        "venue": "Bunny's NE",
+        "url": "https://bunnysbarandgrill.com/ne-menu/",
+        "booker": {
+            "name": "Trish Cook",
+            "url": "mailto: trish@heytrish.com"
+        },
+        "days": {
+            "sunday": "7:30pm",
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Prebooked with wild card spot(s). Get to Bunny's NE before 7:00 pm to enter for Wild Card Spot. Email Trish at trish@heytrish.com or check out our Facebook page @bunnysfunnies or http://facebook.com/pg/BunnysFunnies"
+    },
+    {
+        "name": "Free Market Comedy (Weekly)",
+        "venue": "Two Stooges Sports Bar",
+        "url": "http://twostooges.com/",
+        "booker": {
+            "name": "Corey Adam",
+            "url": "mailto: coreyadamcomedy@gmail.com"
+        },
+        "days": {
+            "sunday": "10:00pm",
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "No cover. Headliners close out the show. Hosted by Corey Adam. \"Sign up, get up\". Everyone gets time, hopefully."
+    }
+]
