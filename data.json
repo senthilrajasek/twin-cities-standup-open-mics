@@ -53,8 +53,33 @@
         "notes": "Sign up in person before 7:59 for open mic slots. Contact Dan on FB for juicy pre-booked slots. And check the poorly managed FB page Uncle Dans Chucklefest every day of your life."
     },
     {
+
+        "name": "Uproar Open Mic (Every other Monday - Starting November 12th)",
+        "venue": "Du Nord Craft Spirits",
+        "url": "http://www.dunordcraftspirits.com/",
+        "booker": [{
+            "name": "Devohn Bland",
+            "url": "https://www.facebook.com/devohn.filmmaker9.2"
+        },
+	{
+		"name": "Xochi de la Luna",
+		"url": "https://www.facebook.com/xochidelaluna"
+
+	}],
+        "days": {
+            "sunday": null,
+            "monday": "8:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 7:30pm. Show runs from 8pm until 9pm. Seven to ten slots with 5-7 minutes each. One headliner gets 10 minutes on occasion based on prior times attending the mic. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
+    },
+    {
         "name": "Camp Bar Open Mic Night (Weekly except for 1st Monday of the month)",
-        "venue": "Camp Bar - St. Paul",
+        "venue": "Camp Bar",
         "url": "http://camp-bar.net/OpenMic",
         "booker": {
             "name": "Robert Cudinski",
@@ -92,7 +117,7 @@
     },
     {
         "name": "Triple Threat Tuesdays (Weekly)",
-        "venue": "Rick Bronson's House of Comedy at the Mall Of America - Bloomington",
+        "venue": "Rick Bronson's House of Comedy at the Mall Of America",
         "url": "https://moa.houseofcomedy.net/",
         "booker": {
             "name": "Mike Brody",
@@ -107,7 +132,7 @@
             "friday": null,
             "saturday": null
         },
-        "notes": "Pre-booked showcase, typically with a 2-6 week waiting list depending on how many people have signed up ahead of time. Comics get five minutes of time. Email Mike Brody at brody@houseofcomedy.net for spot. Tickets are $4, along with $4 appetizers and select $4 drinks. Also, each week there are three \"Wildcard spots\" available for people who didn't sign up ahead of time. If you get to the HoC before 7:15 I will put your name on a list and draw three names. Those three people will get the 1st. 2nd and 3rd spot, respectively, after the MC."
+	"notes": "Pre-booked showcase, with three wildcard spots given out each week for people who didn't sign up ahead of time (see info on how to sign up for wildcards below). There is typically a 2-6 week waiting list for regular showcase spots depending on how many people have signed up ahead of time. Comics get five minutes of time. Email Mike Brody at <a href=\"mailto:brody@houseofcomedy.net\">brody@houseofcomedy.net</a> for spot. Tickets are $5, along with $5 appetizers and select $5 drinks. (There is a service fee with tickets that makes it actually come to $10, but if you get someone on your guest list they get in for free.) WILDCARD SPOTS: If you get to the HoC before 7:15 I will put your name on a list and draw three names. Those three people will get the 1st, 2nd and 3rd spot respectively, after the MC."
     },
     {
         "name": "Red Menace (Weekly)",
@@ -164,7 +189,25 @@
             "friday": null,
             "saturday": null
         },
-        "notes": "Sign up 7-7:45pm. You can also call Seth at 612-209-6641. Each comic gets three minutes of time. Recording is available.  Check us out at instagram.com/comedyatthecrane and facebook.com/comedyatthecrane"
+	"notes": "Sign up 7-7:45pm. You can also call Seth at 612-209-6641. Each comic gets three minutes of time. Recording is available.&nbsp; Check us out at <a href=\"http://instagram.com/comedyatthecrane\" target=\"_blank\">instagram.com/comedyatthecrane</a> and <a href=\"http://facebook.com/comedyatthecrane\" target=\"_blank\">facebook.com/comedyatthecrane</a>."
+    },
+    {
+	    "name": "Open Mic In The Wall (Weekly)",
+	    "venue": "Bull\'s Horn Food and Drink",
+	    "booker": {
+		    "name": "Andy Keenan",
+		    "url": "https://www.facebook.com/amkeenan"
+	    },
+	    "days": {
+		    "sunday": null,
+		    "monday": null,
+		    "tuesday": null,
+		    "wednesday": "9:00pm",
+		    "thursday": null,
+		    "friday": null,
+		    "saturday": null
+	    },
+	    "notes": "Sign up by emailing&nbsp;<a href=\"mailto:info@bullshornfoodanddrink.com\" target=\"_blank\">info@bullshornfoodanddrink.com</a>&nbsp;starting at noon on Wednesday or connect with <a href=\"https://www.facebook.com/amkeenan\" target=\"_blank\">Andy Keenan</a> directly via FB. Headlining comic closes the show every week."
     },
     {
         "name": "Laughs & Legends (Last Wednesday of the month)",
@@ -202,7 +245,26 @@
             "friday": null,
             "saturday": null
         },
-        "notes": "Doors open at 7:30. A showcase for comics by comics with a mini contest called the Amature Six. Where two newer comics that have been doing comedy for NO MORE than 11 months go head to head. Three mins a piece for a six minute spot on the next show. We'll be giving away prizes to the audience in a raffle form given by Top Ten Liquors prizes from cups, mugs to gift cards for all Top Ten stores. The other comics get 10 minutes the closer will get 15. It's a little under 70 mins if you park in the garage the bartender has validations for that, if you're lucky enough to get street parking it's free after a certain hour. The showcase is held in the back of the establishment in the private room holds up to 50 people."
+	"notes": "A new open mic on the East Side of our cities, aiming for a monthly Wednesday night show. Follow the <a href=\"https://m.facebook.com/StandUpStPaul/\" target=\"_blank\">Facebook page</a>for the most current info. Sign up at the bar from 5-6pm, 25 spots, comics will be chosen at random if more than 25 people sign up. List comes out at 6:30, show starts at 7. 3 minutes sets. Looking to make this a monthly midweek thing but have to work around bands so can't commit to a certain week yet.",
+    },
+    {
+	"name": "Stand Up West Bank (4th Wednesday of every month)",
+	"venue": "Nomad World Pub",
+	"url": "http://www.nomadpub.com",
+	"booker": {
+		"name": "Adam DeLong",
+		"url": "mailto: adelong8806@gmail.com",
+	},
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "7:00pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"notes": "Doors are at 6 and sign up starts then going until 6:50, list posted shortly afterwards and the show starts at 7. Open mic spots are 3 minutes. Check <a href=\"https://m.facebook.com/StandUpStPaul/\" target=\"_blank\">Facebook page</a> for any more info/to get any questions answered. Event is free."
     },
     {
         "name": "Wayzata Brew Works Open Mic (First and third Thursday of the month)",
@@ -304,6 +366,30 @@
         "notes": "Sign-up at 9:30pm. Message Mike Linden before on FB or show up."
     },
     {
+	    "name": "Vector 9 Open Mic (Every third Friday)",
+	    "venue": "Moon Palace Books",
+	    "url": "https://www.moonpalacebooks.com/",
+	    "booker": [{
+		    "name": "Devohn Bland",
+		    "url": "https://www.facebook.com/devohn.filmmaker9.2"
+	    },
+	    {
+		    "name": "Xochi de la Luna",
+		    "url": "https://www.facebook.com/xochidelaluna"
+
+	    }],
+	    "days": {
+		    "sunday": null,
+		    "monday": null,
+		    "tuesday": null,
+		    "wednesday": null,
+		    "thursday": null,
+		    "friday": "8:00pm",
+		    "saturday": null
+	    },
+	    "notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Six slots with five minutes each. The open mic portion runs from 8 to 8:30pm. After that there's a showcase with music and comedy (featuring 2-3 pre-booked comedians) which starts at 8:30pm. Sign up in person at 7:30pm or in advance through email at:<a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
+    },
+    {
         "name": "Friday Open Mic Night (Weekly)",
         "venue": "The Comedy Corner Underground (Basement of The Corner Bar)- Minneapolis",
         "url": "http://comedycornerunderground.com/",
@@ -321,6 +407,25 @@
             "saturday": null
         },
         "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays"
+    },
+    {
+	    "name": "Finnegan\'s Brew Company Open Mic (Every 4th Saturday)",
+	    "venue" : "Finnegan's Brew Company",
+	    "url" : "https://finnegans.org",
+	    "booker": {
+		    "name": "Pierre Douglas",
+		    "url": "mailto: pierrecomedy23@gmail.com"
+	    },
+	    "days": {
+		    "sunday": null,
+		    "monday": null,
+		    "tuesday": null,
+		    "wednesday": null,
+		    "thursday": null,
+		    "friday": null,
+		    "saturday": "9:30pm"
+	    },
+	    "notes": "Sign ups start at 9pm"
     },
     {
         "name": "BALLS Cabaret (Weekly)",
@@ -345,9 +450,9 @@
         "name": "Finnish Your Thought Open Mic (Weekly)",
         "venue": "The Finnish Bistro",
         "url": "http://finnishbistro.com/",
-        "booker": {
-            "name": "Connor Hangsleben",
-            "url": "https://www.facebook.com/people/Connor-Hangsleben/100009981645074"
+         "booker": {
+            "name": "Nate Nickel",
+            "url": "https://www.facebook.com/profile.php?id=100013726633189"
         },
         "days": {
             "sunday": "7:00pm",
@@ -358,7 +463,7 @@
             "friday": null,
             "saturday": null
         },
-        "notes": "No cover. Sign-up is from 6-6:45pm in person. Show ends when the restaurant closes at 8:30pm. Get there early to take advantage of happy hour specials from5-7pm."
+        "notes": "No cover. Sign-up starts at 6pm in person. Show ends when the restaurant closes at 8:30pm. Get there early to take advantage of happy hour specials from 5-7pm."
     },
     {
         "name": "Bunny's Funnies Comedy Open Mic Showcase (Weekly)",
