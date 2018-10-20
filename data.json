@@ -193,7 +193,7 @@
     },
     {
 	    "name": "Open Mic In The Wall (Weekly)",
-	    "venue": "Bull\'s Horn Food and Drink",
+	    "venue": "Bull's Horn Food and Drink",
 	    "booker": {
 		    "name": "Andy Keenan",
 		    "url": "https://www.facebook.com/amkeenan"
@@ -245,7 +245,7 @@
             "friday": null,
             "saturday": null
         },
-	"notes": "A new open mic on the East Side of our cities, aiming for a monthly Wednesday night show. Follow the <a href=\"https://m.facebook.com/StandUpStPaul/\" target=\"_blank\">Facebook page</a>for the most current info. Sign up at the bar from 5-6pm, 25 spots, comics will be chosen at random if more than 25 people sign up. List comes out at 6:30, show starts at 7. 3 minutes sets. Looking to make this a monthly midweek thing but have to work around bands so can't commit to a certain week yet.",
+	"notes": "A new open mic on the East Side of our cities, aiming for a monthly Wednesday night show. Follow the <a href=\"https://m.facebook.com/StandUpStPaul/\" target=\"_blank\">Facebook page</a>for the most current info. Sign up at the bar from 5-6pm, 25 spots, comics will be chosen at random if more than 25 people sign up. List comes out at 6:30, show starts at 7. 3 minutes sets. Looking to make this a monthly midweek thing but have to work around bands so can't commit to a certain week yet."
     },
     {
 	"name": "Stand Up West Bank (4th Wednesday of every month)",
@@ -253,7 +253,7 @@
 	"url": "http://www.nomadpub.com",
 	"booker": {
 		"name": "Adam DeLong",
-		"url": "mailto: adelong8806@gmail.com",
+		"url": "mailto: adelong8806@gmail.com"
 	},
         "days": {
             "sunday": null,
@@ -409,7 +409,7 @@
         "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays"
     },
     {
-	    "name": "Finnegan\'s Brew Company Open Mic (Every 4th Saturday)",
+	    "name": "Finnegan's Brew Company Open Mic (Every 4th Saturday)",
 	    "venue" : "Finnegan's Brew Company",
 	    "url" : "https://finnegans.org",
 	    "booker": {
