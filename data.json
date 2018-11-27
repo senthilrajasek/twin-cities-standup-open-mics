@@ -267,25 +267,6 @@
 	"notes": "Doors are at 6 and sign up starts then going until 6:50, list posted shortly afterwards and the show starts at 7. Open mic spots are 3 minutes. Check <a href=\"https://m.facebook.com/StandUpStPaul/\" target=\"_blank\">Facebook page</a> for any more info/to get any questions answered. Event is free."
     },
     {
-        "name": "Wayzata Brew Works Open Mic (First and third Thursday of the month)",
-        "venue": "Wayzata Brew Works",
-        "url": "http://www.wayzatabrewworks.com/",
-        "booker": {
-            "name": "Wendy Berkowitz",
-            "url": "mailto: Wberkowitz@aol.com"
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": "7:00pm",
-            "friday": null,
-            "saturday": null
-        },
-        "notes": "Spots are pre-booked. Message Wendy on <a href=\"https://www.facebook.com/wendy.berkowitz.5\" target=\"_blank\">Facebook</a> or <a href=\"mailto:Wberkowitz@aol.com\">email</a> or <a href=\"https://twitter.com/wendycomedy\" target=\"_blank\">Twitter</a> with your booking request. Each comic will get 5 or so minutes and a free beer. There will also be a headliner each week that will get extra time and a small stipend. Sometimes there is a show on the fifth Thursday of the month if that month has a fifth Thursday."
-    },
-    {
         "name": "Flat Earth Brewery Open Mic 2nd & 4th Thursday of the month",
         "venue": "Flat Earth Brewery",
         "url": "http://www.flatearthbrewing.com/home.php",
