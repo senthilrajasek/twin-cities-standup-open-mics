@@ -34,25 +34,6 @@
         "notes": "6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm."
     },
     {
-        "name": "Uncle Dan's Chucklefest (Weekly)",
-        "venue": "56 Brewing",
-        "url": "https://56brewing.com/",
-        "booker": {
-            "name": "Dan Armstrong",
-            "url": "https://www.facebook.com/danjarmstrong"
-        },
-        "days": {
-            "sunday": null,
-            "monday": "8:00pm",
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-        "notes": "Sign up in person before 7:59 for open mic slots. Contact Dan on FB for juicy pre-booked slots. And check the poorly managed FB page Uncle Dans Chucklefest every day of your life."
-    },
-    {
 
         "name": "Uproar Open Mic (Every other Monday - Starting November 12th)",
         "venue": "Du Nord Craft Spirits",
@@ -80,7 +61,7 @@
     {
         "name": "Camp Bar Open Mic Night (Weekly except for 1st Monday of the month)",
         "venue": "Camp Bar",
-        "url": "http://camp-bar.net/OpenMic",
+        "url": "https://www.facebook.com/CampBarOpenMic/",
         "booker": {
             "name": "Robert Cudinski",
             "url": null
@@ -94,7 +75,7 @@
             "friday": null,
             "saturday": null
         },
-        "notes": "Sign-up at 9:00pm, stage opens immediately after sign-up. Each performer gets 7 minutes. Performances can be recorded and will be put up on the AQObserver YouTube channel. MC is Robert Cudinski, former host of the Artist's Quarter open mic.\"Poets, Musicians, Comics, Magicians, Fools and Sages welcome.\""
+	"notes": "Notes: Sign-up starts around 9:15pm and the performances begin around 9:30pm. People who click \"going\" on the weekly event invite get first sign-ups, IF they are present when the list opens. Each performer gets 7 minutes. Performances can be recorded and will be put up on the AQObserver YouTube channel. MC is Robert Cudinski, former host of the Artist's Quarter open mic.\"Poets, Musicians, Comics, Magicians, Fools and Sages welcome.\""
     },
     {
         "name": "Another Tuesday Open Mic (1st and 3rd Tuesday of every month)",
@@ -464,24 +445,5 @@
             "saturday": null
         },
         "notes": "Prebooked with wild card spot(s). Get to Bunny's NE before 7:00 pm to enter for Wild Card Spot. Email Trish at trish@heytrish.com or check out our Facebook page @bunnysfunnies or http://facebook.com/pg/BunnysFunnies"
-    },
-    {
-        "name": "Free Market Comedy (Weekly)",
-        "venue": "Two Stooges Sports Bar",
-        "url": "http://twostooges.com/",
-        "booker": {
-            "name": "Corey Adam",
-            "url": "mailto: coreyadamcomedy@gmail.com"
-        },
-        "days": {
-            "sunday": "10:00pm",
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-        "notes": "No cover. Headliners close out the show. Hosted by Corey Adam. \"Sign up, get up\". Everyone gets time, hopefully."
     }
 ]
