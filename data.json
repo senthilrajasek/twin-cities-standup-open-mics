@@ -445,5 +445,28 @@
             "saturday": null
         },
         "notes": "Prebooked with wild card spot(s). Get to Bunny's NE before 7:00 pm to enter for Wild Card Spot. Email Trish at trish@heytrish.com or check out our Facebook page @bunnysfunnies or http://facebook.com/pg/BunnysFunnies"
-    }
+    },
+{
+	"name": "New Shit Sundays (Weekly)",
+	"venue": "Bloody Mary's",
+	"url": "https://www.facebook.com/BloodyMarys2018/",
+	"booker": [{
+		"name": "Ali Sultan",
+		"url": "https://www.facebook.com/alisultancomedy"
+	},
+	{
+		"name": "Andy Mattfield",
+		"url": "https://www.facebook.com/andy.mattfield"
+	}],
+	"days": {
+		"sunday": "5:00pm",
+		"monday": null,
+		"tuesday": null,
+		"wednesday": null,
+		"thursday": null,
+		"friday": null,
+		"saturday": null
+	},
+	"notes": "Sign Up at 4:30pm. You can also message Andy or Ali on Facebook.Performance time will vary by amount of comics signed up. Bloody Mary's was formerly known as Dugout Bar (The old website for the <a href=\"http://dugoutbar.net\">Dugout bar</a>)"
+}
 ]
