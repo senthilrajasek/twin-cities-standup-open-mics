@@ -58,6 +58,30 @@
         },
 	"notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 7:30pm. Show runs from 8pm until 9pm. Seven to ten slots with 5-7 minutes each. One headliner gets 10 minutes on occasion based on prior times attending the mic. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
     },
+{
+        "name": "Blarney Pub and Grill Open Mic (Weekly)",
+        "venue": "Blarney Pub and Grill",
+        "url": "https://www.blarneypubmn.com/",
+        "booker": [{
+            "name": "Meredith Oechler",
+            "url": "mailto:meredithoechler@gmail.com"
+        },
+	{
+		"name": "Josh Levitt",
+		"url": "mailto:levit108@umn.edu"
+	}
+	]
+        "days": {
+            "sunday": null,
+            "monday": "8:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "notes": "Sign up is at 7, list goes up around 7:45, show starts at 8."
+    },
     {
         "name": "Camp Bar Open Mic Night (Weekly except for 1st Monday of the month)",
         "venue": "Camp Bar",
@@ -445,28 +469,5 @@
             "saturday": null
         },
         "notes": "Prebooked with wild card spot(s). Get to Bunny's NE before 7:00 pm to enter for Wild Card Spot. Email Trish at trish@heytrish.com or check out our Facebook page @bunnysfunnies or http://facebook.com/pg/BunnysFunnies"
-    },
-{
-	"name": "New Shit Sundays (Weekly)",
-	"venue": "Bloody Mary's",
-	"url": "https://www.facebook.com/BloodyMarys2018/",
-	"booker": [{
-		"name": "Ali Sultan",
-		"url": "https://www.facebook.com/alisultancomedy"
-	},
-	{
-		"name": "Andy Mattfield",
-		"url": "https://www.facebook.com/andy.mattfield"
-	}],
-	"days": {
-		"sunday": "5:00pm",
-		"monday": null,
-		"tuesday": null,
-		"wednesday": null,
-		"thursday": null,
-		"friday": null,
-		"saturday": null
-	},
-	"notes": "Sign Up at 4:30pm. You can also message Andy or Ali on Facebook.Performance time will vary by amount of comics signed up. Bloody Mary's was formerly known as Dugout Bar (The old website for the <a href=\"http://dugoutbar.net\">Dugout bar</a>)"
-}
+    }
 ]
