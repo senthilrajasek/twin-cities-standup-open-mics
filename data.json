@@ -177,14 +177,39 @@
         },
         "notes": "Pre-booked. Sign up with Hessley on Facebook."
     },
+{
+	"name": "Just/Us Open Mic (Weekly)",
+	"venue": "Just/Us",
+	"url": "https://www.justusmn.com/",
+	"booker": {
+	"name": "Nate",
+	"url": "mailto:nate@justus.com"
+	},
+	"days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": "7:00pm",
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+	}
+	"notes": "This open mic encourages performers of all types.&nbsp; Poets, musicians, comedians, etc. Sign up in person, starting at 6:30. Hosted by SpokenWordz, featuring DJ SciPreme. For more details see <a href=\"https://www.justusmn.com/menu\" target=\"_blank\">Just/Us Events</a>"
+},
     {
         "name": "Comedy At The Crane (Weekly)",
         "venue": "Underground Music Cafe",
         "url": "http://www.undergroundmusiccafe.com/",
-        "booker": {
+        "booker": [
+	{
+		"name": "Joe Cocozzello",
+		"url": "https://www.facebook.com/Photographizing"
+	},
+	{
             "name": "Seth Plunkett",
             "url": "Comedyatthecrane@gmail.com"
         },
+	],
         "days": {
             "sunday": null,
             "monday": null,
