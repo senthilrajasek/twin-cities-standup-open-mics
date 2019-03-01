@@ -202,6 +202,7 @@
         "name": "Comedy At The Crane (Weekly)",
         "venue": "Underground Music Cafe",
         "url": "http://www.undergroundmusiccafe.com/",
+	/*
         "booker": [
 	{
 		"name": "Joe Cocozzello",
@@ -212,6 +213,11 @@
             "url": "Comedyatthecrane@gmail.com"
         },
 	],
+	*/
+	"booker": {
+		"name": "Joe Cocozzello",
+		"url": "https://www.facebook.com/Photographizing"
+	},
         "days": {
             "sunday": null,
             "monday": null,
