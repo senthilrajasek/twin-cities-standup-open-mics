@@ -35,7 +35,7 @@
     },
     {
 
-        "name": "Uproar Open Mic (Every other Monday - Starting November 12th)",
+        "name": "Uproar Open Mic (Every Monday after the first Monday of the month)",
         "venue": "Du Nord Craft Spirits",
         "url": "http://www.dunordcraftspirits.com/",
         "booker": [{
@@ -377,7 +377,7 @@
         "notes": "Sign-up at 9:30pm. Message Mike Linden before on FB or show up."
     },
     {
-	    "name": "Vector 9 Open Mic (Every third Friday)",
+	    "name": "Vector 9 Open Mic (Every last Friday of the month starting May 31)",
 	    "venue": "Moon Palace Books",
 	    "url": "https://www.moonpalacebooks.com/",
 	    "booker": [{
