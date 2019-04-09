@@ -70,6 +70,7 @@
 								<a v-bind="{href:venue.booker[1].url}">{{venue.booker[1].name}}</a>
 							</li>
 							<li v-else-if="venue.booker">Booker: <a v-bind="{href:venue.booker.url}">{{venue.booker.name}}</a></li>
+							<li v-if="typeof( venue.address) == 'object'" v-html="'Address: ' + venue.address"></li>
 							<li v-html="'Notes: ' + venue.notes"></li>
 
 						</ul>
