@@ -1,0 +1,10 @@
+[{
+	"name": "Dallas Comedy Festival",
+	"url": "http://www.dallascomedyfestival.com/",
+	"location" : {
+		"city": "Dallas",
+		"state": "Texas",
+		"country": "USA"
+	}
+}
+]
