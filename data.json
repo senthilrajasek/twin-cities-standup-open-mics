@@ -16,6 +16,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "355 Monroe St. NE, Minneapolis, MN 55413",
         "notes": "Audience admission $5. Booked showcase. Must attend one show prior to booking. Everyone gets on at least once. Message Andy on FB for a spot or talk to him after the show, do not contact club. There is a wild card slot for 5 minutes in the 2nd act. If chosen, you get your $4 back plus a drink ticket."
     },
     {
@@ -31,6 +32,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "708 N. 1st St., Minneapolis, MN 55401",
         "notes": "6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm."
     },
     {
@@ -56,6 +58,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "2610 E. 32nd St., Minneapolis, MN 55406",
 	"notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 7:30pm. Show runs from 8pm until 9pm. Seven to ten slots with 5-7 minutes each. One headliner gets 10 minutes on occasion based on prior times attending the mic. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
     },
 {
@@ -80,6 +83,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "412 14th Ave. SE, Minneapolis, MN 55414",
         "notes": "Sign up is at 7, list goes up around 7:45, show starts at 8."
     },
     {
@@ -98,9 +102,30 @@
             "thursday": null,
             "friday": null,
             "saturday": null
-        },
+        }, 
+	"address": "490 Robert St. N., St. Paul, MN 55191",
 	"notes": "Notes: Sign-up starts around 9:15pm and the performances begin around 9:30pm. People who click \"going\" on the weekly event invite get first sign-ups, IF they are present when the list opens. Each performer gets 7 minutes. Performances can be recorded and will be put up on the AQObserver YouTube channel. MC is Robert Cudinski, former host of the Artist's Quarter open mic.\"Poets, Musicians, Comics, Magicians, Fools and Sages welcome.\""
     },
+{
+	"name": "Stand Up Saloon (Third Monday of every month)",
+        "days": {
+            "sunday": null,
+            "monday": "8:30pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"url": "http://www.saloonmn.com/", 
+	"venue": "The Saloon",
+	"booker":{
+		"name": "Adam Delong",
+		"url": "mailto:adelong8806@gmail.com "
+	},
+	"address": "830 Hennepin Ave., Minneapolis, MN 55403",
+	"notes": "A comedy open mic meets service industry night at a gay bar. You don't have to be LGBT to perform or attend, just be friendly and respectful to those who are (who also make up a large part of the audience.) A fun new room with an audience that is ready to laugh! Sign ups are from 7:30-8:15 on the disco side. Show starts at 8:30. Comics get their first drink free! Check out the Facebook page <a href=\"https://www.facebook.com/Stand-Up-Saloon-2692334064172472/\">Stand Up Saloon FB Page.</a>"
+},
     {
         "name": "Another Tuesday Open Mic (1st and 3rd Tuesday of every month)",
         "venue": "Minneapolis Eagles #34",
@@ -118,6 +143,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "2507 E. 25th St., Minneapolis, MN 55406",
         "notes": "Sign-up in person at 6:45. 4-5 minutes depending on how many comics show up. Working to build a monthly showcase. 1st and 3rd Tuesdays. The first Tuesday of the month is a comedy workshop. The third Tuesday is a pre-booked showcase, with 2-3 wildcards. If you attend the first Tuesday, the chance to be on the showcase is greater. The room is located behind the bar, in the Buechner Room."
     },
     {
@@ -137,6 +163,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "408 E Broadway, Bloomington, MN 55425",
 	"notes": "Pre-booked showcase, with three wildcard spots given out each week for people who didn't sign up ahead of time (see info on how to sign up for wildcards below). There is typically a 2-6 week waiting list for regular showcase spots depending on how many people have signed up ahead of time. Comics get five minutes of time. Email Mike Brody at <a href=\"mailto:brody@houseofcomedy.net\">brody@houseofcomedy.net</a> for spot. Tickets are $5, along with $5 appetizers and select $5 drinks. (There is a service fee with tickets that makes it actually come to $10, but if you get someone on your guest list they get in for free.) WILDCARD SPOTS: If you get to the HoC before 7:15 I will put your name on a list and draw three names. Those three people will get the 1st, 2nd and 3rd spot respectively, after the MC."
     },
     {
@@ -156,6 +183,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "601 Chicago Ave., Minneapolis, MN 55415",
         "notes": "Sign up is 7:45-8:15"
     },
     {
@@ -175,6 +203,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "2916 Lyndale Ave. S., Minneapolis, MN 55408",
         "notes": "Pre-booked. Sign up with Hessley on Facebook."
     },
 {
@@ -220,6 +249,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "408 3rd Ave N, Minneapolis, MN 55401",
 	"notes": "Sign up 7-7:45pm. You can also call Seth at 612-209-6641. Each comic gets three minutes of time. Recording is available.&nbsp; Check us out at <a href=\"http://instagram.com/comedyatthecrane\" target=\"_blank\">instagram.com/comedyatthecrane</a> and <a href=\"http://facebook.com/comedyatthecrane\" target=\"_blank\">facebook.com/comedyatthecrane</a>."
     },
     {
@@ -238,6 +268,7 @@
 		    "friday": null,
 		    "saturday": null
 	    },
+	    "address": "4563 S. 34th Ave., Minneapolis, MN 55406",
 	    "notes": "Sign up by emailing&nbsp;<a href=\"mailto:info@bullshornfoodanddrink.com\" target=\"_blank\">info@bullshornfoodanddrink.com</a>&nbsp;starting at noon on Wednesday or connect with <a href=\"https://www.facebook.com/amkeenan\" target=\"_blank\">Andy Keenan</a> directly via FB. Headlining comic closes the show every week."
     },
     {
@@ -257,6 +288,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "1368 LaSalle Ave., Minneapolis, MN 55403",
         "notes": "Doors open at 7:30. A showcase for comics by comics with a mini contest called the Amature Six. Where two newer comics that have been doing comedy for NO MORE than 11 months go head to head. Three mins a piece for a six minute spot on the next show. We'll be giving away prizes to the audience in a raffle form given by Top Ten Liquors prizes from cups, mugs to gift cards for all Top Ten stores. The other comics get 10 minutes the closer will get 15. It's a little under 70 mins if you park in the garage the bartender has validations for that, if you're lucky enough to get street parking it's free after a certain hour. The showcase is held in the back of the establishment in the private room holds up to 50 people."
     },
     {
@@ -276,6 +308,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "6 W 6th St., St. Paul, MN 55102",
 	"notes": "A new open mic on the East Side of our cities, aiming for a monthly Wednesday night show. Follow the <a href=\"https://m.facebook.com/StandUpStPaul/\" target=\"_blank\">Facebook page</a>for the most current info. Sign up at the bar from 5-6pm, 25 spots, comics will be chosen at random if more than 25 people sign up. List comes out at 6:30, show starts at 7. 3 minutes sets. Looking to make this a monthly midweek thing but have to work around bands so can't commit to a certain week yet."
     },
     {
@@ -295,8 +328,31 @@
             "friday": null,
             "saturday": null
         },
+	"address": "501 Cedar Ave., Minneapolis, MN 55454",
 	"notes": "Doors are at 6 and sign up starts then going until 6:50, list posted shortly afterwards and the show starts at 7. Open mic spots are 3 minutes. Check <a href=\"https://m.facebook.com/StandUpStPaul/\" target=\"_blank\">Facebook page</a> for any more info/to get any questions answered. Event is free."
     },
+{
+	"name": "The Laugh Lounge (Weekly)",
+
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "8:00pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"venue": "Black Hart of St. Paul",
+	"url": "https://www.blackhartstp.com/",
+	"booker": {
+	"name": "Sarah McPeck",
+	"url": "mailto:sarahmcpeckcomedy@gmail.com"
+	},
+	"address": "1415 University Ave. W., St. Paul, MN 55104",
+
+	"notes": "Sign up at 7-7:45 at front of bar. List up by 8. Laugh Lounge is in the back of the bar. Pre-book spots available by emailing <a href=\"mailto:sarahmcpeckcomedy@gmail.com\">Sarah McPeck</a>."
+},
     {
         "name": "Flat Earth Brewery Open Mic 2nd & 4th Thursday of the month",
         "venue": "Flat Earth Brewery",
@@ -314,6 +370,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "688 Minnehaha Ave. E., St. Paul, MN 55196",
         "notes": "Sign up from 6 to 6:30. List posted at6:45. A drink ticket will be issued to each performer.There will also be a headliner each week who will get extra time."
     },
     {
@@ -337,6 +394,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "409 E. Hennepin Ave., Minneapolis, MN 55414",
         "notes": "Sign up before the show in person."
     },
     {
@@ -356,6 +414,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "712 Ontario Ave. W. #100, Minneapolis, MN 55403",
         "notes": "Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
     },
     {
@@ -375,6 +434,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "2917 Lyndale Ave. S., Minneapolis, MN 55408",
         "notes": "Sign-up at 9:30pm. Message Mike Linden before on FB or show up."
     },
     {
@@ -399,6 +459,7 @@
 		    "friday": "8:00pm",
 		    "saturday": null
 	    },
+	    "address": "2610 E. 32nd St., Minneapolis, MN 55406",
 	    "notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Six slots with five minutes each. The open mic portion runs from 8 to 8:30pm. After that there's a showcase with music and comedy (featuring 2-3 pre-booked comedians) which starts at 8:30pm. Sign up in person at 7:30pm or in advance through email at:<a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
     },
     {
@@ -418,6 +479,7 @@
             "friday": "10:00pm",
             "saturday": null
         },
+	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
         "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays"
     },
     {
@@ -437,6 +499,7 @@
 		    "friday": null,
 		    "saturday": "9:30pm"
 	    },
+	    "address": "817 S. 5th Ave., Minneapolis, MN 55404",
 	    "notes": "Sign ups start at 9pm"
     },
     {
@@ -456,26 +519,8 @@
             "friday": null,
             "saturday": "Midnight - 1:30am"
         },
+	"address": "1420 S. Washington Ave., Minneapolis, MN 55454",
         "notes": "Variety performance show which includes comedy. This is a sober event for the performers and the audience. Preference is that you've seen one show before you perform, but exceptions may be made. Call week ahead at(612) 340-0155 or arrive between 11:30-11:45 day of and fill out card if it's your first time. Performers get 7 minutes stage time. Theater performance venue, so no light and mic is not always available and comics may have to project voice."
-    },
-    {
-        "name": "Finnish Your Thought Open Mic (Weekly)",
-        "venue": "The Finnish Bistro",
-        "url": "http://finnishbistro.com/",
-         "booker": {
-            "name": "Nate Nickel",
-            "url": "https://www.facebook.com/profile.php?id=100013726633189"
-        },
-        "days": {
-            "sunday": "7:00pm",
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-        "notes": "No cover. Sign-up starts at 6pm in person. Show ends when the restaurant closes at 8:30pm. Get there early to take advantage of happy hour specials from 5-7pm."
     },
     {
         "name": "Bunny's Funnies Comedy Open Mic Showcase (Weekly)",
@@ -494,6 +539,7 @@
             "friday": null,
             "saturday": null
         },
+	"address": "34 13th Ave. NE, Minneapolis, MN 55413",
         "notes": "Prebooked with wild card spot(s). Get to Bunny's NE before 7:00 pm to enter for Wild Card Spot. Email Trish at trish@heytrish.com or check out our Facebook page @bunnysfunnies or http://facebook.com/pg/BunnysFunnies"
     }
 ]
