@@ -206,26 +206,6 @@
 	"address": "2916 Lyndale Ave. S., Minneapolis, MN 55408",
         "notes": "Pre-booked. Sign up with Hessley on Facebook."
     },
-{
-	"name": "Just/Us Open Mic (Weekly)",
-	"venue": "Just/Us",
-	"url": "https://www.justusmn.com/",
-	"booker": {
-	"name": "Nate",
-	"url": "mailto:nate@justus.com"
-	},
-	"days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": "7:00pm",
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-	},
-	"address": "465 Wabasha St. N., St. Paul, MN 55102",
-	"notes": "This open mic encourages performers of all types.&nbsp; Poets, musicians, comedians, etc. Sign up in person, starting at 6:30. Hosted by SpokenWordz, featuring DJ SciPreme. For more details see <a href=\"https://www.justusmn.com/menu\" target=\"_blank\">Just/Us Events</a>"
-},
     {
         "name": "Comedy At The Crane (Weekly)",
         "venue": "Underground Music Cafe",
@@ -354,8 +334,8 @@
 	"notes": "Sign up at 7-7:45 at front of bar. List up by 8. Laugh Lounge is in the back of the bar. Pre-book spots available by emailing <a href=\"mailto:sarahmcpeckcomedy@gmail.com\">Sarah McPeck</a>."
 },
     {
-        "name": "Flat Earth Brewery Open Mic 2nd & 4th Thursday of the month",
-        "venue": "Flat Earth Brewery",
+        "name": "St. Paul Brewing Open Mic 2nd & 4th Thursday of the month",
+        "venue": "St. Paul Brewing",
         "url": "http://www.flatearthbrewing.com/home.php",
         "booker": {
             "name": "Brian McDaniel",
@@ -462,6 +442,26 @@
 	    "address": "2610 E. 32nd St., Minneapolis, MN 55406",
 	    "notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Six slots with five minutes each. The open mic portion runs from 8 to 8:30pm. After that there's a showcase with music and comedy (featuring 2-3 pre-booked comedians) which starts at 8:30pm. Sign up in person at 7:30pm or in advance through email at:<a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
     },
+    { 
+	    "name": "Get Up Stand Up Open Mic (Every 2nd Friday of the month)",
+	    "venue":"Mortimer's",
+	    "url": "https://www.mortimersbar.com/",
+	    "booker": {
+		    "name": "Sidney Oxborough",
+		    "url": "mailto:sidoxbo@gmail.com"
+	    },
+	    "days": {
+		    "sunday": null,
+		    "monday": null,
+		    "tuesday": null,
+		    "wednesday": null,
+		    "thursday": null,
+		    "friday": "7:00pm",
+		    "saturday": null
+	    },
+	    "address": "2001 Lyndale Ave., Minneapolis, MN 55405",
+	    "notes": "Sign up at 6:30, show starts at 7pm"
+    },
     {
         "name": "Friday Open Mic Night (Weekly)",
         "venue": "The Comedy Corner Underground (Basement of The Corner Bar)- Minneapolis",
@@ -483,24 +483,27 @@
         "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays"
     },
     {
-	    "name": "Finnegan's Brew Company Open Mic (Every 4th Saturday)",
-	    "venue" : "Finnegan's Brew Company",
-	    "url" : "https://finnegans.org",
-	    "booker": {
-		    "name": "Pierre Douglas",
-		    "url": "mailto: pierrecomedy23@gmail.com"
-	    },
-	    "days": {
-		    "sunday": null,
-		    "monday": null,
-		    "tuesday": null,
-		    "wednesday": null,
-		    "thursday": null,
-		    "friday": null,
-		    "saturday": "9:30pm"
-	    },
-	    "address": "817 S. 5th Ave., Minneapolis, MN 55404",
-	    "notes": "Sign ups start at 9pm"
+	    "name": "Dumbshit Comedy Show (Weekly)",
+	    "venue": "Cherokee Tavern",
+	    "url": "http://cherokeetavern.com/",
+	    "booker": [
+		    {
+			    "name":"Daryl Horner",
+			    "url": "https://www.facebook.com/daryl.horner"},
+			    {
+				    "name": "Jeff Talberg",
+				    "url": "https://www.facebook.com/jeff.talberg"}],
+				    "days": {
+					    "sunday": null,
+					    "monday": null,
+					    "tuesday": null,
+					    "wednesday": null,
+					    "thursday": null,
+					    "friday": "9:00pm",
+					    "saturday": null
+				    },
+				    "address": "886 Smith Ave. West, St. Paul, MN 55118",
+				    "notes": "No political material, anything else goes. Message <a href=\"https://www.facebook.com/daryl.horner\" target=\"_blank\">Daryl</a> or <a href=\"https://www.facebook.com/jeff.talberg\" target=\"_blank\">Jeff</a> on FB for a spot or just show up."
     },
     {
         "name": "BALLS Cabaret (Weekly)",
