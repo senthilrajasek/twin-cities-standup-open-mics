@@ -20,6 +20,26 @@
         "notes": "Audience admission $5. Booked showcase. Must attend one show prior to booking. Everyone gets on at least once. Message Andy on FB for a spot or talk to him after the show, do not contact club. There is a wild card slot for 5 minutes in the 2nd act. If chosen, you get your $4 back plus a drink ticket."
     },
     {
+        "name": "Blarney Pub & Grill Open Mic (Weekly)",
+        "venue": "Blarney Pub & Grill",
+        "url": "https://www.blarneypubmn.com/",
+        "days": {
+            "sunday": null,
+            "monday": "9:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"booker": {
+		"name": "Josh Levitt",
+		"url": "mailto:levit108@umn.edu"
+	},
+	"address": "412 14th Ave. SE, Minneapolis, MN 55414",
+        "notes": "Sign up is at 8:30, list goes up around 8:45, show starts at 9."
+    },
+    {
         "name": "Acme Comedy Company (Weekly)",
         "venue": "Acme Comedy Club - Downtown Minneapolis",
         "url": "http://acmecomedycompany.com/",
@@ -34,6 +54,26 @@
         },
 	"address": "708 N. 1st St., Minneapolis, MN 55401",
         "notes": "6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm."
+    },
+    {
+        "name": "Uncle Dan's Chucklefest (Every other Monday)",
+        "venue": "Number 12 Cider",
+        "url": "https://number12cider.com/",
+        "days": {
+            "sunday": null,
+            "monday": "8:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"booker": {
+		"name": "Dan Armstrong",
+		"url": "https://www.facebook.com/danjarmstrong"
+	},
+	"address": "708 N. 1st St., Minneapolis, MN 55401",
+        "notes": "Sign up in person before 7:59:59. Performers get a free drink ticket. There is free parking marked Number 12 Cider under the bridge and an elevated metal walkway to enter the cidery. Check out the <a href=\"https://www.facebook.com/Uncle-Dans-Chucklefest-2044016045839548/\" target=\"_blank\">Uncle Dan's Chucklefest FB page</a> for updates on which dates we're doing this on."
     },
     {
 
@@ -61,31 +101,7 @@
 	"address": "2610 E. 32nd St., Minneapolis, MN 55406",
 	"notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 7:30pm. Show runs from 8pm until 9pm. Seven to ten slots with 5-7 minutes each. One headliner gets 10 minutes on occasion based on prior times attending the mic. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
     },
-{
-        "name": "Blarney Pub and Grill Open Mic (Weekly)",
-        "venue": "Blarney Pub and Grill",
-        "url": "https://www.blarneypubmn.com/",
-        "booker": [{
-            "name": "Meredith Oechler",
-            "url": "mailto:meredithoechler@gmail.com"
-        },
-	{
-		"name": "Josh Levitt",
-		"url": "mailto:levit108@umn.edu"
-	}
-	],
-        "days": {
-            "sunday": null,
-            "monday": "8:00pm",
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"address": "412 14th Ave. SE, Minneapolis, MN 55414",
-        "notes": "Sign up is at 7, list goes up around 7:45, show starts at 8."
-    },
+
     {
         "name": "Camp Bar Open Mic Night (Weekly except for 1st Monday of the month)",
         "venue": "Camp Bar",
@@ -252,26 +268,6 @@
 	    "notes": "Sign up by emailing&nbsp;<a href=\"mailto:info@bullshornfoodanddrink.com\" target=\"_blank\">info@bullshornfoodanddrink.com</a>&nbsp;starting at noon on Wednesday or connect with <a href=\"https://www.facebook.com/amkeenan\" target=\"_blank\">Andy Keenan</a> directly via FB. Headlining comic closes the show every week."
     },
     {
-        "name": "Laughs & Legends (Last Wednesday of the month)",
-        "venue": "Lakes & Legends Brewery",
-        "url": "http://lakesandlegends.com/",
-        "booker": {
-            "name": "Ira Ford",
-            "url": "mailto: bnocdemo@yahoo.com"
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": "7:30pm",
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"address": "1368 LaSalle Ave., Minneapolis, MN 55403",
-        "notes": "Doors open at 7:30. A showcase for comics by comics with a mini contest called the Amature Six. Where two newer comics that have been doing comedy for NO MORE than 11 months go head to head. Three mins a piece for a six minute spot on the next show. We'll be giving away prizes to the audience in a raffle form given by Top Ten Liquors prizes from cups, mugs to gift cards for all Top Ten stores. The other comics get 10 minutes the closer will get 15. It's a little under 70 mins if you park in the garage the bartender has validations for that, if you're lucky enough to get street parking it's free after a certain hour. The showcase is held in the back of the establishment in the private room holds up to 50 people."
-    },
-    {
         "name": "Stand Up St. Paul (Monthly)",
         "venue": "Amsterdam Bar and Hall",
         "url": "http://www.amsterdambarandhall.com/",
@@ -358,13 +354,10 @@
         "venue": "Terminal Bar",
         "url": "http://www.theterminalbar409.com/",
         "booker": [{
-            "name": "Ahmed Khalaf",
-            "url": "https://www.facebook.com/hobbleDhoi"
-        },
-        {
-            "name": "Drew Hehir",
-            "url": "https://www.facebook.com/DrewHehir"
-        }],
+            "name": "Evan Wall",
+            "url": "mailto:evan.m.wall@gmail.com"
+        }
+        ],
         "days": {
             "sunday": null,
             "monday": null,
@@ -396,6 +389,26 @@
         },
 	"address": "712 Ontario Ave. W. #100, Minneapolis, MN 55403",
         "notes": "Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
+    },
+    {
+        "name": "Republic MPLS Comedy Open Mic (First Thursday of Every Month)",
+        "venue": "Republic MPLS",
+        "url": "http://republicmn.com/",
+        "booker": {
+            "name": "Jonathan Fogel",
+            "url": "mailto:Jonathan@fogelfamilylaw.com"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": "07:30pm",
+            "friday": null,
+            "saturday": null
+        },
+	"address": "221 Cedar Ave. S, Minneapolis, MN 55454",
+        "notes": "Sign-up starts at 6:45 pm and closes at 7:15 pm. See Jonathan at the bar for the sign-up sheet. The first 12 to sign-up are guaranteed a spot.Others can sign-up and will be slotted into the end of the show, time permitting.Each performer gets 5-7 minutes. Each performer receives one free drink ticket equivalent to a $7 drink. The performance is held in a private room with a stage and can hold up to 50-60 people. Wait staff are available and there is great craft beer and wonderful made-from-scratch food available to purchase before, during, and after the show."
     },
     {
         "name": "Galactic Pizza Open Mic (Weekly)",
