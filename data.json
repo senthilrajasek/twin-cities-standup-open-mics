@@ -375,8 +375,8 @@
         "venue": "Sisyphus Brewing",
         "url": "http://www.sisyphusbrewing.com/",
         "booker": {
-            "name": "Corey Adam",
-            "url": "https://www.facebook.com/coreyadamcomedy"
+            "name": "Sam Harriman",
+            "url": "https://www.facebook.com/oneeigthcuban"
         },
         "days": {
             "sunday": null,
@@ -494,6 +494,26 @@
         },
 	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
         "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays"
+    },
+    {
+        "name": "Sisyphus Brewing Open Mic (Weekly)",
+        "venue": "Sisyphus Brewing",
+        "url": "http://www.sisyphusbrewing.com/",
+        "booker": {
+            "name": "Sam Harriman",
+            "url": "https://www.facebook.com/oneeigthcuban"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": "8:00pm - 9:00pm",
+            "saturday": null
+        },
+	"address": "712 Ontario Ave. W. #100, Minneapolis, MN 55403",
+        "notes": "Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
     },
     {
 	    "name": "Dumbshit Comedy Show (Weekly)",
