@@ -20,6 +20,26 @@
         "notes": "Audience admission $5. Booked showcase. Must attend one show prior to booking. Everyone gets on at least once. Message Andy on FB for a spot or talk to him after the show, do not contact club. There is a wild card slot for 5 minutes in the 2nd act. If chosen, you get your $4 back plus a drink ticket."
     },
     {
+        "name": "Camp Bar Open Mic",
+        "venue": "Camp Bar",
+        "url": "https://www.camp-bar.net/",
+        "days": {
+            "sunday": null,
+            "monday": "9:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"booker": {
+		"name": "",
+		"url": "https://www.facebook.com/events/799760390671612"
+	},
+	"address": "490 N Robert Street, Saint Paul, MN 55101",
+        "notes": "The door will open at 9:00pm and we'll get the list started at 9:15pm and try to stop saying 'OMG! I haven't seen you in so long! It's so GOOD to see you!' around 9:30 so we can actually let people perform!"
+    },
+    {
         "name": "Blarney Pub & Grill Open Mic (Weekly)",
         "venue": "Blarney Pub & Grill",
         "url": "https://www.blarneypubmn.com/",
