@@ -577,5 +577,25 @@
         },
 	"address": "34 13th Ave. NE, Minneapolis, MN 55413",
         "notes": "Prebooked with wild card spot(s). Get to Bunny's NE before 7:00 pm to enter for Wild Card Spot. Email Trish at trish@heytrish.com or check out our Facebook page @bunnysfunnies or http://facebook.com/pg/BunnysFunnies"
+    },
+    {
+        "name": "Camp Bar Open Mic (Weekly)",
+        "venue": "Camp Bar",
+        "url": "https://www.facebook.com/CampBarOpenMic/",
+        "booker": {
+            "name": "James Stanley",
+            "url": null
+        },
+        "days": {
+            "sunday": null,
+            "monday": "6:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        }, 
+	"address": "490 Robert St. N., St. Paul, MN 55191",
+	"notes": "Status during COVID-19 - Open. Sign up starts at 5:30pm. 20 comic cap. 3-5 min each. Ends at 8pm. Parking is free in St.Paul on Sundays."
     }
 ]
