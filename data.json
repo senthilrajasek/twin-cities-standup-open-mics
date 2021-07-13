@@ -587,8 +587,8 @@
             "url": null
         },
         "days": {
-            "sunday": null,
-            "monday": "6:00pm",
+            "sunday": "6:00pm",
+            "monday": null,
             "tuesday": null,
             "wednesday": null,
             "thursday": null,
