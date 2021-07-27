@@ -183,24 +183,24 @@
 	"notes": "Pre-booked showcase, with three wildcard spots given out each week for people who didn't sign up ahead of time (see info on how to sign up for wildcards below). There is typically a 2-6 week waiting list for regular showcase spots depending on how many people have signed up ahead of time. Comics get five minutes of time. Email Mike Brody at <a href=\"mailto:brody@houseofcomedy.net\">brody@houseofcomedy.net</a> for spot. Tickets are $5, along with $5 appetizers and select $5 drinks. (There is a service fee with tickets that makes it actually come to $10, but if you get someone on your guest list they get in for free.) WILDCARD SPOTS: If you get to the HoC before 7:15 I will put your name on a list and draw three names. Those three people will get the 1st, 2nd and 3rd spot respectively, after the MC."
     },
     {
-        "name": "Red Menace (Weekly)",
-        "venue": "Erik The Red",
-        "url": "https://www.eriktheredbar.com/",
+        "name": "Muffin Top Cafe Open Mic",
+        "venue": "Muffin Top Cafe",
+        "url": "https://thenicolletdiner.com/muffin-top-cafe-menu",
         "booker": {
-            "name": "Bryan Miller",
-            "url": "https://www.facebook.com/bryan.miller.754570"
+            "name": "Sarah McPeck",
+            "url": "https://www.facebook.com/sarah.mcpeck.3"
         },
         "days": {
             "sunday": null,
             "monday": null,
-            "tuesday": "8:30pm",
+            "tuesday": "7:00pm",
             "wednesday": null,
             "thursday": null,
             "friday": null,
             "saturday": null
         },
-	"address": "601 Chicago Ave., Minneapolis, MN 55415",
-        "notes": "Sign up is 7:45-8:15"
+	"address": "1424 Nicollet Ave, Minneapolis, MN 55403",
+        "notes": "Sign up is 6:30pm"
     },
     {
         "name": "VFW Comedy Night (3rd Tuesday of every month)",
