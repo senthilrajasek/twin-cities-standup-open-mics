@@ -56,12 +56,12 @@
         "notes": "6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm."
     },
     {
-        "name": "Uncle Dan's Chucklefest (Every other Monday)",
-        "venue": "Number 12 Cider",
-        "url": "https://number12cider.com/",
+        "name": "Laugh Smile Comedy Open Mic",
+        "venue": "Creator's Space (St.Paul)",
+        "url": "https://www.creatorsspace.com/",
         "days": {
             "sunday": null,
-            "monday": "8:00pm",
+            "monday": "7:00pm",
             "tuesday": null,
             "wednesday": null,
             "thursday": null,
@@ -69,11 +69,11 @@
             "saturday": null
         },
 	"booker": {
-		"name": "Dan Armstrong",
-		"url": "https://www.facebook.com/danjarmstrong"
+		"name": "John Stiffin",
+		"url": "https://www.facebook.com/john.stiffin"
 	},
-	"address": "708 N. 1st St., Minneapolis, MN 55401",
-        "notes": "Sign up in person before 7:59:59. Performers get a free drink ticket. There is free parking marked Number 12 Cider under the bridge and an elevated metal walkway to enter the cidery. Check out the <a href=\"https://www.facebook.com/Uncle-Dans-Chucklefest-2044016045839548/\" target=\"_blank\">Uncle Dan's Chucklefest FB page</a> for updates on which dates we're doing this on."
+	"address": "218 7th St E, St. Paul, MN 55101",
+        "notes": "If you wanna perform music bring a flash drive. Call 6126366554 to get in the door."
     },
     {
 
