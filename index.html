@@ -57,7 +57,7 @@
 				https://docs.google.com/spreadsheets/d/1CjE_SjglmgoZ6He0ZyvU63ETccQeNODvfDQcEbLXLkw/edit#gid=0</a>
 		</p>
 
-		<p>Updated on: 08/04/21</p>
+		<p>Updated on: 08/25/21</p>
 		<div id="app">
 			<div v-for="day in days">
 				<h2>{{day}}s</h2>
@@ -90,13 +90,13 @@
 			el: '#app',
 			data: {
 				days: [
+					"Sunday",
 					"Monday",
 					"Tuesday",
 					"Wednesday",
 					"Thursday",
 					"Friday",
-					"Saturday",
-					"Sunday",
+					"Saturday"
 				],
 				venues: [{
 					"name": "",
@@ -120,6 +120,12 @@
 				}]
 			},
 			methods: {
+				rotate_days: function ( ) {
+					let tday = new Date();
+					let dayNum = tday.getDay();
+
+					this.days.push.apply( this.days, this.days.splice(0, dayNum));
+				},
 				venue_lookup: function (day) {
 					return this.venues.filter(function (v) {
 						day = day.toLowerCase();
@@ -132,6 +138,7 @@
 		$.getJSON("data.json", function (data) {
 			app.venues = data;
 		});
+		app.rotate_days();
 	</script>
 </body>
 
