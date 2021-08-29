@@ -20,26 +20,6 @@
         "notes": "Audience admission $5. Booked showcase. Must attend one show prior to booking. Everyone gets on at least once. Message Andy on FB for a spot or talk to him after the show, do not contact club. There is a wild card slot for 5 minutes in the 2nd act. If chosen, you get your $4 back plus a drink ticket."
     },
     {
-        "name": "Blarney Pub & Grill Open Mic (Weekly)",
-        "venue": "Blarney Pub & Grill",
-        "url": "https://www.blarneypubmn.com/",
-        "days": {
-            "sunday": null,
-            "monday": "9:00pm",
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"booker": {
-		"name": "Josh Levitt",
-		"url": "mailto:levit108@umn.edu"
-	},
-	"address": "412 14th Ave. SE, Minneapolis, MN 55414",
-        "notes": "Sign up is at 8:30, list goes up around 8:45, show starts at 9."
-    },
-    {
         "name": "Acme Comedy Company (Weekly)",
         "venue": "Acme Comedy Club - Downtown Minneapolis",
         "url": "http://acmecomedycompany.com/",
@@ -121,46 +101,6 @@
         }, 
 	"address": "490 Robert St. N., St. Paul, MN 55191",
 	"notes": "Notes: Sign-up starts around 9:15pm and the performances begin around 9:30pm. People who click \"going\" on the weekly event invite get first sign-ups, IF they are present when the list opens. Each performer gets 7 minutes. Performances can be recorded and will be put up on the AQObserver YouTube channel. MC is Robert Cudinski, former host of the Artist's Quarter open mic.\"Poets, Musicians, Comics, Magicians, Fools and Sages welcome.\""
-    },
-{
-	"name": "Stand Up Saloon (Third Monday of every month)",
-        "days": {
-            "sunday": null,
-            "monday": "8:30pm",
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"url": "http://www.saloonmn.com/", 
-	"venue": "The Saloon",
-	"booker":{
-		"name": "Adam Delong",
-		"url": "mailto:adelong8806@gmail.com "
-	},
-	"address": "830 Hennepin Ave., Minneapolis, MN 55403",
-	"notes": "A comedy open mic meets service industry night at a gay bar. You don't have to be LGBT to perform or attend, just be friendly and respectful to those who are (who also make up a large part of the audience.) A fun new room with an audience that is ready to laugh! Sign ups are from 7:30-8:15 on the disco side. Show starts at 8:30. Comics get their first drink free! Check out the Facebook page <a href=\"https://www.facebook.com/Stand-Up-Saloon-2692334064172472/\">Stand Up Saloon FB Page.</a>"
-},
-    {
-        "name": "Another Tuesday Open Mic (1st and 3rd Tuesday of every month)",
-        "venue": "Minneapolis Eagles #34",
-        "url": "http://minneapoliseagles34.org/",
-        "booker": {
-            "name": "Gretchen Colleen",
-            "url": "mailto: gbdogtraining@gmail.com"
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": "7:00pm - 8:00pm",
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"address": "2507 E. 25th St., Minneapolis, MN 55406",
-        "notes": "Sign-up in person at 6:45. 4-5 minutes depending on how many comics show up. Working to build a monthly showcase. 1st and 3rd Tuesdays. The first Tuesday of the month is a comedy workshop. The third Tuesday is a pre-booked showcase, with 2-3 wildcards. If you attend the first Tuesday, the chance to be on the showcase is greater. The room is located behind the bar, in the Buechner Room."
     },
     {
         "name": "Triple Threat Tuesdays (Weekly)",
@@ -249,65 +189,6 @@
 	"notes": "Sign up 7-7:45pm. You can also call Seth at 612-209-6641. Each comic gets three minutes of time. Recording is available.&nbsp; Check us out at <a href=\"http://instagram.com/comedyatthecrane\" target=\"_blank\">instagram.com/comedyatthecrane</a> and <a href=\"http://facebook.com/comedyatthecrane\" target=\"_blank\">facebook.com/comedyatthecrane</a>."
     },
     {
-	    "name": "Open Mic In The Wall (Weekly)",
-	    "venue": "Bull's Horn Food and Drink",
-	    "booker": {
-		    "name": "Andy Keenan",
-		    "url": "https://www.facebook.com/amkeenan"
-	    },
-	    "days": {
-		    "sunday": null,
-		    "monday": null,
-		    "tuesday": null,
-		    "wednesday": "9:00pm",
-		    "thursday": null,
-		    "friday": null,
-		    "saturday": null
-	    },
-	    "address": "4563 S. 34th Ave., Minneapolis, MN 55406",
-	    "notes": "Sign up by emailing&nbsp;<a href=\"mailto:info@bullshornfoodanddrink.com\" target=\"_blank\">info@bullshornfoodanddrink.com</a>&nbsp;starting at noon on Wednesday or connect with <a href=\"https://www.facebook.com/amkeenan\" target=\"_blank\">Andy Keenan</a> directly via FB. Headlining comic closes the show every week."
-    },
-    {
-        "name": "Stand Up St. Paul (Monthly)",
-        "venue": "Amsterdam Bar and Hall",
-        "url": "http://www.amsterdambarandhall.com/",
-        "booker": {
-            "name": "Adam DeLong",
-            "url": "mailto: adelong8806@gmail.com"
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": "7:00pm",
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"address": "6 W 6th St., St. Paul, MN 55102",
-	"notes": "A new open mic on the East Side of our cities, aiming for a monthly Wednesday night show. Follow the <a href=\"https://m.facebook.com/StandUpStPaul/\" target=\"_blank\">Facebook page</a>for the most current info. Sign up at the bar from 5-6pm, 25 spots, comics will be chosen at random if more than 25 people sign up. List comes out at 6:30, show starts at 7. 3 minutes sets. Looking to make this a monthly midweek thing but have to work around bands so can't commit to a certain week yet."
-    },
-    {
-	"name": "Stand Up West Bank (4th Wednesday of every month)",
-	"venue": "Nomad World Pub",
-	"url": "http://www.nomadpub.com",
-	"booker": {
-		"name": "Adam DeLong",
-		"url": "mailto: adelong8806@gmail.com"
-	},
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": "7:00pm",
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"address": "501 Cedar Ave., Minneapolis, MN 55454",
-	"notes": "Doors are at 6 and sign up starts then going until 6:50, list posted shortly afterwards and the show starts at 7. Open mic spots are 3 minutes. Check <a href=\"https://m.facebook.com/StandUpStPaul/\" target=\"_blank\">Facebook page</a> for any more info/to get any questions answered. Event is free."
-    },
-{
 	"name": "The Laugh Lounge (Weekly)",
 
         "days": {
@@ -430,33 +311,8 @@
 	"address": "2917 Lyndale Ave. S., Minneapolis, MN 55408",
         "notes": "Sign-up at 9:30pm. Message Mike Linden before on FB or show up."
     },
-    {
-	    "name": "Vector 9 Open Mic (Every last Friday of the month starting May 31)",
-	    "venue": "Moon Palace Books",
-	    "url": "https://www.moonpalacebooks.com/",
-	    "booker": [{
-		    "name": "Devohn Bland",
-		    "url": "https://www.facebook.com/devohn.filmmaker9.2"
-	    },
-	    {
-		    "name": "Xochi de la Luna",
-		    "url": "https://www.facebook.com/xochidelaluna"
-
-	    }],
-	    "days": {
-		    "sunday": null,
-		    "monday": null,
-		    "tuesday": null,
-		    "wednesday": null,
-		    "thursday": null,
-		    "friday": "8:00pm",
-		    "saturday": null
-	    },
-	    "address": "2610 E. 32nd St., Minneapolis, MN 55406",
-	    "notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Six slots with five minutes each. The open mic portion runs from 8 to 8:30pm. After that there's a showcase with music and comedy (featuring 2-3 pre-booked comedians) which starts at 8:30pm. Sign up in person at 7:30pm or in advance through email at:<a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
-    },
     { 
-	    "name": "Get Up Stand Up Open Mic (Every 2nd Friday of the month)",
+	    "name": "Get Up Stand Up Open Mic (monthly comedy open mic)",
 	    "venue":"Mortimer's",
 	    "url": "https://www.mortimersbar.com/",
 	    "booker": {
@@ -516,29 +372,6 @@
         "notes": "Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
     },
     {
-	    "name": "Dumbshit Comedy Show (Weekly)",
-	    "venue": "Cherokee Tavern",
-	    "url": "http://cherokeetavern.com/",
-	    "booker": [
-		    {
-			    "name":"Daryl Horner",
-			    "url": "https://www.facebook.com/daryl.horner"},
-			    {
-				    "name": "Jeff Talberg",
-				    "url": "https://www.facebook.com/jeff.talberg"}],
-				    "days": {
-					    "sunday": null,
-					    "monday": null,
-					    "tuesday": null,
-					    "wednesday": null,
-					    "thursday": null,
-					    "friday": "9:00pm",
-					    "saturday": null
-				    },
-				    "address": "886 Smith Ave. West, St. Paul, MN 55118",
-				    "notes": "No political material, anything else goes. Message <a href=\"https://www.facebook.com/daryl.horner\" target=\"_blank\">Daryl</a> or <a href=\"https://www.facebook.com/jeff.talberg\" target=\"_blank\">Jeff</a> on FB for a spot or just show up."
-    },
-    {
         "name": "BALLS Cabaret (Weekly)",
         "venue": "The Southern Theater",
         "url": "http://www.southerntheater.org/",
@@ -557,26 +390,6 @@
         },
 	"address": "1420 S. Washington Ave., Minneapolis, MN 55454",
         "notes": "Variety performance show which includes comedy. This is a sober event for the performers and the audience. Preference is that you've seen one show before you perform, but exceptions may be made. Call week ahead at(612) 340-0155 or arrive between 11:30-11:45 day of and fill out card if it's your first time. Performers get 7 minutes stage time. Theater performance venue, so no light and mic is not always available and comics may have to project voice."
-    },
-    {
-        "name": "Bunny's Funnies Comedy Open Mic Showcase (Weekly)",
-        "venue": "Bunny's NE",
-        "url": "https://bunnysbarandgrill.com/ne-menu/",
-        "booker": {
-            "name": "Trish Cook",
-            "url": "mailto: trish@heytrish.com"
-        },
-        "days": {
-            "sunday": "7:30pm",
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"address": "34 13th Ave. NE, Minneapolis, MN 55413",
-        "notes": "Prebooked with wild card spot(s). Get to Bunny's NE before 7:00 pm to enter for Wild Card Spot. Email Trish at trish@heytrish.com or check out our Facebook page @bunnysfunnies or http://facebook.com/pg/BunnysFunnies"
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
