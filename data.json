@@ -20,20 +20,24 @@
         "notes": "Audience admission $5. Booked showcase. Must attend one show prior to booking. Everyone gets on at least once. Message Andy on FB for a spot or talk to him after the show, do not contact club. There is a wild card slot for 5 minutes in the 2nd act. If chosen, you get your $4 back plus a drink ticket."
     },
     {
-        "name": "Acme Comedy Company (Weekly)",
-        "venue": "Acme Comedy Club - Downtown Minneapolis",
-        "url": "http://acmecomedycompany.com/",
+        "name": "Gutty's Comedy Club (Weekly)",
+        "venue": "Gutty's Comedy Club - Southdale Center, Edina,MN",
+        "url": "https://minnesota.guttyscomedyclub.com/",
         "days": {
             "sunday": null,
-            "monday": "8:00pm",
+            "monday": "7:00pm",
             "tuesday": null,
             "wednesday": null,
             "thursday": null,
             "friday": null,
             "saturday": null
         },
-	"address": "708 N. 1st St., Minneapolis, MN 55401",
-        "notes": "6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm."
+	"address": "10 Southdale Center, Edina, MN 554350",
+	"booker": {
+		"name": "Dan Bublitz Jr.",
+		"url": "https://www.facebook.com/danbublitzjr"
+	},
+        "notes": "Clean open mic. Sign up online at https://minnesota.guttyscomedyclub.com/open-mic.html?fbclid=IwAR1diXXUHhKop0pMOnqM8VPN5XWzHv09uZU6PGRu_mGRxkzxlpJxyffYYKI"
     },
     {
         "name": "Laugh Smile Comedy Open Mic",
