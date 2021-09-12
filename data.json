@@ -259,16 +259,14 @@
 	    "name": "Galactic Pizza Open Mic (Weekly)",
 	    "venue": "Galactic Pizza - Uptown Minneapolis",
 	    "url": "http://www.galacticpizza.com/",
-	    "booker": {
-		    [
+	    "booker": [
 			    { "name": "Zach Kagan",
 				    "url": "https://www.facebook.com/zakagan"
 			    },
 			    {
 				    "name": "Aaron Isaacs",
 				    "url" : "https://www.facebook.com/aaron.isaacs"
-			    }]
-	    },
+			    }],
 	    "days": {
             "sunday": null,
             "monday": null,
