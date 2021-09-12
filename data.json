@@ -215,32 +215,12 @@
 	"notes": "Sign up at 7-7:45 at front of bar. List up by 8. Laugh Lounge is in the back of the bar. Pre-book spots available by emailing <a href=\"mailto:sarahmcpeckcomedy@gmail.com\">Sarah McPeck</a>."
 },
     {
-        "name": "St. Paul Brewing Open Mic 2nd & 4th Thursday of the month",
-        "venue": "St. Paul Brewing",
-        "url": "http://www.flatearthbrewing.com/home.php",
-        "booker": {
-            "name": "Brian McDaniel",
-            "url": "mailto: BrianMcDanielComedy@gmail.com"
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": "7:00pm",
-            "friday": null,
-            "saturday": null
-        },
-	"address": "688 Minnehaha Ave. E., St. Paul, MN 55196",
-        "notes": "Sign up from 6 to 6:30. List posted at6:45. A drink ticket will be issued to each performer.There will also be a headliner each week who will get extra time."
-    },
-    {
         "name": "Open-Mic Comedy @ The Terminal Bar",
         "venue": "Terminal Bar",
         "url": "http://www.theterminalbar409.com/",
         "booker": [{
-            "name": "Evan Wall",
-            "url": "mailto:evan.m.wall@gmail.com"
+            "name": "Corey Nelson",
+            "url": "https://www.facebook.com/corey.nelson.7399"
         }
         ],
         "days": {
@@ -276,44 +256,30 @@
         "notes": "Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
     },
     {
-        "name": "Republic MPLS Comedy Open Mic (First Thursday of Every Month)",
-        "venue": "Republic MPLS",
-        "url": "http://republicmn.com/",
-        "booker": {
-            "name": "Jonathan Fogel",
-            "url": "mailto:Jonathan@fogelfamilylaw.com"
-        },
-        "days": {
+	    "name": "Galactic Pizza Open Mic (Weekly)",
+	    "venue": "Galactic Pizza - Uptown Minneapolis",
+	    "url": "http://www.galacticpizza.com/",
+	    "booker": {
+		    [
+			    { "name": "Zach Kagan",
+				    "url": "https://www.facebook.com/zakagan"
+			    },
+			    {
+				    "name": "Aaron Isaacs",
+				    "url" : "https://www.facebook.com/aaron.isaacs"
+			    }]
+	    },
+	    "days": {
             "sunday": null,
             "monday": null,
             "tuesday": null,
             "wednesday": null,
-            "thursday": "07:30pm",
-            "friday": null,
-            "saturday": null
-        },
-	"address": "221 Cedar Ave. S, Minneapolis, MN 55454",
-        "notes": "Sign-up starts at 6:45 pm and closes at 7:15 pm. See Jonathan at the bar for the sign-up sheet. The first 12 to sign-up are guaranteed a spot.Others can sign-up and will be slotted into the end of the show, time permitting.Each performer gets 5-7 minutes. Each performer receives one free drink ticket equivalent to a $7 drink. The performance is held in a private room with a stage and can hold up to 50-60 people. Wait staff are available and there is great craft beer and wonderful made-from-scratch food available to purchase before, during, and after the show."
-    },
-    {
-        "name": "Galactic Pizza Open Mic (Weekly)",
-        "venue": "Galactic Pizza - Uptown Minneapolis",
-        "url": "http://www.galacticpizza.com/",
-        "booker": {
-            "name": "Mike Linden",
-            "url": "https://www.facebook.com/MikeSLinden?fref=ts"
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": "10:00pm",
+            "thursday": "8:00pm",
             "friday": null,
             "saturday": null
         },
 	"address": "2917 Lyndale Ave. S., Minneapolis, MN 55408",
-        "notes": "Sign-up at 9:30pm. Message Mike Linden before on FB or show up."
+        "notes": "Sign-up at 7:15pm."
     },
     { 
 	    "name": "Get Up Stand Up Open Mic ( 2nd and 4th Fridays)",
