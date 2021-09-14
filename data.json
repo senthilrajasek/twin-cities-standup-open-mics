@@ -37,7 +37,7 @@
 		"name": "Dan Bublitz Jr.",
 		"url": "https://www.facebook.com/danbublitzjr"
 	},
-        "notes": "Clean open mic. Sign up online at https://minnesota.guttyscomedyclub.com/open-mic.html?fbclid=IwAR1diXXUHhKop0pMOnqM8VPN5XWzHv09uZU6PGRu_mGRxkzxlpJxyffYYKI"
+        "notes": "Clean open mic. Sign up online at <a href=\"https://minnesota.guttyscomedyclub.com/open-mic.html\"> Open mic sign up</a>"
     },
     {
         "name": "Laugh Smile Comedy Open Mic",
@@ -85,7 +85,26 @@
 	"address": "2610 E. 32nd St., Minneapolis, MN 55406",
 	"notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 7:30pm. Show runs from 8pm until 9pm. Seven to ten slots with 5-7 minutes each. One headliner gets 10 minutes on occasion based on prior times attending the mic. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
     },
-
+    {
+        "name": "Monday's at Moose",
+        "venue": "Moose Bar and Grill (NE)",
+        "url": "https://moosene.com",
+        "days": {
+            "sunday": null,
+            "monday": "9:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"booker": {
+		"name": "Jon Stannard",
+		"url": "https://www.facebook.com/jon.stannard.58"
+	},
+	"address": "356 monroe st ne, Minneapolis, MN 55413",
+        "notes": "Free show. Sign up at 7:30. Show at 9."
+    },
     {
         "name": "Camp Bar Open Mic Night (Weekly except for 1st Monday of the month)",
         "venue": "Camp Bar",
