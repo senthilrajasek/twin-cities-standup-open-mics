@@ -376,26 +376,6 @@
 	    "notes": "Sign up at 6:30, show starts at 7pm"
     },
     {
-        "name": "Friday Open Mic Night (Weekly)",
-        "venue": "The Comedy Corner Underground (Basement of The Corner Bar)- Minneapolis",
-        "url": "http://comedycornerunderground.com/",
-        "booker": {
-            "name": "Bob Edwards",
-            "url": null
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": "10:00pm",
-            "saturday": null
-        },
-	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
-        "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays"
-    },
-    {
         "name": "Sisyphus Brewing Open Mic (Weekly)",
         "venue": "Sisyphus Brewing",
         "url": "http://www.sisyphusbrewing.com/",
@@ -414,26 +394,6 @@
         },
 	"address": "712 Ontario Ave. W. #100, Minneapolis, MN 55403",
         "notes": "Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
-    },
-    {
-        "name": "BALLS Cabaret (Weekly)",
-        "venue": "The Southern Theater",
-        "url": "http://www.southerntheater.org/",
-        "booker": {
-            "name": "Leslie Ball",
-            "url": null
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": "Midnight - 1:30am"
-        },
-	"address": "1420 S. Washington Ave., Minneapolis, MN 55454",
-        "notes": "Variety performance show which includes comedy. This is a sober event for the performers and the audience. Preference is that you've seen one show before you perform, but exceptions may be made. Call week ahead at(612) 340-0155 or arrive between 11:30-11:45 day of and fill out card if it's your first time. Performers get 7 minutes stage time. Theater performance venue, so no light and mic is not always available and comics may have to project voice."
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
