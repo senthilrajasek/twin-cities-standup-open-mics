@@ -49,10 +49,11 @@ gtag('config', 'UA-108586876-1');
 		</ul>
 		<div class="tab-content" id="myTabContent">
 			<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-		<p class="font-italic">(Updated on: 09/28/2021)</p>
+		<p class="font-italic">(Updated on: 09/29/2021)</p>
 		<div id="app">
 			<div v-for="day in days">
 				<h2>{{day}}s</h2>
+				<p v-if="no_mic_day( day)"> Sorry no mics today &#x1F641;.</p>
 				<ul>
 					<li v-for="venue in venue_lookup(day)">
 						{{venue.name}}
@@ -138,10 +139,10 @@ gtag('config', 'UA-108586876-1');
 					"name": "",
 					"venue": "",
 					"url": "",
-					"booker": {
+					"booker": [{
 						"name": "",
 						"url": ""
-					},
+					}],
 					"days": {
 						"sunday": null,
 						"monday": null,
@@ -168,6 +169,10 @@ gtag('config', 'UA-108586876-1');
 						v.showtime = v.days[day];
 						return v.days[day]
 					})
+				},
+				no_mic_day: function ( day) {
+					let venues = this.venue_lookup( day);
+					return Array.isArray( venues) && venues.length == 0;
 				}
 			}
 		})
