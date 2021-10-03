@@ -396,6 +396,26 @@
         "notes": "Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
     },
     {
+        "name": "Friday Open Mic Night (Weekly)",
+        "venue": "The Comedy Corner Underground (Basement of The Corner Bar)- Minneapolis",
+        "url": "http://comedycornerunderground.com/",
+        "booker": {
+            "name": "Bob Edwards",
+            "url": null
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": "10:00pm",
+            "saturday": null
+        },
+	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
+        "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays. <span class=\"fw-bold text-danger\"> Starts Oct22.</span>"
+    },
+    {
 	    "name": "Shotgun - A 60 Minute Open Mic",
 	    "venue": "The Comedy Corner Underground",
 	    "url": "http://www.comedycornerunderground.com/",
@@ -413,7 +433,7 @@
 		    "saturday": "Midnight"
 	    },
 	    "address": "1501 South Washington Avenue,Minneapolis, MN 55454",
-	    "notes": "It's Saturday night. The mood is right. Gonna have some fun, show you how it's done; SHOTGUN. Shotgun is a comedy open mic happening every Saturday at Midnight (or god damn it Sunday morning we get it) at the Comedy Corner Underground. Expect 12 or so comics in rapid sets, with each performer introducing the next.  For potential performers: List is made night of and tossed on the stool in set list order, Sign up starts at 1030pm. You get introed by the person before you, and you'll bring up the next comic. No points, host gets to do whatever they want for the list. <strong> Starts Sat Oct16th. </strong>"
+	    "notes": "It's Saturday night. The mood is right. Gonna have some fun, show you how it's done; SHOTGUN. Shotgun is a comedy open mic happening every Saturday at Midnight (or god damn it Sunday morning we get it) at the Comedy Corner Underground. Expect 12 or so comics in rapid sets, with each performer introducing the next.  For potential performers: List is made night of and tossed on the stool in set list order, Sign up starts at 1030pm. You get introed by the person before you, and you'll bring up the next comic. No points, host gets to do whatever they want for the list. <span class=\"fw-bold text-danger\"> Starts Sat Oct16th. </span>"
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
