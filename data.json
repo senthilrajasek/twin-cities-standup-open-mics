@@ -434,7 +434,7 @@
             "saturday": null
         },
 	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
-        "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays. <span class=\"fs-4 fw-bold text-danger\"> Starts Oct 22.</span>"
+        "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays." 
     },
     {
 	    "name": "Shotgun - A 60 Minute Open Mic",
@@ -462,7 +462,7 @@
         "url": "https://www.facebook.com/CampBarOpenMic/",
         "booker": {
             "name": "James Stanley",
-            "url": "openmiclc@gmail.com"
+            "url": null 
         },
         "days": {
             "sunday": "6:00pm",
@@ -474,6 +474,6 @@
             "saturday": null
         }, 
 	"address": "490 Robert St. N., St. Paul, MN 55191",
-	"notes": "Status during COVID-19 - Open. Sign up starts at 5:30pm. 20 comic cap. 3-5 min each. Ends at 8pm. Parking is free in St.Paul on Sundays."
+	"notes": "Status during COVID-19 - Open. Sign up starts at 5:30pm. 20 comic cap. 3-5 min each. Ends at 8pm. Email James at <a href=\"mailto:openmiclc@gmail.com\">openmiclc@gmail.com</a>. Parking is free in St.Paul on Sundays."
     }
 ]
