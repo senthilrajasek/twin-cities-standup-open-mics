@@ -228,6 +228,27 @@
 	"notes": "Sign up 7-7:45pm. You can also call Seth at 612-209-6641. Each comic gets three minutes of time. Recording is available.&nbsp; Check us out at <a href=\"http://instagram.com/comedyatthecrane\" target=\"_blank\">instagram.com/comedyatthecrane</a> and <a href=\"http://facebook.com/comedyatthecrane\" target=\"_blank\">facebook.com/comedyatthecrane</a>."
     },
     {
+	    "name": "The Comedy Cave At Keg & Case Market (Weekly)",
+	    "days": {
+		    "sunday": null,
+		    "monday": null,
+		    "tuesday": null,
+		    "wednesday": "7:00pm",
+		    "thursday": null,
+		    "friday": null,
+		    "saturday": null
+	    },
+	    "venue": "Keg And Case Market",
+	    
+	    "url": "https://www.facebook.com/kegandcase/",
+	    "booker": [ {
+		    "name": "Ethan Yeshaya",
+		    "url": "mailto:thebookpapa@gmail.com"
+	    }],
+	    "address": "928 7th St W, St Paul, MN 55102",
+	    "notes": "Notes: Each week will feature a special musical guest and a headlining comedian. Sign-ups at 6:00PM. (Headliner is likely at 8:30 and any comedians left on the signup list can go after the headliner). Drinks available upstairs from Clutch Brewery."
+    },
+    {
 	    "name": "Wednesday Night Pizza (Weekly)",
 	    "days": {
 		    "sunday": null,
@@ -413,7 +434,7 @@
             "saturday": null
         },
 	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
-        "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays. <span class=\"fs-2 font-weight-bold text-danger\"> Starts Oct 22.</span>"
+        "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays. <span class=\"fs-4 fw-bold text-danger\"> Starts Oct 22.</span>"
     },
     {
 	    "name": "Shotgun - A 60 Minute Open Mic",
@@ -433,7 +454,7 @@
 		    "saturday": "Midnight"
 	    },
 	    "address": "1501 South Washington Avenue,Minneapolis, MN 55454",
-	    "notes": "It's Saturday night. The mood is right. Gonna have some fun, show you how it's done; SHOTGUN. Shotgun is a comedy open mic happening every Saturday at Midnight (or god damn it Sunday morning we get it) at the Comedy Corner Underground. Expect 12 or so comics in rapid sets, with each performer introducing the next.  For potential performers: List is made night of and tossed on the stool in set list order, Sign up starts at 1030pm. You get introed by the person before you, and you'll bring up the next comic. No points, host gets to do whatever they want for the list. <span class=\"font-weight-bold text-danger\"> Starts Sat Oct16th. </span>"
+	    "notes": "It's Saturday night. The mood is right. Gonna have some fun, show you how it's done; SHOTGUN. Shotgun is a comedy open mic happening every Saturday at Midnight (or god damn it Sunday morning we get it) at the Comedy Corner Underground. Expect 12 or so comics in rapid sets, with each performer introducing the next.  For potential performers: List is made night of and tossed on the stool in set list order, Sign up starts at 1030pm. You get introed by the person before you, and you'll bring up the next comic. No points, host gets to do whatever they want for the list."
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
@@ -441,7 +462,7 @@
         "url": "https://www.facebook.com/CampBarOpenMic/",
         "booker": {
             "name": "James Stanley",
-            "url": null
+            "url": "openmiclc@gmail.com"
         },
         "days": {
             "sunday": "6:00pm",
