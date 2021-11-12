@@ -270,28 +270,6 @@
 
 	    "notes": "Sign up by emailing Nick at <a href=\"mailto:nick@stationpizzeria.com\" target=\"_blank\">nick@stationpizzeria.com</a>, or by calling the store: 952-426-3273.Wednesday night is typically a busy night and is a family friendly venue. Please adjust and clean up your topic material to reflect this as best you can. While not a super strict rule, please be mindful of our audience. Venue is hoping to see how this goes and might make Wednesday night about local comedians there with the right social media spreading. They are happy to cover a round of drinks and some food."
     },
-{
-	"name": "The Laugh Lounge (Weekly)",
-
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": "8:00pm",
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"venue": "Black Hart of St. Paul",
-	"url": "https://www.blackhartstp.com/",
-	"booker": {
-	"name": "Sarah McPeck",
-	"url": "mailto:sarahmcpeckcomedy@gmail.com"
-	},
-	"address": "1415 University Ave. W., St. Paul, MN 55104",
-
-	"notes": "Sign up at 7-7:45 at front of bar. List up by 8. Laugh Lounge is in the back of the bar. Pre-book spots available by emailing <a href=\"mailto:sarahmcpeckcomedy@gmail.com\">Sarah McPeck</a>."
-},
     {
         "name": "Open-Mic Comedy @ The Terminal Bar",
         "venue": "Terminal Bar",
