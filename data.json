@@ -242,10 +242,10 @@
 	    "venue": "Keg And Case Market",
 	    
 	    "url": "https://www.facebook.com/kegandcase/",
-	    "booker": [ {
+	    "booker": {
 		    "name": "Ethan Yeshaya",
 		    "url": "mailto:thebookpapa@gmail.com"
-	    }],
+	    },
 	    "address": "928 7th St W, St Paul, MN 55102",
 	    "notes": "Notes: Each week will feature a special musical guest and a headlining comedian. Sign-ups at 6:00PM. (Headliner is likely at 8:30 and any comedians left on the signup list can go after the headliner). Drinks available upstairs from Clutch Brewery."
     },
@@ -274,11 +274,10 @@
         "name": "Open-Mic Comedy @ The Terminal Bar",
         "venue": "Terminal Bar",
         "url": "http://www.theterminalbar409.com/",
-        "booker": [{
+        "booker": {
             "name": "Corey Nelson",
             "url": "https://www.facebook.com/corey.nelson.7399"
-        }
-        ],
+        },
         "days": {
             "sunday": null,
             "monday": null,
