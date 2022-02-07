@@ -62,8 +62,8 @@
     {
 
         "name": "Uproar Open Mic (Every Monday after the first Monday of the month)",
-        "venue": "Du Nord Craft Spirits",
-        "url": "http://www.dunordcraftspirits.com/",
+        "venue": "(In Between Venues)",
+        "url": "https://www.instagram.com/uproar.minneapolis/",
         "booker": [{
             "name": "Devohn Bland",
             "url": "https://www.facebook.com/devohn.filmmaker9.2"
@@ -83,7 +83,7 @@
             "saturday": null
         },
 	"address": "2610 E. 32nd St., Minneapolis, MN 55406",
-	"notes": "Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 7:30pm. Show runs from 8pm until 9pm. Seven to ten slots with 5-7 minutes each. One headliner gets 10 minutes on occasion based on prior times attending the mic. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.)"
+	"notes": "<span class=\"text-danger fw-bold\">On hold. Check their facebook page or instagram page for the latest info.</span> Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 7:30pm. Show runs from 8pm until 9pm. Seven to ten slots with 5-7 minutes each. One headliner gets 10 minutes on occasion based on prior times attending the mic. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.) <ul class=\"list-inline\"><li class=\"list-item-inline\"><a href=\"https://www.facebook.com/uproarmpls/\">Uproar on Facebook. </a></li><li class=\"list-item-inline\"><a href=\"https://www.instagram.com/uproar.minneapolis/\">Uproar on Instagram.</a></li></ul>"
     },
     {
         "name": "Monday's at Moose",
@@ -352,7 +352,7 @@
             "saturday": null
         },
 	"address": "712 Ontario Ave. W. #100, Minneapolis, MN 55403",
-        "notes": "(Suspended due to Covid -- 1/20/22). Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
+        "notes": "<span class=\" fw-bold text-danger\">Suspended due to Covid -- 1/20/22.</span> Open mic sign up from 6:30-7:30pm with the list posted at 7:45."
     },
     {
         "name": "Yes I Can Can! ( Every Thursday)",
@@ -372,7 +372,7 @@
             "saturday": null
         },
 	"address": "755 Prior Ave N Suite #004, St Paul, MN 55104",
-        "notes": "(Cancelled till further notice -- 02/03/22). Sign up starts at 7:15pm. Sign up get up, show starts at 8:00pm. One weekly headliner (7-10 minutes). Free Entry, Free pizza and 1 free drink for performing comedians. Questions? email Elise at <a href=\"mailto:elisecolecomedy@gmail.com\" target=\"_blank\">elisecolecomedy@gmail.com</a> "
+        "notes": "<span class=\" fw-bold text-danger\">Cancelled till further notice -- 02/03/22.</span> Sign up starts at 7:15pm. Sign up get up, show starts at 8:00pm. One weekly headliner (7-10 minutes). Free Entry, Free pizza and 1 free drink for performing comedians. Questions? email Elise at <a href=\"mailto:elisecolecomedy@gmail.com\" target=\"_blank\">elisecolecomedy@gmail.com</a> "
     },
     {
 	    "name": "Galactic Pizza Open Mic (Weekly)",
@@ -396,7 +396,7 @@
             "saturday": null
         },
 	"address": "2917 Lyndale Ave. S., Minneapolis, MN 55408",
-        "notes": "(Suspended due to Covid -- 1/20/22) Sign-up at 7:15pm. To perform comics will have to show their vaccine info at least once. This is required by the restaurant. There is no requirement if you just want to watch."
+        "notes": "<span class=\"fw-bold text-danger\"> Suspended due to Covid -- 1/20/22.</span> Sign-up at 7:15pm. To perform comics will have to show their vaccine info at least once. This is required by the restaurant. There is no requirement if you just want to watch."
     },
     { 
 	    "name": "Get Up Stand Up Open Mic ( 2nd and 4th Fridays)",
