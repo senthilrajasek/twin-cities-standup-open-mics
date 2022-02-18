@@ -50,7 +50,7 @@ gtag('config', 'UA-108586876-1');
 		</ul>
 		<div class="tab-content" id="myTabContent">
 			<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-		<p class="font-italic">(Updated on: 02/9/2022)</p>
+		<p class="font-italic">(Updated on: 02/17/2022)</p>
 		<div id="app">
 			<div v-for="day in days">
 				<h2>{{day}}s</h2>
@@ -65,6 +65,12 @@ gtag('config', 'UA-108586876-1');
 								Booker:
 								<a v-bind="{href:venue.booker[0].url}">{{venue.booker[0].name}}</a> and
 								<a v-bind="{href:venue.booker[1].url}">{{venue.booker[1].name}}</a>
+							</li>
+							<li v-if="typeof(venue.booker) == 'object' && venue.booker.length==3">
+								Booker:
+								<a v-bind="{href:venue.booker[0].url}">{{venue.booker[0].name}} , </a>
+								<a v-bind="{href:venue.booker[1].url}">{{venue.booker[1].name}} , </a>
+								<a v-bind="{href:venue.booker[2].url}">{{venue.booker[2].name}}</a>
 							</li>
 							<li v-else-if="venue.booker">Booker: <a v-bind="{href:venue.booker.url}">{{venue.booker.name}}</a></li>
 							<li v-if="typeof( venue.address) != undefined">Address: {{ venue.address }} </li>

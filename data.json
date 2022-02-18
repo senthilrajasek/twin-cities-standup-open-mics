@@ -314,27 +314,6 @@
 	    "notes": "Sign up anytime on Wednesdays at <a href=\"http://ethanyeshaya.com/comedycave\" target=\"_blank\">http://ethanyeshaya.com/comedycave</a>. Or message Ethan on <a href=\"http://www.instagram.com/ethanyeshaya\" target=\"_blank\">Instagram</a>. Listed posted at 5pm on this page <a href=\"http://ethanyeshaya.com/list\">http://ethanyeshaya.com/list</a>."
     },
     {
-	    "name": "Wednesday Night Pizza (Weekly)",
-	    "days": {
-		    "sunday": null,
-		    "monday": null,
-		    "tuesday": null,
-		    "wednesday": "7:00pm",
-		    "thursday": null,
-		    "friday": null,
-		    "saturday": null
-	    },
-	    "venue": "Station Pizzeria",
-	    "url": "https://stationpizzeria.com/",
-	    "booker": {
-		    "name": "Nick Engelmeier",
-		    "url": "mailto:nick@stationpizzeria.com"
-	    },
-	    "address": "13008 Minnetonka Blvd, Minnetonka, MN 55305",
-
-	    "notes": "Sign up by emailing Nick at <a href=\"mailto:nick@stationpizzeria.com\" target=\"_blank\">nick@stationpizzeria.com</a>, or by calling the store: 952-426-3273.Wednesday night is typically a busy night and is a family friendly venue. Please adjust and clean up your topic material to reflect this as best you can. While not a super strict rule, please be mindful of our audience. Venue is hoping to see how this goes and might make Wednesday night about local comedians there with the right social media spreading. They are happy to cover a round of drinks and some food."
-    },
-    {
         "name": "Open-Mic Comedy @ The Terminal Bar",
         "venue": "Terminal Bar",
         "url": "http://www.theterminalbar409.com/",
@@ -358,10 +337,18 @@
         "name": "Sisyphus Brewing Open Mic (Weekly)",
         "venue": "Sisyphus Brewing",
         "url": "http://www.sisyphusbrewing.com/",
-        "booker": {
-            "name": "Sam Harriman",
-            "url": "https://www.facebook.com/oneeigthcuban"
+        "booker": [{
+            "name": "Courtney Baka",
+            "url": "https://www.facebook.com/courtneybaka"
         },
+	{
+            "name": "Khadijah Cooper",
+            "url": "https://www.facebook.com/mamaDijah"
+	},
+	{
+            "name": "Grant Winkels",
+            "url": "https://www.facebook.com/grant.winkels"
+	}],
         "days": {
             "sunday": null,
             "monday": null,
