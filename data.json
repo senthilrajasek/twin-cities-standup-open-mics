@@ -62,7 +62,7 @@
     {
 
         "name": "Uproar Open Mic (Every Monday after the first Monday of the month)",
-        "venue": "(In Between Venues)",
+        "venue": "Bryant Lake Bowl",
         "url": "https://www.instagram.com/uproar.minneapolis/",
         "booker": [{
             "name": "Devohn Bland",
@@ -75,15 +75,15 @@
 	}],
         "days": {
             "sunday": null,
-            "monday": "8:00pm",
+            "monday": "7:00pm",
             "tuesday": null,
             "wednesday": null,
             "thursday": null,
             "friday": null,
             "saturday": null
         },
-	"address": "2610 E. 32nd St., Minneapolis, MN 55406",
-	"notes": "<span class=\"text-danger fw-bold\">On hold. Check their facebook page or instagram page for the latest info.</span> Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 7:30pm. Show runs from 8pm until 9pm. Seven to ten slots with 5-7 minutes each. One headliner gets 10 minutes on occasion based on prior times attending the mic. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.) <ul class=\"list-inline\"><li class=\"list-item-inline\"><a href=\"https://www.facebook.com/uproarmpls/\">Uproar on Facebook. </a></li><li class=\"list-item-inline\"><a href=\"https://www.instagram.com/uproar.minneapolis/\">Uproar on Instagram.</a></li></ul>"
+	"address": "810 W Lake St, Minneapolis, MN 55408",
+	"notes": "As of March 2022 Uproar Open Mic is now at Bryant Lake Bowl. Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 6:00pm. Show starts 7:00pm. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.) <ul class=\"list-inline\"><li class=\"list-item-inline\"><a href=\"https://www.facebook.com/uproarmpls/\">Uproar on Facebook. </a></li><li class=\"list-item-inline\"><a href=\"https://www.instagram.com/uproar.minneapolis/\">Uproar on Instagram.</a></li></ul>"
     },
     {
         "name": "Monday's at Moose",
