@@ -255,16 +255,16 @@
 			"url":"https://www.facebook.com/laurenriceisfun"
 	},
 	"days" : {
-		"sunday": null,
+		"sunday": "7:30pm",
 		"monday": null,
-		"tuesday": "5:00pm",
+		"tuesday": null,
 		"wednesday": null,
 		"thursday": null,
 		"friday": null,
 		"saturday": null
 	},
 	"address": "412 14th Ave SE, Minneapolis, MN 55414", 
-	"notes": "Sign up starts at 4:30pm and continues till the end of the mic or contact Lauren to sign up by calling 612-239-3687."
+	"notes": "Sign up at 7:00pm, show starts 7:30pm or contact Lauren to sign up by calling 612-239-3687."
     },
     {
         "name": "Comedy At The Crane (Weekly)",
