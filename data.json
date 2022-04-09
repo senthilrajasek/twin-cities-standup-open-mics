@@ -386,7 +386,7 @@
         "notes": "<span class=\"fw-bold text-danger\"> Suspended due to Covid -- 1/20/22.</span> Sign-up at 7:15pm. To perform comics will have to show their vaccine info at least once. This is required by the restaurant. There is no requirement if you just want to watch."
     },
     { 
-	    "name": "Get Up Stand Up Open Mic ( 2nd and 4th Fridays)",
+	    "name": "Get Up Stand Up Open Mic",
 	    "venue":"Mortimer's",
 	    "url": "https://www.mortimersbar.com/",
 	    "booker": {
@@ -399,31 +399,11 @@
 		    "tuesday": null,
 		    "wednesday": null,
 		    "thursday": null,
-		    "friday": "7:00pm",
+		    "friday": "6:30pm",
 		    "saturday": null
 	    },
 	    "address": "2001 Lyndale Ave., Minneapolis, MN 55405",
-	    "notes": "Sign up at 6:30, show starts at 7pm"
-    },
-    {
-        "name": "Sisyphus Brewing Open Mic (Weekly)",
-        "venue": "Sisyphus Brewing",
-        "url": "http://www.sisyphusbrewing.com/",
-        "booker": {
-            "name": "Sam Harriman",
-            "url": "https://www.facebook.com/oneeigthcuban"
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": "8:00pm - 9:00pm",
-            "saturday": null
-        },
-	"address": "712 Ontario Ave. W. #100, Minneapolis, MN 55403",
-        "notes": "Open mic sign up from 6:00-7:00pm with the list posted at 7:15. First time trying stand-up at Sisyphus? Put a &#11088; by your name to guarantee stage time."
+	    "notes": "Every Friday. Sign up at 6:00, show starts at 6:30pm"
     },
     {
         "name": "Friday Open Mic Night (Weekly)",
