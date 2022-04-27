@@ -361,30 +361,6 @@
 	"address": "755 Prior Ave N Suite #004, St Paul, MN 55104",
         "notes": "Sign up starts at 7:15pm. Sign up get up, show starts at 8:00pm. One weekly headliner (7-10 minutes). Free Entry, Free pizza and 1 free drink for performing comedians. Questions? email Elise at <a href=\"mailto:elisecolecomedy@gmail.com\" target=\"_blank\">elisecolecomedy@gmail.com</a> "
     },
-    {
-	    "name": "Galactic Pizza Open Mic (Weekly)",
-	    "venue": "Galactic Pizza - Uptown Minneapolis",
-	    "url": "http://www.galacticpizza.com/",
-	    "booker": [
-			    { "name": "Zach Kagan",
-				    "url": "https://www.facebook.com/zakagan"
-			    },
-			    {
-				    "name": "Aaron Isaacs",
-				    "url" : "https://www.facebook.com/aaron.isaacs"
-			    }],
-	    "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": "8:00pm",
-            "friday": null,
-            "saturday": null
-        },
-	"address": "2917 Lyndale Ave. S., Minneapolis, MN 55408",
-        "notes": "<span class=\"fw-bold text-danger\"> Suspended due to Covid -- 1/20/22.</span> Sign-up at 7:15pm. To perform comics will have to show their vaccine info at least once. This is required by the restaurant. There is no requirement if you just want to watch."
-    },
     { 
 	    "name": "Get Up Stand Up Open Mic",
 	    "venue":"Mortimer's",
