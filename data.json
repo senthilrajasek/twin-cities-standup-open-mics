@@ -247,6 +247,26 @@
 	    "notes" : "First Tuesday of every month. Sign up in person at 7:30pm and show starts at 8:00pm."
     },
     {
+        "name": "Stand & Deliver (Wednesdays)",
+        "venue": "The Phoenix Theater",
+        "url": "https://www.phoenixtheatermpls.org/",
+        "booker": {
+		"name": "Trish Cook",
+		"url": "http://www.heytrishcook.com/"
+	},
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "7:30pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"address": "2605, Hennepin Ave., Minneapolis, MN 55401",
+	"notes": "Sign up 7pm, show starts 7:30pm. Pre-Show workshop from 5:30-7:00pm."
+    },
+    {
         "name": "Comedy At The Crane (Weekly)",
         "venue": "Underground Music Cafe",
         "url": "http://www.undergroundmusiccafe.com/",
