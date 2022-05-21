@@ -246,6 +246,26 @@
 	"notes": "Sign up 7pm, show starts 7:30pm. Pre-Show workshop from 5:30-7:00pm."
     },
     {
+        "name": "Orale Comedy Open Mic",
+        "venue": "Orale Mexican Eats",
+        "url": "https://oralemexicaneats.com/",
+        "booker": {
+		"name": "Stephen Brandau",
+		"url": ""
+	},
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "8:00pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"address": "5447, Nicollet Ave., Minneapolis, MN.",
+	"notes": "First one is June 1st. Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m. Technically the owner just wants to try it out for a couple weeks before committing, but I'm confident there's no reason she should want to end it. That being said, I definitely have stage time June 1st and June 8th. If you are a pro, reach out to me about getting a spot in advance, but for the most part I'd like sign up to take place in person."
+    },
+    {
         "name": "Comedy At The Crane (Weekly)",
         "venue": "Underground Music Cafe",
         "url": "http://www.undergroundmusiccafe.com/",
