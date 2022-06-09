@@ -231,31 +231,7 @@
 	    "notes" : "Hosted by Denzel Belin, Betty Bang and Shyloh Blake. Show is every 1st and 3rd Tuesday of the month. There will be 2 pre-booked feature spots (7-10 minutes) plus a comedy drag number each show. Sign up in person starts at 7:30, list will go up up about 8:15 and show starts at 8:30. Comics will get 3 minutes. Comics interested in a feature spot can email me at <a href=\"mailto:standupsaloon@gmail.com\" target=\"_blank\">standupsaloon@gmail.com</a>"
     },
     {
-	    "name": "Boundary Open Mic (Monthly)",
-	    "venue": "Boundary Stillwater",
-	    "url" : "https://www.facebook.com/boundarystillwater/",
-	    "booker" : [
-		    { "name": "Andrew Wegleitner", 
-		    "url":"https://www.facebook.com/andrew.wegleitner"
-	    },
-	    { 
-		    "name": "Rebecca Wilson", 
-		    "url":"https://www.facebook.com/rebecca.wilson.9406"
-	    }],
-	    "days" : {
-		    "sunday": null,
-		    "monday": null,
-		    "tuesday": "8:00pm",
-		    "wednesday": null,
-		    "thursday": null,
-		    "friday": null,
-		    "saturday": null
-	    },
-	    "address": "413 Nelson St E, Stillwater, MN 55082",
-	    "notes" : "First Tuesday of every month. Sign up in person at 7:30pm and show starts at 8:00pm."
-    },
-    {
-        "name": "Stand & Deliver (Wednesdays)",
+        "name": "Stand & Deliver ",
         "venue": "The Phoenix Theater",
         "url": "https://www.phoenixtheatermpls.org/",
         "booker": {
@@ -448,6 +424,25 @@
         },
 	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
         "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays." 
+    },
+    {
+	    "name": "Boundary Open Mic",
+	    "venue": "Boundary Stillwater",
+	    "url" : "https://www.facebook.com/boundarystillwater/",
+	    "booker" : { "name": "Tido Maldonado", 
+		    "url":"https://www.facebook.com/tido.maldonado"
+	    },
+	    "days" : {
+		    "sunday": null,
+		    "monday": null,
+		    "tuesday": null,
+		    "wednesday": null,
+		    "thursday": null,
+		    "friday": null,
+		    "saturday": "6:30pm"
+	    },
+	    "address": "413 Nelson St E, Stillwater, MN 55082",
+	    "notes" : "Every Saturday. Sign up in person at 5:30pm and show starts at 6:30pm."
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
