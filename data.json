@@ -162,26 +162,6 @@
         "notes": "Notes: 6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm."
     },
     {
-        "name": "Vibin' Collective Open Mic (1st & 3rd Tuesday of the month)",
-        "venue": "Taste of Rondo",
-        "url": "https://tasteofrondo.com/",
-        "booker": {
-            "name": "Vibin' Collective",
-            "url": "https://www.facebook.com/VibinCollective"
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": "7:00pm",
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"address": "970 Concordia Ave, St. Paul, MN",
-        "notes": "This is open to all artist but spoken word driven."
-    },
-    {
         "name": "VFW Comedy Night (3rd Tuesday of every month)",
         "venue": "Minneapolis Uptown VFW",
         "url": "https://uptownvfw246.org/",
@@ -231,26 +211,6 @@
 	    "notes" : "Hosted by Denzel Belin, Betty Bang and Shyloh Blake. Show is every 1st and 3rd Tuesday of the month. There will be 2 pre-booked feature spots (7-10 minutes) plus a comedy drag number each show. Sign up in person starts at 7:30, list will go up up about 8:15 and show starts at 8:30. Comics will get 3 minutes. Comics interested in a feature spot can email me at <a href=\"mailto:standupsaloon@gmail.com\" target=\"_blank\">standupsaloon@gmail.com</a>"
     },
     {
-        "name": "Stand & Deliver ",
-        "venue": "The Phoenix Theater",
-        "url": "https://www.phoenixtheatermpls.org/",
-        "booker": {
-		"name": "Trish Cook",
-		"url": "http://www.heytrishcook.com/"
-	},
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": null,
-            "wednesday": "7:30pm",
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"address": "2605, Hennepin Ave., Minneapolis, MN 55401",
-	"notes": "Sign up 7pm, show starts 7:30pm. Pre-Show workshop from 5:30-7:00pm."
-    },
-    {
         "name": "Orale Comedy Open Mic",
         "venue": "Orale Mexican Eats",
         "url": "https://oralemexicaneats.com/",
@@ -268,7 +228,7 @@
             "saturday": null
         },
 	"address": "5447, Nicollet Ave., Minneapolis, MN.",
-	"notes": "First one is June 1st. Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m. Technically the owner just wants to try it out for a couple weeks before committing, but I'm confident there's no reason she should want to end it. That being said, I definitely have stage time June 1st and June 8th. If you are a pro, reach out to me about getting a spot in advance, but for the most part I'd like sign up to take place in person."
+	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m. Technically the owner just wants to try it out for a couple weeks before committing, but I'm confident there's no reason she should want to end it. That being said, I definitely have stage time June 1st and June 8th. If you are a pro, reach out to me about getting a spot in advance, but for the most part I'd like sign up to take place in person."
     },
     {
         "name": "Comedy At The Crane (Weekly)",
@@ -442,7 +402,7 @@
 		    "saturday": "6:30pm"
 	    },
 	    "address": "413 Nelson St E, Stillwater, MN 55082",
-	    "notes" : "Every Saturday. Sign up in person at 5:30pm and show starts at 6:30pm."
+	    "notes" : "Starts June 18th, 2022. Every Saturday. Sign up in person at 5:30pm and show starts at 6:30pm."
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
