@@ -385,6 +385,26 @@
 	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
         "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays." 
     },
+{
+        "name": "A Night of Stand Up Comedy (Weekly)",
+        "venue": "Dual Citizen Brewing",
+        "url": "https://dcbc.com/",
+        "booker": {
+            "name": "Boima Freeman",
+            "url": null
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": "8:30pm",
+            "saturday": null
+        },
+	"address": "725 Raymond Ave. St. Paul, MN 55114",
+        "notes": "Sign Ups begin at 7:30 and the show kicks off at 8:30 ~ 15 Slots available ~ One FREE drink ticket for each performer and $1 Off Brews ALL NIGHT!!"
+    },
     {
 	    "name": "Boundary Open Mic",
 	    "venue": "Boundary Stillwater",
