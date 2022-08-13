@@ -419,10 +419,10 @@
 		    "wednesday": null,
 		    "thursday": null,
 		    "friday": null,
-		    "saturday": "6:30pm"
+		    "saturday": "6:00pm"
 	    },
 	    "address": "413 Nelson St E, Stillwater, MN 55082",
-	    "notes" : "Starts June 18th, 2022. Every Saturday. Sign up in person at 5:30pm and show starts at 6:30pm."
+	    "notes" : "Starts June 18th, 2022. Every Saturday. Sign up in person at 5:30pm and show starts at 6:00pm."
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
@@ -449,8 +449,8 @@
 	"venue":"Blarney's Pub & Grill Open Mic",
 	"url": "https://www.blarneypubmn.com/",
 	"booker": { 
-			"name": "Lauren Rice",
-			"url":"https://www.facebook.com/laurenriceisfun"
+			"name": "Foz Huze",
+			"url":"https://www.facebook.com/profile.php?id=100080918794850"
 	},
 	"days" : {
 		"sunday": "7:30pm",
@@ -462,6 +462,6 @@
 		"saturday": null
 	},
 	"address": "412 14th Ave SE, Minneapolis, MN 55414", 
-	"notes": "Sign up at 7:00pm, show starts 7:30pm or contact Lauren to sign up by calling 612-239-3687."
+	"notes": "Sign up at 7:00pm, show starts 7:30pm."
     }
 ]
