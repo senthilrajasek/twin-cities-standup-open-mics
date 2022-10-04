@@ -221,14 +221,14 @@
         "days": {
             "sunday": null,
             "monday": null,
-            "tuesday": null,
-            "wednesday": "8:00pm",
+            "tuesday": "8:00pm",
+            "wednesday": null,
             "thursday": null,
             "friday": null,
             "saturday": null
         },
 	"address": "5447, Nicollet Ave., Minneapolis, MN.",
-	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m. Technically the owner just wants to try it out for a couple weeks before committing, but I'm confident there's no reason she should want to end it. That being said, I definitely have stage time June 1st and June 8th. If you are a pro, reach out to me about getting a spot in advance, but for the most part I'd like sign up to take place in person."
+	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m."
     },
     {
         "name": "Comedy At The Crane (Weekly)",
