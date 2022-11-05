@@ -426,25 +426,6 @@
         "notes": "Sign Ups begin at 7:30 and the show kicks off at 8:30 ~ 15 Slots available ~ One FREE drink ticket for each performer and $1 Off Brews ALL NIGHT!!"
     },
     {
-	    "name": "Boundary Open Mic",
-	    "venue": "Boundary Stillwater",
-	    "url" : "https://www.facebook.com/boundarystillwater/",
-	    "booker" : { "name": "Tido Maldonado", 
-		    "url":"https://www.facebook.com/tido.maldonado"
-	    },
-	    "days" : {
-		    "sunday": null,
-		    "monday": null,
-		    "tuesday": null,
-		    "wednesday": null,
-		    "thursday": null,
-		    "friday": null,
-		    "saturday": "6:30pm"
-	    },
-	    "address": "413 Nelson St E, Stillwater, MN 55082",
-	    "notes" : "Starts June 18th, 2022. Every Saturday. Sign up in person at 5:30pm and show starts at 6:30pm."
-    },
-    {
         "name": "Camp Bar Open Mic (Weekly)",
         "venue": "Camp Bar",
         "url": "https://www.facebook.com/CampBarOpenMic/",
