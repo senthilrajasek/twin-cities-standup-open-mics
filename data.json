@@ -142,44 +142,24 @@
         "notes": "Notes: 6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm."
     },
 {
-	"name": "Wrong Side Of The Tracks Open Mic (2nd & 4th Tuesday)",
-	"venue": "Depot Coffee House/The Freight Room",
-	"url": "https://www.thedepotcoffeehouse.com/",
-	"address": "9451 Excelsior Blvd, Hopkins, MN 55343",
-	"booker": {
-		"name":"Whitney Haverstock",
-		"url": "willstopha@gmail.com"
-	},
-	"days": {
-		"sunday": null,
-		"monday": null,
-		"tuesday": "7:00pm",
-		"wednesday": null,
-		"thursday": null,
-		"friday": null,
-		"saturday": null
-	},
-	"notes": "Whitney can be emailed or messaged if folks have any questions <a href=\"mailto:willstopha@gmail.com\" target=\"_blank\">willstopha@gmail.com</a> or text 952-288-8762</div>"
-},
-{
-        "name": "VFW Comedy Night (3rd Tuesday of every month)",
-        "venue": "Minneapolis Uptown VFW",
-        "url": "https://uptownvfw246.org/",
+        "name": "612 Brew Comedy Open Mic (Weekly)",
+        "venue": "612 Brew",
+        "url": "https://612brew.com/",
         "booker": {
-            "name": "Hessley Rey",
-            "url": "https://www.facebook.com/hessley.rey?fref=ts"
+            "name": "Dan Juola",
+            "url": "https://www.facebook.com/danzorz"
         },
         "days": {
             "sunday": null,
             "monday": null,
-            "tuesday": "8:30pm",
+            "tuesday": "8:00pm",
             "wednesday": null,
             "thursday": null,
             "friday": null,
             "saturday": null
         },
-	"address": "2916 Lyndale Ave. S., Minneapolis, MN 55408",
-        "notes": "Pre-booked. Sign up with Hessley on Facebook."
+	"address": "945 Broadway St, NE Minnneapolis, MN 55413",
+        "notes": "Starting Dec 06th, 2022. Sign up 7:30, show starts 8:00pm."
     },
     {
 
