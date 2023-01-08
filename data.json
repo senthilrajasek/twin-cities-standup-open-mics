@@ -434,7 +434,7 @@
 			"url":"https://www.facebook.com/profile.php?id=100080918794850"
 	},
 	"days" : {
-		"sunday": "7:30pm",
+		"sunday": "8:00pm",
 		"monday": null,
 		"tuesday": null,
 		"wednesday": null,
@@ -443,6 +443,6 @@
 		"saturday": null
 	},
 	"address": "412 14th Ave SE, Minneapolis, MN 55414", 
-	"notes": "Sign up at 7:00pm, show starts 7:30pm."
+	"notes": "Sign up at 7:00pm, show starts 8:00pm."
     }
 ]
