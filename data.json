@@ -66,6 +66,26 @@
 	"notes": "As of March 2022 Uproar Open Mic is now at Bryant Lake Bowl. Comedy open mic for women, trans, non-binary, black, brown, indigenous, gay, lesbian, bisexual and pansexual folk and/or for any of these identities. Will not ask questions about how you identify, (other than your pronouns for the sake of announcing you on stage referring to you when your name doesn't work for something) but you're pretty much admitting you are one of those identities by doing the mic. Sign up in person at 6:00pm. Show starts 7:00pm. You can also sign up in advance via email: <a href=\"mailto:vector9varietyshow@gmail.com\">vector9varietyshow@gmail.com</a> - (this email is used for sign ups for more than one mic so please specify which one you're referring to in the email header.) <ul class=\"list-inline\"><li class=\"list-item-inline\"><a href=\"https://www.facebook.com/uproarmpls/\">Uproar on Facebook. </a></li><li class=\"list-item-inline\"><a href=\"https://www.instagram.com/uproar.minneapolis/\">Uproar on Instagram.</a></li></ul>"
     },
     {
+        "name": "Half Baked Spirits (Weekly)",
+        "venue": "Natreum Hemp Wellness",
+        "url": "https://natreum.com",
+        "days": {
+            "sunday": null,
+            "monday": "7:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"booker": {
+		"name": "Frankie Runquist",
+		"url": "https://www.facebook.com/frankie.runquist"
+	},
+	"address": "4815 Excelsior Blvd, St Louis Park, MN 55416",
+        "notes": "Notes:&nbsp;For those who want to sign up for the first time ever or for those who just want to work on new material, all are welcome! Sign up will be in person at 6PM! Spread the word and bring your friends!"
+    },
+{
         "name": "Monday's at Moose",
         "venue": "Moose Bar and Grill (NE)",
         "url": "https://moosene.com",
