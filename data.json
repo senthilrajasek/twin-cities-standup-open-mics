@@ -106,6 +106,26 @@
         "notes": "Free show. Sign up at 7:30. Show at 9."
     },
     {
+        "name": "Open Mic Comedy @ Dangerous Man ( Monthly 2nd Monday )",
+        "venue": "Dangerous Man Brewing",
+        "url": "https://dangerousmanbrewing.com/",
+        "days": {
+            "sunday": null,
+            "monday": "7:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"booker": {
+		"name": "Carinda Rae Larson",
+		"url": "https://www.facebook.com/carinda.larson"
+	},
+	"address": "1300 2nd St NE, Minneapolis, MN",
+        "notes": "Notes: Sign up in person between 4-6:30pm. List posted at 6:45pm. Performers get one free beer. Show starts 7:00pm."
+    },
+    {
         "name": "Camp Bar Open Mic Night (Weekly except for 1st Monday of the month)",
         "venue": "Camp Bar",
         "url": "https://www.facebook.com/CampBarOpenMic/",
