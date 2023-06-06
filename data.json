@@ -192,18 +192,18 @@
         "days": {
             "sunday": null,
             "monday": null,
-            "tuesday": "8:00pm",
+            "tuesday": "7:00pm",
             "wednesday": null,
             "thursday": null,
             "friday": null,
             "saturday": null
         },
 	"address": "945 Broadway St, NE Minnneapolis, MN 55413",
-        "notes": "Starting Dec 06th, 2022. Sign up 7:30, show starts 8:00pm."
+        "notes": "Sign up 6:30, show starts 7:00pm."
     },
     {
 
-	    "name": "Stand-Up Saloon ( 1st and 3rd Tuesday of the month)",
+	    "name": "Stand-Up Saloon ( Weekly )",
 	    "venue": "The Saloon",
 	    "url" : "https://www.facebook.com/standupsaloon/",
 	    "booker" : [{ 
@@ -295,30 +295,6 @@
         },
 	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
 	"notes": "Sign up 6:30-7:30pm at the venue."
-    },
-{
-	    "name": "The Comedy Cave At Keg & Case Market (Weekly)",
-	    "days": {
-		    "sunday": null,
-		    "monday": null,
-		    "tuesday": null,
-		    "wednesday": "7:00pm",
-		    "thursday": null,
-		    "friday": null,
-		    "saturday": null
-	    },
-	    "venue": "Keg And Case Market",
-	    
-	    "url": "https://www.facebook.com/kegandcase/",
-	    "booker": [{
-		    "name": "Gabby Ok",
-		    "url": "https://www.instagram.com/g_isforgabby/"
-	    },{
-		    "name": "Sofia Bisbocci",
-		    "url": "https://www.instagram.com/sofiabisbocci/"
-	    }],
-	    "address": "928 7th St W, St Paul, MN 55102",
-	    "notes": "Sign up anytime on Wednesdays at <a href=\"http://ethanyeshaya.com/comedycave\" target=\"_blank\">http://ethanyeshaya.com/comedycave</a>. Listed posted at 5pm on this page <a href=\"http://ethanyeshaya.com/list\">http://ethanyeshaya.com/list</a>."
     },
     {
         "name": "Open-Mic Comedy @ The Terminal Bar",
