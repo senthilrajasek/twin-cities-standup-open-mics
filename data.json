@@ -71,7 +71,7 @@
         "url": "https://natreum.com",
         "days": {
             "sunday": null,
-            "monday": "7:00pm",
+            "monday": "6:00pm",
             "tuesday": null,
             "wednesday": null,
             "thursday": null,
@@ -83,7 +83,7 @@
 		"url": "https://www.facebook.com/frankie.runquist"
 	},
 	"address": "4815 Excelsior Blvd, St Louis Park, MN 55416",
-        "notes": "Notes:&nbsp;For those who want to sign up for the first time ever or for those who just want to work on new material, all are welcome! Sign up will be in person at 6PM! Spread the word and bring your friends!"
+        "notes": "Notes:&nbsp;For those who want to sign up for the first time ever or for those who just want to work on new material, all are welcome! Sign up will be in person at 5PM! Spread the word and bring your friends!"
     },
 {
         "name": "Monday's at Moose",
@@ -363,6 +363,26 @@
         },
 	"address": "755 Prior Ave N Suite #004, St Paul, MN 55104",
         "notes": "Sign up starts at 7:15pm. Sign up get up, show starts at 8:00pm. One weekly headliner (7-10 minutes). Free Entry, Free pizza and 1 free drink for performing comedians. Questions? email Elise at <a href=\"mailto:elisecolecomedy@gmail.com\" target=\"_blank\">elisecolecomedy@gmail.com</a> "
+    },
+    {
+        "name": "Thursday Night Stand-up Comedy! ( On Summer break till Sept 7th.)",
+        "venue": "10K Brewing, Anoka, MN",
+        "url": "https://cancanwonderland.com/",
+        "booker": {
+            "name": "Casey Flesch",
+            "url": "https://www.facebook.com/CaseyFleschComedy"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": "7:00pm - 9:00pm",
+            "friday": null,
+            "saturday": null
+        },
+	"address": "2005 2nd Ave, Anoka, MN 55303 US",
+        "notes": "** On a Summer break, will be back September 7th**. Join us every Thursday Night from 7-9PM in the Empire Room for Nice Beer and laughs with your emcee Casey Flesch! This is a FREE event, and suitable for adults only. Every show will have a headliner and you can sign up to perform as well!"
     },
     { 
 	    "name": "Get Up Stand Up Open Mic",
