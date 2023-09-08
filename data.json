@@ -328,8 +328,8 @@
             "sunday": null,
             "monday": null,
             "tuesday": null,
-            "wednesday": null,
-            "thursday": "8:00pm - 10:00pm",
+            "wednesday": "8:00pm - 10:00pm",
+            "thursday": "null",
             "friday": null,
             "saturday": null
         },
@@ -385,9 +385,9 @@
         "notes": "Open mic sign up from 6:00-7:00pm with the list posted at 7:15. First time trying stand-up at Sisyphus? Put a &#11088; by your name to guarantee stage time."
     },
     {
-        "name": "Thursday Night Stand-up Comedy! ( On Summer break till Sept 7th.)",
+        "name": "Thursday Night Stand-up Comedy!",
         "venue": "10K Brewing, Anoka, MN",
-        "url": "https://cancanwonderland.com/",
+        "url": "https://10kbrew.com/",
         "booker": {
             "name": "Casey Flesch",
             "url": "https://www.facebook.com/CaseyFleschComedy"
@@ -402,7 +402,7 @@
             "saturday": null
         },
 	"address": "2005 2nd Ave, Anoka, MN 55303 US",
-        "notes": "** On a Summer break, will be back September 7th**. Join us every Thursday Night from 7-9PM in the Empire Room for Nice Beer and laughs with your emcee Casey Flesch! This is a FREE event, and suitable for adults only. Every show will have a headliner and you can sign up to perform as well!"
+        "notes": "Join us every Thursday Night from 7-9PM in the Empire Room for Nice Beer and laughs with your emcee Casey Flesch! This is a FREE event, and suitable for adults only. Every show will have a headliner and you can sign up to perform as well!"
     },
     { 
 	    "name": "Get Up Stand Up Open Mic",
@@ -422,7 +422,7 @@
 		    "saturday": null
 	    },
 	    "address": "2001 Lyndale Ave., Minneapolis, MN 55405",
-	    "notes": "Every Friday. Sign up at 6:00, show starts at 6:30pm"
+	    "notes": "Every Friday. Sign up at 6:00, show starts at 6:30pm.Last friday of each month is an improv jam open to all skill levels. Improvisers please check in at 6:00 if you want to jam. Come prepared with an understanding of what longform improv is, this is not an improv class."
     },
     {
         "name": "Friday Open Mic Night (Weekly)",
