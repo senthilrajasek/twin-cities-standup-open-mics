@@ -338,6 +338,27 @@
         "notes": "Sign up get up, show starts at 8:00pm. One weekly headliner (7-10 minutes). Free Entry, Free pizza and 1 free drink for performing comedians. Questions? email Elise at <a href=\"mailto:elisecolecomedy@gmail.com\" target=\"_blank\">elisecolecomedy@gmail.com</a>. Beginning August 3rd the Yes I Can Can open mic will be held EVERY WEDNESDAY from 7-9 pm on the Starlight Stage! Sign up starts at 6:30! "
     },
     {
+        "name": "Comedy Night",
+        "venue": "Superior Tavern",
+        "url": "https://www.superiortavern.com/",
+        "booker": {
+		"name": "",
+		"url": ""
+	},
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "7:00pm - 8:30pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"address": "1224 Tower Ave., Superior, WI",
+	"city" : "Duluth",
+	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m."
+    },
+    {
         "name": "Open-Mic Comedy @ The Terminal Bar",
         "venue": "Terminal Bar",
         "url": "http://www.theterminalbar409.com/",
@@ -464,6 +485,27 @@
         },
 	"address": "725 Raymond Ave. St. Paul, MN 55114",
         "notes": "Sign Ups begin at 7:30 and the show kicks off at 8:30 ~ 15 Slots available ~ One FREE drink ticket for each performer and $1 Off Brews ALL NIGHT!!"
+    },
+    {
+        "name": "Open Mic Comedy",
+        "venue": "Dubh Linn Irish Brew Pub",
+        "url": "https://dubhlinnpub.com/",
+        "booker": {
+		"name": "",
+		"url": ""
+	},
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": "8:00pm",
+            "saturday": null
+        },
+	"address": "109 W Superior St., Duluth, MN",
+	"city" : "Duluth",
+	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m."
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
