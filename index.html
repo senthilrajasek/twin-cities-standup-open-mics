@@ -176,13 +176,16 @@
 
 					this.days.push.apply( this.days, this.days.splice(0, dayNum));
 				},
-				venue_lookup: function (day) {
+				venue_lookup: function (day, city = 'twincities') {
 					if( this.venues === null) {
 						return null;
 					}
 					let result = this.venues.filter(function (v) {
 						day = day.toLowerCase();
-						return v.days[day]
+						if (v.city == null) {
+							v.city = 'twincities';
+					}
+						return v.days[day] && v.city == city;
 					})
 					if( result != null && Array.isArray( result) && result.length != 0) {
 						result.map( function( v) {

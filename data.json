@@ -231,8 +231,8 @@
 	    "notes" : "Hosted by Denzel Belin, Betty Bang and Shyloh Blake. Show is every 1st and 3rd Tuesday of the month. There will be 2 pre-booked feature spots (7-10 minutes) plus a comedy drag number each show. Sign up in person starts at 7:30, list will go up up about 8:15 and show starts at 8:30. Comics will get 3 minutes. Comics interested in a feature spot can email me at <a href=\"mailto:standupsaloon@gmail.com\" target=\"_blank\">standupsaloon@gmail.com</a>"
     },
     {
-        "name": "Orale Comedy Open Mic",
-        "venue": "Orale Mexican Eats",
+        "name": "Comedy Open Mic",
+        "venue": "Caddy Shack Indoor Golf & Pub",
         "url": "https://oralemexicaneats.com/",
         "booker": {
 		"name": "Stephen Brandau",
@@ -247,7 +247,8 @@
             "friday": null,
             "saturday": null
         },
-	"address": "5447, Nicollet Ave., Minneapolis, MN.",
+	"address": "2023, W Superior st., Duluth, MN",
+	"city" : "Duluth",
 	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m."
     },
     {
