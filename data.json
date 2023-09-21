@@ -78,6 +78,7 @@
             "friday": null,
             "saturday": null
         },
+	"status": "inactive",
 	"booker": {
 		"name": "Frankie Runquist",
 		"url": "https://www.facebook.com/frankie.runquist"
@@ -394,6 +395,8 @@
             "name": "Grant Winkels",
             "url": "https://www.facebook.com/grant.winkels"
 	}],
+	"city": "Minneapolis",
+	"status": "active",
         "days": {
             "sunday": null,
             "monday": null,
@@ -407,13 +410,15 @@
         "notes": "Open mic sign up from 6:00-7:00pm with the list posted at 7:15. First time trying stand-up at Sisyphus? Put a &#11088; by your name to guarantee stage time."
     },
     {
-        "name": "Thursday Night Stand-up Comedy!",
+        "name": "Thursday Night Stand-up Comedy! (On Hold)",
         "venue": "10K Brewing, Anoka, MN",
         "url": "https://10kbrew.com/",
         "booker": {
             "name": "Casey Flesch",
             "url": "https://www.facebook.com/CaseyFleschComedy"
         },
+	"city": "Anoka",
+	"status": "active",
         "days": {
             "sunday": null,
             "monday": null,

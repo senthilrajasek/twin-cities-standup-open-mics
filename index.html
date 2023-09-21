@@ -176,17 +176,24 @@
 
 					this.days.push.apply( this.days, this.days.splice(0, dayNum));
 				},
-				venue_lookup: function (day, city = 'twincities') {
+				venue_lookup: function (day, city = 'minneapolis', status = 'active') {
+				var isTwincities = function ( city){
+					var cities = [ 'minneapolis', 'st.paul', 'anoka']
+					return cities.includes( city.toLowerCase());
+				};
 					if( this.venues === null) {
 						return null;
 					}
 					let result = this.venues.filter(function (v) {
 						day = day.toLowerCase();
 						if (v.city == null) {
-							v.city = 'twincities';
+							v.city = 'minneapolis';
 					}
-						return v.days[day] && v.city == city;
-					})
+						if ( v.status == null) {
+							v.status = 'active';
+						}
+						return v.days[day] && isTwincities( v.city) && v.status == 'active' ;
+					});
 					if( result != null && Array.isArray( result) && result.length != 0) {
 						result.map( function( v) {
 							v.showtime = v.days[day];
