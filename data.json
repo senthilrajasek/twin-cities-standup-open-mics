@@ -336,6 +336,7 @@
             "saturday": null
         },
 	"address": "755 Prior Ave N Suite #004, St Paul, MN 55104",
+	"city": "St.Paul",
         "notes": "Sign up get up, show starts at 8:00pm. One weekly headliner (7-10 minutes). Free Entry, Free pizza and 1 free drink for performing comedians. Questions? email Elise at <a href=\"mailto:elisecolecomedy@gmail.com\" target=\"_blank\">elisecolecomedy@gmail.com</a>. Beginning August 3rd the Yes I Can Can open mic will be held EVERY WEDNESDAY from 7-9 pm on the Starlight Stage! Sign up starts at 6:30! "
     },
     {
@@ -367,6 +368,8 @@
             "name": "Corey Nelson",
             "url": "https://www.facebook.com/corey.nelson.7399"
         },
+	"city": "Minneapolis",
+	"status": "active",
         "days": {
             "sunday": null,
             "monday": null,
