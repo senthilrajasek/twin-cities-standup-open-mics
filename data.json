@@ -481,6 +481,8 @@
             "name": "Boima Freeman",
             "url": null
         },
+	"city": "Minneapolis",
+	"status": "inactive",
         "days": {
             "sunday": null,
             "monday": null,
