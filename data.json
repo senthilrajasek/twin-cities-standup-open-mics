@@ -111,6 +111,10 @@
         "name": "Open Mic Comedy @ Dangerous Man ( Monthly 2nd Monday )",
         "venue": "Dangerous Man Brewing",
         "url": "https://dangerousmanbrewing.com/",
+	"booker": {
+		"name": "Carinda Rae Larson",
+		"url": "https://www.facebook.com/carinda.larson"
+	},
         "days": {
             "sunday": null,
             "monday": "7:00pm",
@@ -120,10 +124,8 @@
             "friday": null,
             "saturday": null
         },
-	"booker": {
-		"name": "Carinda Rae Larson",
-		"url": "https://www.facebook.com/carinda.larson"
-	},
+	"city": "Minneapolis",
+	"status": "inactive",
 	"address": "1300 2nd St NE, Minneapolis, MN",
         "notes": "Notes: Sign up in person between 4-6:30pm. List posted at 6:45pm. Performers get one free beer. Show starts 7:00pm."
     },
@@ -200,6 +202,8 @@
             "friday": null,
             "saturday": null
         },
+	"city": "Minneapolis",
+	"status": "inactive",
 	"address": "945 Broadway St, NE Minnneapolis, MN 55413",
         "notes": "Sign up 6:30, show starts 7:00pm."
     },
