@@ -207,6 +207,28 @@
 	"address": "945 Broadway St, NE Minnneapolis, MN 55413",
         "notes": "Sign up 6:30, show starts 7:00pm."
     },
+{
+        "name": "Craic Up Comedy Night (Weekly)",
+        "venue": "Morissey's Irish Pub",
+        "url": "https://morrisseysuptown.com/",
+        "booker": {
+            "name": "Alex Swalve",
+            "url": "https://www.instagram.com/alexswalve/"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": "8:00pm",
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"city": "Minneapolis",
+	"status": "active",
+	"address": "913 W Lake St, Minneapolis, MN 55408",
+        "notes": "Sign up 7:30pm, show starts 8:00pm. Step into the spotlight every Tuesday at 8pm for Morrissey's Irish Pub's Craic Up Open Mic Comedy Night! Whether you're a seasoned comic or just testing the waters, our stage is your canvas. Plus, those who dare to perform enjoy exclusive drink specials to keep the creativity flowing. Join us for a night of hilarity, camaraderie, and unforgettable moments."
+    },
     {
 
 	    "name": "Stand-Up Saloon ( Weekly )",
