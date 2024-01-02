@@ -437,6 +437,28 @@
 	"address": "712 Ontario Ave. W. #100, Minneapolis, MN 55403",
         "notes": "Open mic sign up from 6:00-7:00pm with the list posted at 7:15. First time trying stand-up at Sisyphus? Put a &#11088; by your name to guarantee stage time."
     },
+{
+        "name": "Megastellar Open Mic Night",
+        "venue": "Midway Saloon",
+        "url": "https://midwaysaloon.com/",
+        "booker": {
+            "name": "Ciana Violet",
+            "url": "https://www.instagram.com/ciannaviolet/"
+        },
+	"city": "St.Paul",
+	"status": "active",
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": "8:00pm",
+            "friday": null,
+            "saturday": null
+        },
+	"address": "1567 University Avenue, Saint Paul, Minnesota 55104, United States", 
+	"notes": "Every 1st Thursday of the month. Online sign up before 6pm on the day of the mic using link in bio <a href=\"https://www.instagram.com/megastellar.mic/\">https://www.instagram.com/megastellar.mic/</a>. Show starts 8pm."
+    },
     {
         "name": "Thursday Night Stand-up Comedy! (On Hold)",
         "venue": "10K Brewing, Anoka, MN",
