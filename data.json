@@ -353,6 +353,7 @@
             "name": "Elise Cole",
             "url": "https://www.facebook.com/eeijadi"
         },
+	"status": "inactive",
         "days": {
             "sunday": null,
             "monday": null,
@@ -394,7 +395,7 @@
             "name": "Corey Nelson",
             "url": "https://www.facebook.com/corey.nelson.7399"
         },
-	"status": "inactive",
+	"status": "active",
         "days": {
             "sunday": null,
             "monday": null,
