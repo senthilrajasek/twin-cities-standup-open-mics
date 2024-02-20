@@ -566,6 +566,28 @@
 	"city" : "Duluth",
 	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m."
     },
+    { 
+	    "name": "Stand Up Comedy Open Mic",
+	    "venue":"The Joint",
+	    "url": "https://www.facebook.com/TheJointBar/",
+	    "booker": {
+		    "name": "Trey Charles",
+		    "url": "https://www.facebook.com/william.stonebarger.7"
+	    },
+        "city": "Minneapolis",
+        "status": "active",
+	    "days": {
+		    "sunday": null,
+		    "monday": null,
+		    "tuesday": null,
+		    "wednesday": null,
+		    "thursday": null,
+		    "friday": null,
+		    "saturday": "8:00pm"
+	    },
+	    "address": "913 Cedar Ave S, Minneapolis, MN, United States, Minnesota",
+	    "notes": "Every Saturday. Sign up at 7:30pm, Show at 8:00pm. 21+."
+    },
     {
         "name": "Camp Bar Open Mic (Weekly)",
         "venue": "Camp Bar",
