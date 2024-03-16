@@ -49,7 +49,7 @@
 		</ul>
 		<div class="tab-content" id="myTabContent">
 			<div class="tab-pane fade show active" id="home" role="tabpanel" aria-labelledby="home-tab">
-			<p class="font-italic" style="padding-top: 1em;">(Updated on: 02/20/2024)</p>
+			<p class="font-italic" style="padding-top: 1em;">(Updated on: 03/15/2024)</p>
 		<div id="app">
 			<div v-for="day in days">
 				<h2>{{day}}s</h2>
@@ -180,7 +180,8 @@
 				},
 				venue_lookup: function (day, city = 'minneapolis', status = 'active') {
 				var isTwincities = function ( city){
-					var cities = [ 'minneapolis', 'st.paul', 'anoka']
+					var cities = [ 'minneapolis', 'st.paul', 
+                        'hopkins', 'anoka'];
 					return cities.includes( city.toLowerCase());
 				};
 					if( this.venues === null) {

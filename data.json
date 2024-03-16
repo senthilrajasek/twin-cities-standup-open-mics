@@ -206,7 +206,7 @@
 	"status": "inactive",
 	"address": "945 Broadway St, NE Minnneapolis, MN 55413",
         "notes": "Sign up 6:30, show starts 7:00pm."
-    },
+},
 {
         "name": "Craic Up Comedy Night (Weekly)",
         "venue": "Morissey's Irish Pub",
@@ -228,36 +228,80 @@
 	"status": "active",
 	"address": "913 W Lake St, Minneapolis, MN 55408",
         "notes": "Sign up 7pm, show starts 8pm. Step into the spotlight every Tuesday at 8pm for Morrissey's Irish Pub's Craic Up Open Mic Comedy Night! Whether you're a seasoned comic or just testing the waters, our stage is your canvas. Plus, those who dare to perform enjoy exclusive drink specials to keep the creativity flowing. Join us for a night of hilarity, camaraderie, and unforgettable moments."
+},
+{
+        "name": "Gambit Brewing Lowerton Open Mic",
+        "venue": "Gambit Brewing",
+        "url": "http://gambitbrewing.com",
+        "booker": {
+            "name": "Jesse The Shrink",
+            "url": "https://instagram.com/jesse _the_shrink"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": "7:00pm",
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"city": "St.Paul",
+	"status": "active",
+	"address": "141 4th Street East, Suite LL2, St Paul, MN 55101",
+        "notes": "Sign-up online Tuesdays from 8am-noon, list posted at 1pm, all at Linktr.ee/GambitBrewingOpenMic. 10 spots, 5 minutes each. Plus 2 pre-booked headliners. *Gambit Brewing takes pride in being a place of respect for everyone, so please be respectful of the audience, staff, &amp; each other. This is a room for positive vibes only."
+},
+{
+        "name": "Mainstreet Open Mic",
+        "venue": "Mainstreet Bar &amp; Grill",
+        "url": "https://mainstreetbar.com/",
+        "booker": {
+            "name": "Ronny Sharts",
+            "url": "https://www.instagram.com/RonnyBrav0"
+        },
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": "8:00pm",
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"city": "Hopkins",
+	"status": "active",
+	"address": "814 Mainstreet Hopkins, MN 55343",
+        "notes": "Signup is online and a link will be posted on <a href=\"https://www.instagram.com/RonnyBrav0\" target=\"_blank\">Ronny&rsquo;s Instagram story</a> Monday morning and stay open for 24hrs.&nbsp;<br />The list will be posted on Tuesday around noon and you will be tagged if you are on it.<br/>DM Ronny if you are interested in helping with the show for a spot."
+},
+{
+
+    "name": "Stand-Up Saloon ( Weekly )",
+    "venue": "The Saloon",
+    "url" : "https://www.facebook.com/standupsaloon/",
+    "booker" : [{ 
+        "name": "Denzel Belin", 
+        "url":"https://www.facebook.com/fromwashington"
     },
     {
-
-	    "name": "Stand-Up Saloon ( Weekly )",
-	    "venue": "The Saloon",
-	    "url" : "https://www.facebook.com/standupsaloon/",
-	    "booker" : [{ 
-		    "name": "Denzel Belin", 
-		    "url":"https://www.facebook.com/fromwashington"
-	    },
-	    {
-		    "name": "Betty Bang", 
-		    "url":"https://www.facebook.com/dakota.lee.399"
-	    },
-	    {
-		    "name": "Shyloh Blake", 
-		    "url":"https://www.facebook.com/ShylohBlake"
-	    }],
-	    "days" : {
-		    "sunday": null,
-		    "monday": null,
-		    "tuesday": "8:30pm",
-		    "wednesday": null,
-		    "thursday": null,
-		    "friday": null,
-		    "saturday": null
-	    },
-	    "address": "830 Hennepin Ave, Minneapolis, MN 55403",
-	    "notes" : "Hosted by Denzel Belin, Betty Bang and Shyloh Blake. There will be 2 pre-booked feature spots (7-10 minutes) plus a comedy drag number each show. Sign up in person starts at 7:30, list will go up up about 8:15 and show starts at 8:30. Comics will get 3 minutes. Comics interested in a feature spot can email me at <a href=\"mailto:standupsaloon@gmail.com\" target=\"_blank\">standupsaloon@gmail.com</a>"
+        "name": "Betty Bang", 
+        "url":"https://www.facebook.com/dakota.lee.399"
     },
+    {
+        "name": "Shyloh Blake", 
+        "url":"https://www.facebook.com/ShylohBlake"
+    }],
+    "days" : {
+        "sunday": null,
+        "monday": null,
+        "tuesday": "8:30pm",
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null
+    },
+    "address": "830 Hennepin Ave, Minneapolis, MN 55403",
+    "notes" : "Hosted by Denzel Belin, Betty Bang and Shyloh Blake. There will be 2 pre-booked feature spots (7-10 minutes) plus a comedy drag number each show. Sign up in person starts at 7:30, list will go up up about 8:15 and show starts at 8:30. Comics will get 3 minutes. Comics interested in a feature spot can email me at <a href=\"mailto:standupsaloon@gmail.com\" target=\"_blank\">standupsaloon@gmail.com</a>"
+},
     {
         "name": "Comedy Open Mic",
         "venue": "Caddy Shack Indoor Golf & Pub",
@@ -501,7 +545,7 @@
 		    "saturday": null
 	    },
 	    "address": "2001 Lyndale Ave., Minneapolis, MN 55405",
-	    "notes": "Every Friday. Sign up at 6:00, show starts at 6:30pm.Last friday of each month is an improv jam open to all skill levels. Improvisers please check in at 6:00 if you want to jam. Come prepared with an understanding of what longform improv is, this is not an improv class."
+	    "notes": "Every Friday. Sign up at 6:00, show starts at 6:30pm. Show maybe preempted for special events, check Mortmer's website/social media for current upto date information."
     },
     {
         "name": "Friday Open Mic Night (Weekly)",
@@ -606,7 +650,7 @@
             "saturday": null
         }, 
 	"address": "490 Robert St. N., St. Paul, MN 55191",
-	"notes": "Sign up starts at 5:30pm. 20 comic cap. 3-5 min each. Show is from 6pm - 8pm. Email James at <a href=\"mailto:openmiclc@gmail.com\">openmiclc@gmail.com</a>. Parking is free in St.Paul on Sundays."
+	"notes": "Sign up starts at 5:00pm. 20 comic cap. 3-5 min each. Show is from 6pm - 8pm. Email James at <a href=\"mailto:openmiclc@gmail.com\">openmiclc@gmail.com</a>. Parking is free in St.Paul on Sundays."
     },
 {
         "name": "No Words: A Literary, Comedy & Variety Open Mic Night (Third Sunday of every month)",
