@@ -611,7 +611,7 @@
 	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m."
     },
     { 
-	    "name": "Stand Up Comedy Open Mic",
+	    "name": "The Most Dangerous Open Mic In America",
 	    "venue":"The Joint",
 	    "url": "https://www.facebook.com/TheJointBar/",
 	    "booker": {
@@ -627,10 +627,10 @@
 		    "wednesday": null,
 		    "thursday": null,
 		    "friday": null,
-		    "saturday": "8:00pm"
+		    "saturday": "7:00pm"
 	    },
 	    "address": "913 Cedar Ave S, Minneapolis, MN, United States, Minnesota",
-	    "notes": "Every Saturday. Sign up at 7:30pm, Show at 8:00pm. 21+."
+	    "notes": "Every Saturday. Sign up at 6:30pm, Show at 7:00pm. 21+."
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
@@ -640,6 +640,7 @@
             "name": "James Stanley",
             "url": null 
         },
+        "city": "St.Paul",
         "days": {
             "sunday": "6:00pm",
             "monday": null,
@@ -660,6 +661,7 @@
             "name": "Elliot Askari Rabe",
             "url": "https://www.instagram.com/nowordsopenmic/" 
         },
+        "city": "Minneapolis",
         "days": {
             "sunday": "5:30pm",
             "monday": null,
@@ -677,11 +679,12 @@
 	"venue":"Blarney's Pub & Grill Open Mic",
 	"url": "https://www.blarneypubmn.com/",
 	"booker": { 
-			"name": "Foz Huze",
-			"url":"https://www.facebook.com/profile.php?id=100080918794850"
+			"name": "Gretch En",
+			"url":"mailto:invasivecomedy@gmail.com"
 	},
+    "city": "Minneapolis",
 	"days" : {
-		"sunday": "8:00pm",
+		"sunday": "8:30pm",
 		"monday": null,
 		"tuesday": null,
 		"wednesday": null,
@@ -690,6 +693,6 @@
 		"saturday": null
 	},
 	"address": "412 14th Ave SE, Minneapolis, MN 55414", 
-	"notes": "Sign up at 7:00pm, show starts 8:00pm."
+	"notes": "Sign up from 8:00pm through the end of the mic."
     }
 ]
