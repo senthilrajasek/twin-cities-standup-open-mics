@@ -7,7 +7,7 @@
             "name": "Andy Brynildson",
             "url": "mailto:brynildson@gmail.com"
         },
-	"status": "active",
+        "status": "active",
         "days": {
             "sunday": null,
             "monday": "8:00pm",
@@ -662,6 +662,7 @@
             "url": "https://www.instagram.com/nowordsopenmic/" 
         },
         "city": "Minneapolis",
+        "status": "inactive",
         "days": {
             "sunday": "5:30pm",
             "monday": null,
