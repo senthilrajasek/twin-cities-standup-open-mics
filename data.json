@@ -33,6 +33,7 @@
             "friday": null,
             "saturday": null
         },
+	"status": "inactive",
 	"booker": {
 		"name": "John Stiffin",
 		"url": "https://www.facebook.com/john.stiffin"
@@ -460,8 +461,8 @@
         "venue": "Terminal Bar",
         "url": "http://www.theterminalbar409.com/",
         "booker": {
-            "name": "Corey Nelson",
-            "url": "https://www.facebook.com/corey.nelson.7399"
+            "name": "Andrew Himmer",
+            "url": "https://www.instagram.com/terminalcomedy/"
         },
 	"status": "active",
         "days": {
@@ -469,12 +470,12 @@
             "monday": null,
             "tuesday": null,
             "wednesday": null,
-            "thursday": "6:00pm",
+            "thursday": "7:00pm",
             "friday": null,
             "saturday": null
         },
 	"address": "409 E. Hennepin Ave., Minneapolis, MN 55414",
-        "notes": "Sign up starts at 6:00pm. Each comic get 5mins and the show goes from 6:00pm to 12:00am. "
+        "notes": "Show starts 7pm. Each comic get 5mins and the show goes from 7:00pm till list is done. Show Up/Sign Up and Go Up."
     },
     {
         "name": "Sisyphus Brewing Open Mic (Weekly)",
@@ -667,7 +668,7 @@
 	    "url": "https://www.facebook.com/TheJointBar/",
 	    "booker": {
 		    "name": "Trey Charles",
-		    "url": "https://www.facebook.com/william.stonebarger.7"
+		    "url": "https://www.facebook.com/profile.php?id=61555778686328"
 	    },
         "city": "Minneapolis",
         "status": "active",
