@@ -394,6 +394,27 @@
 	"notes": "Sign up in person between 6:00-7:00pm. Update: Next mic is on 05/15. Every 3rd Wednesday in the Summer and it will be every week again in October. Check https://www.instagram.com/nickeyk612/ for latest."
     },
     {
+        "name": "Wild Chick - Comedy Open Mic",
+        "venue": "326 Central Ave SE",
+        "url": "https://www.facebook.com/events/1169151087458853",
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "7:00pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"status": "active",
+	"booker": {
+		"name": "Frankie Runquist",
+		"url": "https://www.facebook.com/frankie.runquist"
+	},
+	"address": "4815 Excelsior Blvd, St Louis Park, MN 55416",
+        "notes": "Every 2nd & 4th Wednesday come enjoy live free comedy as comics of all experience levels perform. Sign up online the day of using <a href=\"https://docs.google.com/forms/d/e/1FAIpQLSe4K81XC4oyFsRpGvTTtk6i5V7ovvQGxz_qhaIBUQNWmtO1-w/viewform?fbclid=IwZXh0bgNhZW0CMTAAAR0N21FeQep_eGZmHpAX9QzVN_HYJnAcKcqFo-ohnObqQf-YTIFyS56nGB8_aem_peC_CjZ7vaG224m0ryzAUw\">sign up form</a>"
+    },
+    {
         "name": "Papa Legba's Lounge Comedy Workshop and Open Mic (Weekly)",
         "venue": "Papa Legba's Lounge- St.Paul",
         "url": "https://www.papalegbalounge.com/",
