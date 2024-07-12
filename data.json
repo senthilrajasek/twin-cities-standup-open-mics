@@ -726,7 +726,29 @@
 	"address": "490 Robert St. N., St. Paul, MN 55191",
 	"notes": "Sign up starts at 5:00pm. 20 comic cap. 3-5 min each. Show is from 6pm - 8pm. Email James at <a href=\"mailto:openmiclc@gmail.com\">openmiclc@gmail.com</a>. Parking is free in St.Paul on Sundays."
     },
-{
+    {
+        "name": "The Cardinal Bar Open Mic",
+        "venue": "The Cardinal",
+        "url": "https://www.cardinaltavern.com/",
+        "booker": {
+            "name": "Nicholas Kendall",
+            "url": "https://www.facebook.com/nicholas.kendall.9421"
+        },
+        "status": "active",
+        "city": "Minneapolis",
+        "days": {
+            "sunday": "7:00pm",
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        }, 
+	"address": "2920 E 38th St, MN 55406",
+	"notes": "Sign up starts at 6:00pm. Show is from 7pm - 9pm. DM booker for more information."
+    },
+    {
         "name": "No Words: A Literary, Comedy & Variety Open Mic Night (Third Sunday of every month)",
         "venue": "Black Forest Inn",
         "url": "http://www.blackforestinnmpls.com",
