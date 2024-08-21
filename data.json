@@ -46,6 +46,7 @@
         "name": "Uproar Open Mic",
         "venue": "Bryant Lake Bowl",
         "url": "https://www.instagram.com/uproar.minneapolis/",
+        "status": "active",
         "booker": [{
             "name": "Devohn Bland",
             "url": "https://www.facebook.com/devohn.filmmaker9.2"
@@ -231,7 +232,7 @@
         "notes": "Sign up 7pm, show starts 8pm. Step into the spotlight every Tuesday at 8pm for Morrissey's Irish Pub's Craic Up Open Mic Comedy Night! Whether you're a seasoned comic or just testing the waters, our stage is your canvas. Plus, those who dare to perform enjoy exclusive drink specials to keep the creativity flowing. Join us for a night of hilarity, camaraderie, and unforgettable moments."
 },
 {
-        "name": "Gambit Brewing Lowerton Open Mic",
+        "name": "Gambit Brewing Lowertown Open Mic",
         "venue": "Gambit Brewing",
         "url": "http://gambitbrewing.com",
         "booker": {
@@ -250,7 +251,7 @@
 	"city": "St.Paul",
 	"status": "active",
 	"address": "141 4th Street East, Suite LL2, St Paul, MN 55101",
-        "notes": "Sign-up online Tuesdays from 8am-noon, list posted at 1pm, all at Linktr.ee/GambitBrewingOpenMic. 10 spots, 5 minutes each. Plus 2 pre-booked headliners. *Gambit Brewing takes pride in being a place of respect for everyone, so please be respectful of the audience, staff, &amp; each other. This is a room for positive vibes only."
+        "notes": "Sign-up online all week at Linktr.ee/GambitBrewingOpenMic. List posts on Instagram (@gambitbrewingcomedyopenmic) and our FB group (Gambit Brewing Stand Up Comedy Open Mic Night) at 1:00pm Tuesdays. 10 spots, 5 minutes each from 7-8pm. Plus 2 pre-booked headliners from 7-8pm."
 },
 {
         "name": "Mainstreet Open Mic",
