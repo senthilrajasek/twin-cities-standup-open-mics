@@ -152,6 +152,33 @@
 	"notes": "Notes: Sign-up starts around 9:15pm and the performances begin around 9:30pm. People who click \"going\" on the weekly event invite get first sign-ups, IF they are present when the list opens. Each performer gets 7 minutes. Performances can be recorded and will be put up on the AQObserver YouTube channel. MC is Robert Cudinski, former host of the Artist's Quarter open mic.\"Poets, Musicians, Comics, Magicians, Fools and Sages welcome.\""
     },
     {
+        "name": "Comedy Nights at Acadia (Mondays)",
+        "venue": "Acadia Cafe",
+        "url": "https://www.acadiacafe.com",
+        "booker": [{
+            "name": "Carinda Rae Larson",
+            "url": "https://www.facebook.com/carinda.larson"
+        },
+        {
+            "name": "Lindsey Brown",
+            "url": "https://www.instagram.com/lindseybrown72/"
+        }
+        ],
+        "days": {
+            "sunday": null,
+            "monday": "7:30pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+        "city": "Minneapolis",
+        "status": "active",
+        "address": "329 Cedar Ave, Minneapolis, MN.",
+        "notes": "Sign up: 7PM, Show starts 7:30pm. Feature comics plus open mic slots. Hosted by Lindsey Brown and Carinda Rae Larson. Parking validation for performers."
+    },
+    {
         "name": "Triple Threat Tuesdays (Weekly)",
         "venue": "Rick Bronson's House of Comedy at the Mall Of America",
         "url": "https://moa.houseofcomedy.net/",
