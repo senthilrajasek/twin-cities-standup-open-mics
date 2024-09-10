@@ -339,6 +339,7 @@
 		"name": "Stephen Brandau",
 		"url": ""
 	},
+    "status": "inactive",
         "days": {
             "sunday": null,
             "monday": null,
@@ -398,6 +399,27 @@
         },
 	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
 	"notes": "Sign up 6:30-7:30pm at the venue."
+    },
+    {
+        "name": "7Below Comedy Open Mic",
+        "venue": "Zamboni's on 7th",
+        "url": "https://zambonison7th.com/",
+        "booker": {
+		"name": "Rachel Kennedy",
+		"url": "https://www.instagram.com/7below.comedyshow/"
+	},
+    "status": "active",
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": "8:00pm",
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"address": "174 7th St W, St Paul, MN 55102",
+	"notes": "Sign up at 7:30pm show at 8:00pm."
     },
     {
         "name": "Out Of Left Field",
