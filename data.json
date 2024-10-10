@@ -637,7 +637,7 @@
             }
         ],
         "city": "Minneapolis",
-        "status": "active",
+        "status": "inactive",
         "days": {
             "sunday": null,
             "monday": null,
