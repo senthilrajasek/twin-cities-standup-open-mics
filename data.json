@@ -247,7 +247,7 @@
         "days": {
             "sunday": null,
             "monday": null,
-            "tuesday": "8:00pm",
+            "tuesday": "7:00pm",
             "wednesday": null,
             "thursday": null,
             "friday": null,
@@ -256,7 +256,7 @@
 	"city": "Minneapolis",
 	"status": "active",
 	"address": "913 W Lake St, Minneapolis, MN 55408",
-        "notes": "Sign up 7pm, show starts 8pm. Step into the spotlight every Tuesday at 8pm for Morrissey's Irish Pub's Craic Up Open Mic Comedy Night! Whether you're a seasoned comic or just testing the waters, our stage is your canvas. Plus, those who dare to perform enjoy exclusive drink specials to keep the creativity flowing. Join us for a night of hilarity, camaraderie, and unforgettable moments."
+        "notes": "Sign up 6pm, show starts 7pm. Step into the spotlight every Tuesday at 8pm for Morrissey's Irish Pub's Craic Up Open Mic Comedy Night! Whether you're a seasoned comic or just testing the waters, our stage is your canvas. Plus, those who dare to perform enjoy exclusive drink specials to keep the creativity flowing. Join us for a night of hilarity, camaraderie, and unforgettable moments."
 },
 {
         "name": "Gambit Brewing Lowertown Open Mic",
