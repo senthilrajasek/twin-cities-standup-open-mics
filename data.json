@@ -179,7 +179,7 @@
         "notes": "Sign up: 7PM, Show starts 7:30pm. Feature comics plus open mic slots. Hosted by Lindsey Brown and Carinda Rae Larson. Parking validation for performers."
     },
     {
-        "name": "Triple Threat Tuesdays (Weekly)",
+        "name": "Comedy Free-For-All",
         "venue": "Rick Bronson's House of Comedy at the Mall Of America",
         "url": "https://moa.houseofcomedy.net/",
         "booker": {
@@ -189,14 +189,14 @@
         "days": {
             "sunday": null,
             "monday": null,
-            "tuesday": "7:30pm",
-            "wednesday": null,
+            "tuesday": null,
+            "wednesday": "7:30pm",
             "thursday": null,
             "friday": null,
             "saturday": null
         },
 	"address": "408 E Broadway, Bloomington, MN 55425",
-	"notes": "Pre-booked showcase, with three wildcard spots given out each week for people who didn't sign up ahead of time (see info on how to sign up for wildcards below). There is typically a 2-6 week waiting list for regular showcase spots depending on how many people have signed up ahead of time. Comics get five minutes of time. Email Mike Brody at <a href=\"mailto:brody@houseofcomedy.net\">brody@houseofcomedy.net</a> for spot. Tickets are $5, along with $5 appetizers and select $5 drinks. (There is a service fee with tickets that makes it actually come to $10, but if you get someone on your guest list they get in for free.) WILDCARD SPOTS: If you get to the HoC before 7:15 I will put your name on a list and draw three names. Those three people will get the 1st, 2nd and 3rd spot respectively, after the MC."
+	"notes": "Notes: Formerly Triple Threat Tuesday, now on Wednesdays. Show is free for the audience (with a required two-item minimum). Pre-booked showcase, with three wildcard spots given out each week for people who didn't sign up ahead of time (see info on how to sign up for wildcards below). There is typically a 2-6 week waiting list for regular showcase spots depending on how many people have signed up ahead of time. Comics get five minutes of time. Email Mike Brody at <a href=\"mailto:brody@houseofcomedy.net\">brody@houseofcomedy.net</a> for spot. Tickets are $5, along with $5 appetizers and select $5 drinks. (There is a service fee with tickets that makes it actually come to $10, but if you get someone on your guest list they get in for free.) WILDCARD SPOTS: If you get to the HoC before 7:15 I will put your name on a list and draw three names. Those three people will get the 1st, 2nd and 3rd spot respectively, after the MC."
     },
     {
         "name": "Acme Comedy Company ( Weekly)",
@@ -328,31 +328,32 @@
         "friday": null,
         "saturday": null
     },
+	"status": "inactive",
     "address": "830 Hennepin Ave, Minneapolis, MN 55403",
     "notes" : "Hosted by Denzel Belin, Betty Bang and Shyloh Blake. There will be 2 pre-booked feature spots (7-10 minutes) plus a comedy drag number each show. Sign up in person starts at 7:30, list will go up up about 8:15 and show starts at 8:30. Comics will get 3 minutes. Comics interested in a feature spot can email me at <a href=\"mailto:standupsaloon@gmail.com\" target=\"_blank\">standupsaloon@gmail.com</a>"
 },
-    {
-        "name": "Comedy Open Mic",
-        "venue": "Caddy Shack Indoor Golf & Pub",
-        "url": "https://oralemexicaneats.com/",
-        "booker": {
-		"name": "Stephen Brandau",
-		"url": ""
-	},
-    "status": "inactive",
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": "8:00pm",
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"address": "2023, W Superior st., Duluth, MN",
-	"city" : "Duluth",
-	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m."
+{
+    "name": "Comedy Open Mic",
+    "venue": "Caddy Shack Indoor Golf & Pub",
+    "url": "https://oralemexicaneats.com/",
+    "booker": {
+        "name": "Stephen Brandau",
+        "url": ""
     },
+    "status": "inactive",
+    "days": {
+        "sunday": null,
+        "monday": null,
+        "tuesday": "8:00pm",
+        "wednesday": null,
+        "thursday": null,
+        "friday": null,
+        "saturday": null
+    },
+    "address": "2023, W Superior st., Duluth, MN",
+    "city" : "Duluth",
+    "notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m."
+},
     {
         "name": "Comedy At The Crane (Weekly)",
         "venue": "Underground Music Cafe",
@@ -422,6 +423,27 @@
 	"notes": "Sign up at 7:30pm show at 8:00pm."
     },
     {
+        "name": "TWG Comedy Open Mic",
+        "venue": "The Warrior's Garden Hemp and Wellness",
+        "url": "https://www.warriorsgarden.org",
+        "booker": {
+		"name": "Nick Rahn",
+		"url": "https://www.facebook.com/share/14m6bkrx7D"
+	},
+    "status": "active",
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": "8:00pm",
+            "friday": null,
+            "saturday": null
+        },
+	"address": "282 6th St E, STE 102 Saint Paul, MN 55101",
+	"notes": "Sign up online <a href=\"https://www.warriorsgarden.org/twg-comedy.html\" target=\"_blank\">TWG Comedy</a>. Spread the word and bring your friends for a fun night of laughter."
+    },
+    {
         "name": "Out Of Left Field",
         "venue": "Fulton Taproom",
         "url": "https://www.fultonbeer.com/",
@@ -435,13 +457,13 @@
             "sunday": null,
             "monday": null,
             "tuesday": null,
-            "wednesday": "7:00pm",
+            "wednesday": null,
             "thursday": null,
             "friday": null,
-            "saturday": null
+            "saturday": "7:00pm"
         },
 	"address": "414 6th Ave N Minneapolis, MN 55401",
-	"notes": "Sign up in person between 6:00-7:00pm. Update: Next mic is on 05/15. Every 3rd Wednesday in the Summer and it will be every week again in October. Check https://www.instagram.com/nickeyk612/ for latest."
+	"notes": "Every 3rd Saturday of the month. Comics, sign up in person between 6:00-7:00pm and show is from 7:00-9:15pm. Check https://www.instagram.com/nickeyk612/ for latest."
     },
     {
         "name": "Wild Chick - Comedy Open Mic",
@@ -456,7 +478,7 @@
             "friday": null,
             "saturday": null
         },
-	"status": "active",
+	"status": "inactive",
 	"booker": {
 		"name": "Frankie Runquist",
 		"url": "https://www.facebook.com/frankie.runquist"
@@ -651,11 +673,11 @@
         "notes": "Weekly on Thursdays, starting May 16th. In-Person open mic sign up between 7-8pm. Show starts 8:30pm."
     },
     { 
-	    "name": "Get Up Stand Up Open Mic",
+	    "name": "Mortimer's Presents: Open Mind Comedy",
 	    "venue":"Mortimer's",
 	    "url": "https://www.mortimersbar.com/",
 	    "booker": {
-		    "name": "Sidney Oxborough",
+		    "name": "NEW SID",
 		    "url": "mailto:sidoxbo@gmail.com"
 	    },
 	    "days": {
@@ -734,11 +756,11 @@
 	"notes": "Sign up 7:15 to 7:45. Mic will be 8:00 to 10:00 p.m."
     },
     { 
-	    "name": "The Most Dangerous Open Mic In America",
+	    "name": "Comedy At The Joint",
 	    "venue":"The Joint",
 	    "url": "https://www.facebook.com/TheJointBar/",
 	    "booker": {
-		    "name": "Trey Charles",
+		    "name": "Joe Addict",
 		    "url": "https://www.facebook.com/profile.php?id=61555778686328"
 	    },
         "city": "Minneapolis",
