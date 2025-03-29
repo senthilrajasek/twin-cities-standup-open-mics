@@ -201,7 +201,7 @@
     {
         "name": "Acme Comedy Company ( Weekly)",
         "venue": "Acme Comedy Company",
-        "url": "http://acmecomedycompany.com/",
+        "url": "https://acmecomedycompany.com/",
         "days": {
             "sunday": null,
             "monday": null,
