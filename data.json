@@ -712,7 +712,29 @@
 	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
         "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays." 
     },
-{
+    {
+        "name": "The 10 Set",
+        "venue": "Station 10 Gatherings",
+        "url": "https://station10gatherings.com/",
+        "booker": {
+            "name": "Aron Woldeslassie",
+            "url": "https://instagram.com/the10set"
+        },
+        "city": "St.Paul",
+        "status": "active",
+        "days": {
+            "sunday": null,
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": "7:30pm",
+            "saturday": null
+        },
+	"address": "754 Randolph Avenue, Saint Paul, Minnesota 55102",
+        "notes": "Sign up at 7:00pm." 
+    },
+    {
         "name": "A Night of Stand Up Comedy (Weekly)",
         "venue": "Dual Citizen Brewing",
         "url": "https://dcbc.com/",
