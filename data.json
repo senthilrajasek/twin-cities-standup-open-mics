@@ -409,7 +409,8 @@
 		"name": "Rachel Kennedy",
 		"url": "https://www.instagram.com/7below.comedyshow/"
 	},
-    "status": "active",
+    "city": "St.Paul",
+    "status": "inactive",
         "days": {
             "sunday": null,
             "monday": null,
@@ -873,6 +874,7 @@
 			"url":"mailto:invasivecomedy@gmail.com"
 	},
     "city": "Minneapolis",
+    "status": "inactive",
 	"days" : {
 		"sunday": "8:30pm",
 		"monday": null,
