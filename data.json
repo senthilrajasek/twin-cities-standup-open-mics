@@ -442,7 +442,7 @@
             "saturday": null
         },
 	"address": "174 7th St W, St Paul, MN 55102",
-	"notes": "Sign up at 7:30pm show at 8:00pm."
+    "notes": "Sign up is <a href=\"https://docs.google.com/forms/d/1l3H99jfCVwSIr6K4hltoterLiV1rI2miMHLyHWueJbg/edit#responses\" target=\"_blank\">online here</a> but there is usually plenty of room on the list for an in person sign up"
     },
     {
         "name": "TWG Comedy Open Mic",
@@ -474,7 +474,7 @@
 		"url": "https://www.facebook.com/nicholas.kendall.9421"
 	},
 	"city": "Minneapolis",
-	"status": "active",
+	"status": "inactive",
         "days": {
             "sunday": null,
             "monday": null,
@@ -853,7 +853,7 @@
         "status": "active",
         "city": "Minneapolis",
         "days": {
-            "sunday": "7:00pm",
+            "sunday": "8:00pm",
             "monday": null,
             "tuesday": null,
             "wednesday": null,
@@ -862,7 +862,7 @@
             "saturday": null
         }, 
 	"address": "2920 E 38th St, MN 55406",
-	"notes": "Sign up starts at 6:00pm. Show is from 7pm - 9pm. DM booker for more information."
+    "notes": "Notes: Sign up 7-8. Everyone gets 5 minutes. There is a weekly local headliner and at the end of the month there are two feature comics with a headliner."
     },
     {
         "name": "No Words: A Literary, Comedy & Variety Open Mic Night (Third Sunday of every month)",
