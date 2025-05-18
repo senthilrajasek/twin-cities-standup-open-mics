@@ -174,9 +174,30 @@
             "saturday": null
         },
         "city": "Minneapolis",
-        "status": "active",
+        "status": "inactive",
         "address": "329 Cedar Ave, Minneapolis, MN.",
         "notes": "Sign up: 7PM, Show starts 7:30pm. Feature comics plus open mic slots. Hosted by Lindsey Brown and Carinda Rae Larson. Parking validation for performers."
+    },
+    {
+        "name": "Inbound Brew Co. Open Mic",
+        "venue": "Inbound Brew Co.",
+        "url": "https://natreum.com",
+        "days": {
+            "sunday": null,
+            "monday": "8:00pm",
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        },
+	"status": "active",
+	"booker": {
+		"name": "Rachel Silberman",
+		"url": "https://inboundbrew.co/open-mic-night-1"
+	},
+    "address": "701 N 5th St, Minneapolis, MN 55401",
+        "notes": "Notes: For anyone who wants to try out a new or old act! 15 minutes per act, we are dog friendly and keep it PG-13 or under. For more information and to see the dates/Mondays the open mic is on, go to: <a href=\"https://inboundbrew.co/open-mic-night-1\" target=\"_blank\"></a>"
     },
     {
         "name": "Comedy Free-For-All",
