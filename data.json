@@ -21,27 +21,6 @@
         "notes": "Doors at 7:30pm, show starts at 8pm. Cover charge of $6 at the door. Cash or Venmo accepted."
     },
     {
-        "name": "Laugh Smile Comedy Open Mic",
-        "venue": "Creator's Space (St.Paul)",
-        "url": "https://www.creatorsspace.com/",
-        "days": {
-            "sunday": null,
-            "monday": "7:00pm",
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"status": "inactive",
-	"booker": {
-		"name": "John Stiffin",
-		"url": "https://www.facebook.com/john.stiffin"
-	},
-	"address": "218 7th St E, St. Paul, MN 55101",
-        "notes": "If you wanna perform music bring a flash drive. Call 6126366554 to get in the door."
-    },
-    {
 
         "name": "Uproar Open Mic",
         "venue": "Bryant Lake Bowl",
@@ -841,6 +820,27 @@
         }, 
 	"address": "490 Robert St. N., St. Paul, MN 55191",
 	"notes": "Sign up starts at 5:00pm. 20 comic cap. 3-5 min each. Show is from 6pm - 8pm. Email James at <a href=\"mailto:openmiclc@gmail.com\">openmiclc@gmail.com</a>. Parking is free in St.Paul on Sundays."
+    },
+    {
+        "name": "New Words - A Literary, Comedy and Variety open mic night.",
+        "venue": "Black Forest Inn",
+        "url": "https://www.instagram.com/newwordsopenmic/",
+        "booker": {
+            "name": "New Words Open Mic",
+            "url": null 
+        },
+        "city": "Minneapolis",
+        "days": {
+            "sunday": "5:30pm",
+            "monday": null,
+            "tuesday": null,
+            "wednesday": null,
+            "thursday": null,
+            "friday": null,
+            "saturday": null
+        }, 
+	"address": "1 E 26th St, Minneapolis, MN 55404",
+	"notes": "DM newwordsopenmic on instagram or sign up after 5:00pm."
     },
     {
         "name": "The Cardinal Bar Open Mic",
