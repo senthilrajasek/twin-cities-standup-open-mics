@@ -722,7 +722,7 @@
             "url": "https://instagram.com/the10set"
         },
         "city": "St.Paul",
-        "status": "active",
+        "status": "inactive",
         "days": {
             "sunday": null,
             "monday": null,
@@ -822,7 +822,7 @@
 	"notes": "Sign up starts at 5:00pm. 20 comic cap. 3-5 min each. Show is from 6pm - 8pm. Email James at <a href=\"mailto:openmiclc@gmail.com\">openmiclc@gmail.com</a>. Parking is free in St.Paul on Sundays."
     },
     {
-        "name": "New Words - A Literary, Comedy and Variety open mic night.",
+        "name": "New Words - A Literary, Comedy and Variety open mic night. (Fourth Sunday of every month.)",
         "venue": "Black Forest Inn",
         "url": "https://www.instagram.com/newwordsopenmic/",
         "booker": {
@@ -863,28 +863,6 @@
         }, 
 	"address": "2920 E 38th St, MN 55406",
     "notes": "Notes: Sign up 7-8. Everyone gets 5 minutes. There is a weekly local headliner and at the end of the month there are two feature comics with a headliner."
-    },
-    {
-        "name": "No Words: A Literary, Comedy & Variety Open Mic Night (Fourth Sunday of every month)",
-        "venue": "Black Forest Inn",
-        "url": "http://www.blackforestinnmpls.com",
-        "booker": {
-            "name": "Elliot Askari Rabe",
-            "url": "https://www.instagram.com/nowordsopenmic/" 
-        },
-        "city": "Minneapolis",
-        "status": "inactive",
-        "days": {
-            "sunday": "5:30pm",
-            "monday": null,
-            "tuesday": null,
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        }, 
-	"address": "1 East 26th Street, Minneapolis MN 55404",
-	"notes": "Sign up list out at 5 pm, or DM instagram (@nowordsopenmic). to sign up in advance. Writers, comedians, musicians, magicians, and all other types of performers are welcome. 5 minutes per person."
     },
     {
 	"name": "Blarney's Pub & Grill Open Mic (Weekly)",
