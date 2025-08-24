@@ -389,7 +389,7 @@
 		"name": "Chris Maddock",
 		"url": "https://www.facebook.com/chris.maddock.75"
 	},
-	"status": "active",
+	"status": "inactive",
         "days": {
             "sunday": null,
             "monday": null,
@@ -702,6 +702,7 @@
             "name": "Bob Edwards",
             "url": null
         },
+        "status": "inactive",
         "days": {
             "sunday": null,
             "monday": null,
