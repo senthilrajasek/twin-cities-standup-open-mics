@@ -160,7 +160,7 @@
     {
         "name": "Inbound Brew Co. Open Mic",
         "venue": "Inbound Brew Co.",
-        "url": "https://natreum.com",
+        "url": "https://inboundbrew.co",
         "days": {
             "sunday": null,
             "monday": "8:00pm",
@@ -170,7 +170,7 @@
             "friday": null,
             "saturday": null
         },
-	"status": "active",
+	"status": "inactive",
 	"booker": {
 		"name": "Rachel Silberman",
 		"url": "https://inboundbrew.co/open-mic-night-1"
