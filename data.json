@@ -215,28 +215,6 @@
         "notes": "Notes: 6-7pm sign-up. Put a star by your name if it is your first time up. List comes out at 7:30pm."
     },
 {
-        "name": "Overflow Comedy Show (Weekly)",
-        "venue": "612 Brew",
-        "url": "https://612brew.com/",
-        "booker": {
-            "name": "Dan Juola",
-            "url": "https://www.facebook.com/danzorz"
-        },
-        "days": {
-            "sunday": null,
-            "monday": null,
-            "tuesday": "7:00pm",
-            "wednesday": null,
-            "thursday": null,
-            "friday": null,
-            "saturday": null
-        },
-	"city": "Minneapolis",
-	"status": "inactive",
-	"address": "945 Broadway St, NE Minnneapolis, MN 55413",
-        "notes": "Sign up 6:30, show starts 7:00pm."
-},
-{
         "name": "Craic Up Comedy Night (Weekly)",
         "venue": "Morissey's Irish Pub",
         "url": "https://morrisseysuptown.com/",
