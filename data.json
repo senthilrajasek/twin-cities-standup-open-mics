@@ -769,7 +769,7 @@
 		    "url": "https://www.facebook.com/profile.php?id=61555778686328"
 	    },
         "city": "Minneapolis",
-        "status": "active",
+        "status": "inactive",
 	    "days": {
 		    "sunday": null,
 		    "monday": null,
@@ -781,6 +781,28 @@
 	    },
 	    "address": "913 Cedar Ave S, Minneapolis, MN, United States, Minnesota",
 	    "notes": "Every Saturday. Sign up at 6:30pm, Show at 7:00pm. 21+."
+    },
+    { 
+        "name": "Showtime - Saturday Night Open Mic Comedy Show",
+        "venue": "Showtime Studio and Coffee",
+        "url": "https://www.showtimestudioandcoffee.com/",
+	    "booker": {
+            "name": "Jamil Jackson",
+		    "url": ""
+	    },
+        "city": "Roseville",
+        "status": "active",
+	    "days": {
+		    "sunday": null,
+		    "monday": null,
+		    "tuesday": null,
+		    "wednesday": null,
+		    "thursday": null,
+		    "friday": null,
+            "saturday": "7:00pm"
+	    },
+        "address": "2700 Lexington Ave N, Roseville MN 55113",
+        "notes": "First Saturday of the Month. Show up to sign up. Sign up starts at 6:45pm. Show starts 7pm. Free show, Free Admission."
     },
     {
         "name": "Camp Bar Open Mic (Weekly)",
