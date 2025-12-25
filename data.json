@@ -682,7 +682,7 @@
             "name": "Bob Edwards",
             "url": null
         },
-        "status": "inactive",
+        "status": "active",
         "days": {
             "sunday": null,
             "monday": null,
@@ -692,8 +692,9 @@
             "friday": "10:00pm",
             "saturday": null
         },
-	"address": "1501 S. Washington Ave., Minneapolis, MN 55454",
-        "notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays." 
+	"address": "400 E Hennepin Ave., Minneapolis, MN 55414",
+    "notes": "visit <a href=\"https://comedycornerunderground.com/\"> CCUG </a> website for updated sign up info",
+        "_comment_notes": "<a href=\"http://ccug.co/mic/\" target=\"_blank\">Online sign-up (click here)</a> starting noon on Fridays." 
     },
     {
         "name": "The 10 Set",
