@@ -30,11 +30,14 @@
             "name": "Devohn Bland",
             "url": "https://www.facebook.com/devohn.filmmaker9.2"
         },
-	{
-		"name": "Xochi de la Luna",
-		"url": "https://www.facebook.com/xochidelaluna"
-
-	}],
+        {
+            "name": "Comrade Tripp",
+            "url": "https://www.instagram.com/comradetripp/"
+        },
+        {
+            "name": "Madi RT",
+            "url": "https://www.instagram.com/madi.r.t/"
+        }],
         "days": {
             "sunday": null,
             "monday": "7:00pm",
@@ -361,7 +364,7 @@
     },
 {
         "name": "Ding Batz! Comedy Open Mic",
-        "venue": "The Comedy Corner Underground (Basement of The Corner Bar)- Minneapolis",
+        "venue": "The Comedy Corner Underground - Minneapolis",
         "url": "https://comedycornerunderground.com/",
         "booker": {
 		"name": "Chris Maddock",
@@ -676,7 +679,7 @@
     },
     {
         "name": "Friday Open Mic Night (Weekly)",
-        "venue": "The Comedy Corner Underground (Basement of The Corner Bar)- Minneapolis",
+        "venue": "The Comedy Corner Underground - Minneapolis",
         "url": "https://comedycornerunderground.com/",
         "booker": {
             "name": "Bob Edwards",
